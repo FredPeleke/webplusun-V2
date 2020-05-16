@@ -1,0 +1,114 @@
+{{ define "main" }}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{"<!-- bandeau header -->"| safeHTML}}
+{{ if $data.homepage.banner.enable }}
+{{ with $data.homepage.banner }}
+<section class="hero-area bg-cover bg-gradient-secondary">
+  <div class="container">
+    <div class="row align-items-center justify-content-between">
+      <div class="col-lg-6 pl-lg-0 text-center text-lg-left">
+        <h1 class="text-white position-relative" data-aos="fade-up" data-aos-delay="1000">{{ .title }}<span class="watermark">{{ .watermark }}</span></h1>
+        <p class="text-white pt-2 pb-3" data-aos="fade-up" data-aos-delay="1200">{{ .content | markdownify }}</p>
+        {{ if .button.enable }}
+        {{ with .button }}
+        <a href="{{ .link | absURL  }}" class="btn btn-primary" data-aos="fade-up" data-aos-delay="1400">{{ .label }}</a>
+        {{ end }}
+        {{ end }}
+      </div>
+      <div class="col-lg-5 pl-lg-0 pt-5 pt-lg-0 text-lg-right text-center">
+        <img src="{{ .image | absURL }}" class="img-fluid" alt="WebPlusUn, l'éco-conception en illustration" data-aos="zoom-in" data-aos-delay="1500">
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+{{"<!-- /bandeau header -->"| safeHTML}}
+
+{{"<!-- exemples -->" | safeHTML }}
+{{ if $data.homepage.exemples.enable }}
+{{ with $data.homepage.exemples }}
+<section class="bg-gradient-shadow py-4">
+  <div class="container">
+    <div class="row">
+      {{ range .exemples_item }}
+      <div class="col-md-12 mb-4 mb-md-0 text-center">
+        <!--p class="font-weight-light text-dark"><span class="counter" data-count="{{ .count }}">0</span>+</p-->
+        <i class="fa {{ .icon }} icon-lg icon-{{.icon_color}}"></i><span class="text-dark font-weight-normal">{{ .name }}</span>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+{{"<!-- /exemples -->" | safeHTML }}
+
+{{"<!-- compteur -->" | safeHTML }}
+{{ if $data.homepage.faits.enable }}
+{{ with $data.homepage.faits }}
+<section class="section py-5">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center text-white">
+        <p class="subtitle" data-aos="fade-up">{{ .subtitle }}</p>
+        <h2 class="section-title" data-aos="fade-up" data-aos-delay="200">{{ .title }}</h2>
+      </div>
+      {{ range .faits_item }}
+      <div class="col-md-3 col-sm-6 mb-4 mb-md-0 text-center bg-green shadow card py-3 border-0 rounded-sm">
+        <i class="fa {{ .icon }} icon-lg text-white"></i>
+        <p class="text-white font-weight-normal">{{ .name }}</p>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+{{"<!-- /compteur -->" | safeHTML }}
+
+{{"<!-- intros -->"| safeHTML}}
+{{ if $data.homepage.about.enable }}
+{{ range $i,$p := $data.homepage.about.about_item }}
+<section class="section pb-5">
+  <div class="container">
+    <div class="row align-items-center">
+      {{ if not (modBool $i 2)}}
+      <div class="col-lg-6 col-md-5 text-center text-md-left mb-4 mb-md-0">
+        <img src="{{ .image | absURL}}" class="img-fluid" alt="web éco-responsable WebPlusUn" data-aos="fade-right">
+      </div>
+      <div class="col-lg-6 col-md-7 text-center text-md-left">
+        <p class="subtitle" data-aos="fade-left">{{ .subtitle }}</p>
+        <h2 class="section-title" data-aos="fade-left" data-aos-delay="200">{{ .title }}</h2>
+        <p class="mb-4" data-aos="fade-left" data-aos-delay="300">{{ .content | markdownify }}</p>
+        {{ if .button.enable }}
+        {{ with .button }}
+        <a href="{{ .link | absLangURL }}" class="btn btn-outline-primary" data-aos="fade-left" data-aos-delay="500">{{ .label }}</a>
+        {{ end }}
+        {{ end }}
+      </div>
+      {{ else }}
+      <div class="col-lg-6 col-md-7 text-center text-md-left order-md-1 order-2">
+        <p class="subtitle" data-aos="fade-right">{{ .subtitle }}</p>
+        <h2 class="section-title" data-aos="fade-right" data-aos-delay="200">{{ .title }}</h2>
+        <p class="mb-4" data-aos="fade-right" data-aos-delay="300">{{ .content | markdownify }}</p>
+        {{ if .button.enable }}
+        {{ with .button }}
+        <a href="{{ .link | absLangURL }}" class="btn btn-outline-primary" data-aos="fade-right" data-aos-delay="500">{{ .label }}</a>
+        {{ end }}
+        {{ end }}
+      </div>
+      <div class="col-lg-6 col-md-5 text-center text-md-left order-1 order-md-2 mb-4 mb-md-0">
+        <img src="{{ .image | absURL}}" class="img-fluid" alt="optimisation sxo WebPlusUn" data-aos="fade-left">
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+{{"<!-- /intros -->"| safeHTML}}
+
+{{ end }}

@@ -1,0 +1,135 @@
+############################### exemples #############################
+exemples:
+  enable : true
+  exemples_item:
+    # funfact item loop
+    - name : "Par exemple, entre le code, les requêtes et les images, cette page ne pèse que 700Ko."
+      count : ""
+      icon : "fa-pagelines"
+      icon_color : "green"
+
+############################## Fred ###############################
+webplusun:
+  enable : true
+  image : "images/about/webplusun-clavier.jpg"
+  video_thumbnail : ""
+  video_link : ""
+  subtitle : ""
+  title : "L'éco-responsabilité est l'avenir du web"
+  content : "Nous sommes de plus en plus connectés. Smartphones, tablets et ordinateurs sont dans chaque foyer. Mais quel est leur impact sur notre environnement ?
+On pense souvent que le digital, c’est du virtuel, que ça permet de dématérialiser plein de paperasse, de photos, vidéos, films, etc. Oui mais en fait non. Parce que finalement il n’y a pas de virtuel sans matériel.
+Le but de WebPlusUn est de réagir sans culpabiliser, car l'outil web fait désormais partie de notre quotidien. Faisons en sorte de surfer sur un web plus sain pour optimiser les cycles de vie de chaque appareil.
+
+
+### L'éco-responsable au service du SXO
+
+  On réfléchie trop à son classement sur les moteurs de recherche au détriment de l’utilisateur direct. Pourtant l’un ne va pas sans l’autre. Le classement n’est pas l’aboutissement.
+Un site conçu en réfléchissant à faciliter le cheminement du visiteur vers des objectifs précis (KPI) tout en allégeant la charge de l'appareil utilisé, les flux réseaux et les serveurs distants, fera la différence.
+
+
+### WebPlusUn vous accompagne
+
+  Basé entre Pays basque et Landes, WebPlusUn propose un service en conception de sites éco-responsables, diagnostic de performances et optimisation SXO.
+
+
+  En relation directe avec de nombreuses entreprises de secteurs divers (décoration, immobilier, boutiques, e-commerce, alimentaire, surf, marketing, …) ayant une diffusion nationale et internationale, WebPlusUn mise sur la proximité et le contact avec ses clients."
+  button:
+    enable : true
+    label : "Un site éco-responsable vous intéresse ?"
+    link : "contact"
+
+############################## Fred ###############################
+fred:
+  enable : true
+  subtitle : "Une démarche éco-responsable…"
+  title : "pour un Web plus sain !"
+  content : "C'est à partir de ce simple jeu de mot *pour un Web plus sain* que le nom WebPlusUn m'est apparu évident. Complété par un logo *Web+1* facile à lire et voilà l'aspect visuel et cognitif de mon projet lancé.   
+  
+
+  Ancien journaliste-rédacteur spécialisé dans les sports alternatifs, je me suis rapidement intéressé au web pour diffuser mes écrits sur un site créé (en partie encodé) avec Netscape en 1998 : *Zone d'Impact*.  
+  
+
+  Très sportif depuis l'adolescence, je me déplaçais déjà beaucoup à vélo. Puis bodysurfer et bodyboarder, donc proche de l'océan, je me suis impliqué à travers des chroniques et articles sur la prévention écologique.
+
+  
+  Un site eCommerce co-monté en 2003 pour mon magasin de sports de glisse et me voici intéressé par l'indexation sur les moteurs de recherche --c'est à dire le SEO-- et le marketing orienté client --c'est à dire générer la curiosité, l'intérêt, la conversion et la fidélité de l'internaute.
+
+
+  À la fin de la décennie, je bouclais mon magasin et intégrais l'agence de communication d'[Iker Aguirre](https://www.ikeraguirre.com/). Cet expert en marketing, gestion d'entreprise et commerce international m'a beaucoup influencé. Avec lui, je me suis recentré sur l'optimisation des sites web.
+
+
+  C'est en 2011 que je crée WebPlusUn en indépendant pour conseiller de jeunes entreprises dans leurs démarches vers le web. Dès l'année suivante, j'y associais l'aspect environnemental.
+
+
+    "
+  button:
+    enable : false
+    label : "Un site éco-responsable vous intéresse ?"
+    link : "contact"
+
+############################## testimonial ###############################
+testimonial:
+  enable : true
+  subtitle : ""
+  title : "L'avenir vu par les penseurs :"
+  testimonial_item:
+    # testimonial item loop
+    - name : "Henri Bergson"
+      designation : "Philosophe"
+      content : L'avenir n'est pas ce qui va arriver mais ce que nous allons en faire.
+            
+    # testimonial item loop
+    - name : "Charles F. Kettering"
+      designation : "Inventeur, ingénieur, homme d'affaires"
+      content : Je m'intéresse à l'avenir parce que c'est là que je vais passer le reste de ma vie.
+            
+    # testimonial item loop
+    - name : "Neil Armstrong"
+      designation : "Astronaute"
+      content : C'est un petit pas pour l'Homme et un grand pas pour l'humanité.
+            
+    # testimonial item loop
+    - name : "Saint-Exupéry"
+      designation : "Aviateur, écrivain"
+      content : L'avenir, il ne s'agit pas de le prévoir, mais de le rendre possible.
+            
+    # testimonial item loop
+    - name : "Albert Einstein"
+      designation : "Astro-physicien"
+      content : Une nouvelle manière de penser est nécessaire si l'humanité veut survivre.
+
+    # testimonial item loop
+    - name : "Victor Hugo"
+      designation : "Écrivain"
+      content : C'est une triste chose de songer que la nature parle et que le genre humain ne l'écoute pas.
+
+          # testimonial item loop
+    - name : "Walt Disney"
+      designation : "Idéaliste, inventeur, homme d'affaires"
+      content : Pour réaliser quelque chose vraiment extraordinaire, commencez par la rêver. Ensuite, réveillez-vous calmement et allez d'un trait jusqu'au bout de votre rêve sans jamais vous laisser décourager.
+
+          # testimonial item loop
+    - name : "Jean Yann"
+      designation : "Comédien, écrivain"
+      content : Tout le monde veut sauver la planète mais personne veut descendre les poubelles.
+
+          # testimonial item loop
+    - name : "James Dean"
+      designation : "Acteur"
+      content : Puisqu'on ne peut changer la direction du vent, il faut apprendre à orienter les voiles.
+
+############################## Partners #################################
+partner:
+  enable : false
+  partner_logo:
+  - "images/partner/client-logo-1.png"
+  - "images/partner/client-logo-2.png"
+  - "images/partner/client-logo-3.png"
+  - "images/partner/client-logo-4.png"
+  - "images/partner/client-logo-5.png"
+
+
+########################### Service ################################
+service:
+  enable : false
+  # service item comes from "data/*/service.yml" file

@@ -1,0 +1,21 @@
+############################### exemples #############################
+exemples:
+  enable : true
+  exemples_item:
+    # funfact item loop
+    - name : "Par exemple, entre le code, les requêtes et les images, cette page ne pèse que 700Ko."
+      count : ""
+      icon : "fa-pagelines"
+      icon_color : "green"
+
+############################## construction ###############################
+webplusun:
+  enable: true
+  title: "L'exemple de WebPlusUn"
+  content: "J'ai construit ce site avec une approche de simplicité et de sobriété, et surtout dans l'idée de réduire mon empreinte environnementale de façon optimum. Ainsi, tout a été développé en local, c'est à dire directement et seulement sur mon ordinateur.
+
+Ce site est un CMS Headless, ce qui signifie qu'il est dépourvu d'un back-office comme celui de Wordpress. Pourtant sa gestion simplifiée est réduite à l'essentiel : les textes et images/photos des pages et articles.
+  - L'ossature du site est en HTML5 ;
+  - Les structurations, mises en couleurs et les animations sont créées en CSS3 ;
+  - Certaines fonctionnalités complexes sont écrites en Javascript ;
+  - L'organisation sont  en Go ;"

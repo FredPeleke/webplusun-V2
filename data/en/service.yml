@@ -1,0 +1,129 @@
+############################### exemples #############################
+exemples:
+  enable : true
+  exemples_item:
+    # funfact item loop
+    - name : "Par exemple, cette page n'a besoin que de 10 requêtes pour s'afficher dans sa totalité."
+      count : ""
+      icon : "fa-pagelines"
+      icon_color : "green"
+
+############################### service ##############################
+service:
+  enable : true
+  subtitle : "WebPlusUn c'est une réponse à vos attentes avec"
+  title : "une réflexion éco-responsable"
+  service_item:
+
+    - title : "Éco-responsable"
+      icon : "fa-globe"
+      icon_color : "green" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+      content : "L'impact environnemental de votre site web est réduit pour limiter votre empreinte et préserver la planète."
+
+    - title : "Sécurité accrue"
+      icon : "fa-diamond"
+      icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+      content : "Un site statique non fondé sur un système CMS garantit une sécurité contre le piratage."
+     
+    - title : "Rapidité"
+      icon : "fa-spinner"
+      icon_color : "purple" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+      content : "Le temps de chargement de votre site est un critère majeur pour vos visiteurs et votre qualité d'indexation."
+
+    - title : "Multi-écrans"
+      icon : "fa-mobile"
+      icon_color : "yellow" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+      content : "Votre site doit désormais être accessible sur un smartphone comme sur un ordinateur."
+
+    - title : "Facilité"
+      icon : "fa-sitemap"
+      icon_color : "orange" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+      content : "Une réflexion pour faciliter l'affichage et rendre la visite du site plus intuitive et pertinente."
+      
+    - title : "Sites statiques"
+      icon : "fa-code"
+      icon_color : "cyan" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+      content : "Un code simplifié et maîtrisé du trio HTML/CSS/JS en système Jamstack, tout est pensé avec vous."
+      
+    - title : "Wordpress"
+      icon : "fa-wordpress"
+      icon_color : "blue" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+      content : "Le CMS dynamique qui gère aujourd'hui 30% du marché mondial peut lui aussi être amélioré."
+
+    - title : "Designs tendances"
+      icon : "fa-heart"
+      icon_color : "red" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+      content : "Fonctionnel, Esthétique, Responsable : un FER de lance intuitif et incitatif pour vos visiteurs."
+
+    - title : "Outils de suivi"
+      icon : "fa-rocket"
+      icon_color : "yellow" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+      content : "Intégration de Google Analytics et Search Console pour vérifier et suivre la qualité de votre indexation."
+      
+    - title : "Traçages précis"
+      icon : "fa-area-chart"
+      icon_color : "purple" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+      content : "Configurations personnalisées de Google Tag Manager, Analytics, et d'autres outils spécifiques."
+      
+    - title : "Compte-rendu"
+      icon : "fa-file-pdf-o"
+      icon_color : "red" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+      content : "D'où arrivent vos visiteurs ? Qu'est-ce qui les attirent ? Qu'ont-ils fait sur le site ? etc."
+
+    - title : "Hébergeur"
+      icon : "fa-server"
+      icon_color : "green" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+      content : "Choisir le bon hébergeur et les bons serveurs, la qualité dernier-cri autant que l'éthique éco-responsable."
+  #On réfléchie trop à son classement sur les moteurs de recherche au détriment de l’utilisateur direct.#
+  #Fonctionnel, Esthétique, Responsable : notre FER de lance#
+
+############################### Features #####################################
+demarche:
+  enable : true
+  subtitle : "WebPlusUn c'est aussi vous aider dans votre"
+  title : "démarche d'amélioration"
+  demarche_item:
+    - title : "Support créateurs"
+      icon : "fa-tree"
+      icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+      content : "Concentrez-vous sur la croissance de votre entreprise, je m'occupe d'intégrer vos contenus."
+
+    - title : "Diagnostic de votre site"
+      icon : "fa-search-plus"
+      icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+      content : "C'est un peu un contrôle technique pour vérifier les qualités interne et externe de votre site."
+      
+    - title : "Un seul interlocuteur"
+      icon : "fa-handshake-o"
+      icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+      content : "Pas besoin d'intermédiaire dès lors qu'on parle le même langage pour définir vos objectifs."
+      
+    - title : "Maintenance Sauvegarde"
+      icon : "fa-whatsapp"
+      icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+      content : "Délestez-vous et soufflez ! WebPlusUn peut gérer les critères fonctionnels et vitaux de votre site."
+
+############################### cta #############################
+cta:
+  enable : false
+  cta_item:
+    # funfact item loop
+    - name : "Par exemple, entre le code, les requêtes et les images, cette page ne pèse que 700Ko."
+      count : ""
+      icon : "fa-pagelines"
+      icon_color : "green"
+
+cta:
+  enable: true
+  bg_Image: images/herbes-copie.jpg
+  title: Mettez de l'éthique dans votre site
+  content: Les internautes-consommateurs ont un large choix parmi vos concurrents
+    sur les mêmes biens et services, et accordent désormais plus d’importance à vos
+    valeurs qu’à vos produits ("fabriqué en France", "1% pour la planète", etc.).
+
+
+    Commercialement, la différence se fera en vous démarquant à travers une certaine éthique. Humainement, vous allez réduire votre impact environnemental.
+  button:
+    enable: true
+    label: Oui, mais à quel prix ?
+    link: "/tarifs"

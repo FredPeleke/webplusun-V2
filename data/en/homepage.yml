@@ -1,0 +1,140 @@
+############################### Banner #################################
+banner:
+  enable : true
+  bg_image : "images/background/herbes.jpg"
+  title : "Votre site internet éco-responsable"
+  watermark : "responsable"
+  content : "Remettre l'humain au centre de votre stratégie web et réduire l'impact environnemental de votre site, c'est possible !"
+  image : "images/banner/webplusun-site-eco-responsif.png"
+  button:
+    enable : false
+    label : "Surfez sur un web plus sain"
+    link : "#"
+
+############################### exemples #############################
+exemples:
+  enable : true
+  exemples_item:
+    # funfact item loop
+    - name : "Par exemple, l'affichage de cette page a généré 1,53g de CO2e en empreinte de Gaz à Effet de Serre (GES) contre 2,30g en moyenne."
+      icon : "fa-refresh"
+      icon_color : "green"
+
+############################### counter #############################
+faits:
+  enable : false
+  subtitle : "Ce dont il faut se rendre compte, c'est que"
+  title : "chaque jour, l'empreinte numérique :"
+  faits_item:
+    # funfact item loop
+    - name : "pollue autant que le trafic aérien mondial dans le même temps"
+      count : "7"
+      icon : "fa-plane"
+      
+    # funfact item loop
+    - name : "en regardant des vidéos par streaming et en HD"
+      count : "200"
+      icon : "fa-refresh"
+
+    # funfact item loop
+    - name : "3 fois plus que la France"
+      count : "25000"
+      icon : "fa-refresh"
+
+    # funfact item loop
+    - name : "car un Français moyen y passe 5h08 (chiffres début 2020)"
+      count : "80"
+      icon : "fa-users"
+
+############################### Features #####################################
+feature:
+  enable : false
+  subtitle : "Ce dont il faut se rendre compte, c'est que"
+  title : "chaque jour, Internet pollue :"
+  feature_item:
+    - title : "le trafic aérien"
+      icon : "fa-plane"
+      icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+      content : "Cette page s'est affichée en 2s sur mobile et 2,5s sur ordinateur car elle ne pèse que 700Ko."
+      
+    - title : "Optimisation"
+      icon : "fa-gears"
+      icon_color : "orange" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+      content : "30 requêtes."
+
+    - title : "Empreinte"
+      icon : "fa-recycle"
+      icon_color : "green" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+      content : "L'affichage de cette page a produit 1,53g de CO2e en empreinte de Gaz à Effet de Serre (GES) contre 2,30g en moyenne."
+
+##################################### About #############################
+about:
+  enable : true
+  about_item:
+    # about item loop
+
+        # about item loop
+    - image : "images/about/img-eco-responsable.jpg"
+      subtitle : "Vous voulez un site :"
+      title : "Éco-responsable"
+      content : "La conception idéale d'un site web ne se situe pas dans un formatage ou un protocole mais dans vos objectifs. C'est avant tout une démarche qui consiste à restreindre un 'trop plein d'informations' pour se recentrer sur l'essentiel : ce que cherche votre visiteur.
+  
+
+  L'objectif n'est pas que votre visiteur se balade sur votre site au risque de se perde mais qu'il y trouve des réponses à ce qu'il cherche. Les notions de *temps passé*, de *nombres de pages visitées* sont intéressantes mais pas primordiales.
+
+
+  Agir en éco-responsable, c'est aussi faire en sorte que le temps passé sur votre site --et sur l'internet en général-- soit rapide, donc pertinent.
+
+
+  Car un visiteur satisfait est plus susceptible de revenir sur votre site, de partager vos infos, d'acheter vos produits ou services, et finalement [devenir votre meilleur ambassadeur](https://webplusun.fr/blog/c-est-quoi-le-marketing-communautaire/)."
+      button:
+        enable : true
+        label : "Nos services"
+        link : "services"
+
+    - image : "images/about/img-sxo.jpg"
+      subtitle : "Vous avez un site :"
+      title : "Stratégie d'optimisation SXO"
+      content : "Avoir un site sur le web ne fait pas tout. Est-il accessible ? Est-il lisible ? Est-il bien indexé ? Autant de questions qui se posent afin de comprendre les comportements et améliorer les visites des internautes sur votre site.
+
+
+  SXO est la contraction de SEO -*optimisation pour les moteurs de recherche*, en anglais- et UX -*expérience utilisateur*, toujours en anglais. Cette indication pour rappeler que Google et consors restent des canaux d'aquisitions quand vos visiteurs sont, eux, humains.
+
+
+  Remettez l'humain au centre de votre stratégie car vos conversions seront toujours le reflet d'une action humaine."
+      button:
+        enable : true
+        label : "Nos références"
+        link : "references"
+
+
+############################ video ###############################
+promo_video:
+  enable : false
+  video_thumbnail : "images/check-video.png"
+  video_link : "https://www.youtube.com/watch?v=VufDd-QL1c0"
+  subtitle : "Check Video"
+  title : "Best Way to Chat Your Customers."
+  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi aliquip commodo consequat. duis aute.
+  
+
+  Reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident."
+
+############################## Download ###########################
+download:
+  enable : false
+  title : "Pourquoi opter pour l'éco-conception ?"
+  image : "images/download-mobile-img.jpg"
+  content : "Les internautes-consommateurs ont un large choix parmi vos concurrents sur les mêmes biens et services, et accordent désormais plus d’importance à vos valeurs qu’à vos produits (“fabriqué en France”, “1% pour la planète”, etc.). Commercialement, la différence se fera en vous démarquant à travers une certaine éthique. Humainement, vous allez réduire votre impact environnemental."
+  playstore:
+    label : "Mettez de l'éthique dans votre site"
+    link : "service"
+  appstore:
+    label : "app store"
+    link : "#"
+
+    
+############################## pricing ###########################
+pricing:
+  enable : false
+  # pricing item comes from "data/*/pricing.yml"

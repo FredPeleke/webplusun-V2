@@ -1,0 +1,42 @@
+{{ define "main" }}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{"<!-- exemples -->" | safeHTML }}
+{{ if $data.webplusun.exemples.enable }}
+{{ with $data.webplusun.exemples }}
+<section class="bg-gradient-shadow py-4">
+  <div class="container">
+    <div class="row">
+      {{ range .exemples_item }}
+      <div class="col-md-12 mb-4 mb-md-0 text-center">
+        <!--p class="font-weight-light text-dark"><span class="counter" data-count="{{ .count }}">0</span>+</p-->
+        <i class="fa {{ .icon }} icon-lg icon-{{.icon_color}}"></i><span class="text-dark font-weight-normal">{{ .name }}</span>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+{{"<!-- /exemples -->" | safeHTML }}
+
+{{"<!-- Webplusun -->" | safeHTML }}
+{{ if $data.mentions.construction.enable }}
+{{ with $data.mentions.construction }}
+<section class="section section-lg-bottom">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 align-self-center pl-lg-4">
+				<h2 class="section-title" data-aos="fade-up" data-aos-delay="200">{{ .title }}</h2>
+		        <p data-aos="fade-up" data-aos-delay="400">{{ .content | markdownify }}</p>
+	    	</div>
+		</div>
+	</div>
+</section>
+{{ end }}
+{{ end }}
+{{"<!-- Webplusun -->" | safeHTML }}
+
+
+{{ end }}

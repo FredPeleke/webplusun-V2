@@ -1,0 +1,36 @@
+{{ define "main" }}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+<!-- exemples -->
+<section class="bg-gradient-shadow py-4">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 mb-4 mb-md-0 text-center">
+        <i class="fa fa-pagelines icon-lg icon-green"></i>
+        <span class="text-dark font-weight-normal">Par exemple, cette page ne comporte aucune base de données, donc n'a pas besoin de requêtes pour s'afficher.</span>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /exemples -->
+
+{{"<!-- Webplusun -->" | safeHTML }}
+{{ if $data.mentions.mentions.enable }}
+{{ with $data.mentions.mentions }}
+<section class="section section-lg-bottom">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 align-self-center pl-lg-4">
+				<h2 class="section-title" data-aos="fade-up" data-aos-delay="200">{{ .title }}</h2>
+		        <p data-aos="fade-up" data-aos-delay="400">{{ .content | markdownify }}</p>
+	    	</div>
+		</div>
+	</div>
+</section>
+{{ end }}
+{{ end }}
+{{"<!-- Webplusun -->" | safeHTML }}
+
+
+{{ end }}

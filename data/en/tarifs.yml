@@ -1,0 +1,52 @@
+########################### Pricing #################################
+pricing:
+  enable : true
+  subtitle1 : "Comme dans tous services, les demandes se partagent en 3 motivations : Pas cher, Délai court, Performant."
+  subtitle2 : "Mais seulement 2 sont possibles au détriement du troisième :"
+  subtitle3 : "Performant + Pas cher ≠ Délai court  /  Performant + Délai court ≠ Pas cher  /  Pas cher + Délai court ≠ Performant"
+  subtitle4 : "Vous comprendrez ainsi les tarifs de WebPlusUn. Alors définissez bien votre projet ;-) "
+  title : "Nos formules"
+  pricing_table:
+    # pricing table loop
+    - title : "Création"
+      price : "€€€"
+      unit : "/ mois"
+      description : "Vous voulez ouvrir un site"
+      link : "#"
+      services:
+        - "Formule 'créateurs'"
+        - "Aide au projet"
+        - "Éco ou Wordpress"
+        - "Conception SXO"
+        - "Config. outils de suivi"
+        - "Maintenance"
+        
+    # pricing table loop
+    - title : "Existant"
+      price : "€€€€"
+      unit : ""
+      description : "Vous voulez améliorer un site"
+      link : "#"
+      services:
+        - "Diagnostic du site"
+        - "Refonte Éco ou Wordpress"
+        - "Optimisation SXO"
+        - "Config. outils de suivi"
+        - "Cohérence des KPI"
+        - "Maintenance"
+        
+    # pricing table loop
+    - title : "Consultant"
+      price : "€€-€€€"
+      unit : ""
+      description : "Vous cherchez des conseils"
+      link : "#"
+      services:
+        - "Diagnostic du site"
+        - "Définir ses KPI"
+        - "Choix des mots-clés"
+        - "Analyse de trafic"
+        - "Canaux d'acquisition"
+        - "Impact environnemental"
+        
+

@@ -1,0 +1,62 @@
+- id: career_subtitle
+  translation: Entre créations, optimisations, conseils, voici quelques travaux réalisés ces dernières années
+  
+- id: career_title
+  translation: Nos références
+
+- id: apply_now
+  translation: En détails
+
+- id: go_to
+  translation: Voir le site
+
+- id: job_details
+  translation: Détails
+
+- id: location
+  translation: Société située à
+
+- id: job_category
+  translation: Type de site
+
+- id: job_type
+  translation: Type de travaux
+
+- id: posted_date
+  translation: Réalisé en
+
+- id: keep_in_touch
+  translation: Où me trouver ?
+
+- id: form_subtitle
+  translation: Message
+
+- id: form_title
+  translation: Laisser un message
+
+- id: submit_now
+  translation: S'inscrire maintenant
+
+- id: quick_links
+  translation: Liens
+
+- id: contact_info
+  translation: Contact Infos
+
+- id: search
+  translation: Cherchez…
+
+- id: category
+  translation: … par catégories
+
+- id: latest_article
+  translation: … les derniers articles
+
+- id: tags
+  translation: … par étiquettes
+
+- id: subscribe_newsletter
+  translation: S'inscrire <br> à la newsletter
+
+- id: subscribe_now
+  translation: S'inscrire'

@@ -1,0 +1,103 @@
+{{ define "main" }}
+
+<!-- exemples -->
+<section class="bg-gradient-shadow py-4">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 mb-4 mb-md-0 text-center">
+        <i class="fa fa-pagelines icon-lg icon-green"></i>
+        <span class="text-dark font-weight-normal">Par exemple, cette page ne comporte aucune base de données, donc n'a pas besoin de requêtes pour s'afficher.</span>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /exemples -->
+
+<section class="section">
+  <div class="container">
+    <div class="row justify-content-between">
+      <!--div class="col-lg-7 rounded-xs mobile-height mb-5 mb-lg-0" id="map_canvas" data-latitude="{{.Site.Params.map.map_latitude }}" data-longitude="{{.Site.Params.map.map_longitude }}" data-marker="{{.Site.Params.map.map_marker | absURL }}"></div-->
+        
+      <div class="col-lg-4">
+        <div class="p-5 rounded-xs shadow">
+          <p class="h3 text-dark border-bottom mb-5 pb-4">{{ i18n "keep_in_touch" }}</p>
+          <ul class="list-unstyled">
+
+            {{ with .Site.Params.horaires }}
+            <li class="d-flex mb-4" data-aos="fade-up" data-aos-delay="100">
+              <i class="fa fa-clock-o icon-primary"></i>
+              <div class="pl-3">
+                <p class="h5 text-dark">Horaires</p>
+                <p class="text-secondary">{{ . | markdownify }}</p>
+              </div>
+            </li>
+            {{ end }}
+
+            {{ with .Site.Params.address }}
+            <li class="d-flex mb-4" data-aos="fade-up" data-aos-delay="100">
+              <i class="fa fa-map-o icon-primary"></i>
+              <div class="pl-3">
+                <p class="h5 text-dark">Adresse</p>
+                <a href="https://www.google.fr/maps/place/3+Rue+H%C3%A9l%C3%A8ne+Boucher,+40220+Tarnos/@43.5452948,-1.4941561,17z/data=!3m1!4b1!4m5!3m4!1s0xd51418f58c3efe5:0x6d395a72d608dc77!8m2!3d43.5452909!4d-1.4919674?hl=fr" rel="noopener nofollow" target="blank">{{ . | markdownify }}</a>
+              </div>
+            </li>
+            {{end }}
+
+            {{ with .Site.Params.email }}
+            <li class="d-flex mb-4" data-aos="fade-up" data-aos-delay="100">
+              <i class="fa fa-envelope-o icon-primary"></i>
+              <div class="pl-3">
+                <p class="h5 text-dark">Mel</p>
+                <p>{{ . | markdownify }}</p>
+              </div>
+            </li>
+            {{ end }}
+            
+            {{ with .Site.Params.mobile }}
+            <li class="d-flex mb-4" data-aos="fade-up" data-aos-delay="100">
+              <i class="fa fa-phone icon-primary"></i>
+              <div class="pl-3">
+                <p class="h5 text-dark">Mobile</p>
+                <a href="tel:{{ . | markdownify }}">{{ . | markdownify }}</a>
+              </div>
+            </li>
+            {{ end }}
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--section class="section section-lg-bottom bg-light">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <p class="subtitle">{{ i18n "form_subtitle" }}</p>
+        <h2 class="section-title">{{ i18n "form_title" }}</h2>
+      </div>
+      <div class="col-lg-12 text-center p-0">
+        <form action="{{ .Site.Params.contact_form_action }}" method="post" class="row">
+          <div class="col-lg-6">
+            <input type="text" class="form-control mb-4" placeholder="Your email">
+          </div>
+          <div class="col-lg-6">
+            <input type="text" class="form-control mb-4" placeholder="Your Name">
+          </div>
+          <div class="col-lg-12">
+            <input type="text" class="form-control mb-4" placeholder="Subject">
+          </div>
+          <div class="col-lg-12">
+            <textarea name="message" class="form-control mb-4" placeholder="Message"></textarea>
+          </div>
+          <div class="col-12">
+            <button type="submit" class="btn btn-primary">{{ i18n "submit_now"}}</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</section-->
+
+{{ end }}

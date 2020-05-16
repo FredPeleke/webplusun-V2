@@ -1,0 +1,60 @@
+{{"<!-- footer -->" | safeHTML }}
+<footer class="bg-secondary pt-3" itemscope="itemscope" itemtype="http://schema.org/WPfooter">
+  <section class="section border-bottom border-color">
+    <div class="container">
+      <div class="row justify-content-between">
+        <div class="col-md-5 mb-4 mb-md-0">
+          <a href="{{ .Site.BaseURL | relLangURL }}" itemscope itemtype="http://schema.org/Brand"><img src="{{ .Site.Params.logo | absURL }}" class="mb-4" alt="{{ .Site.Title }}"></a>
+          <p class="text-light mb-4">{{ .Site.Params.footer_content | markdownify }}</p>
+          <ul class="list-inline social-icons">
+            {{ range .Site.Params.social }}
+            <li class="list-inline-item"><a href="{{ .URL | safeURL }}"><i class="fa {{ .icon }}"></i></a></li>
+            {{ end }}
+          </ul>
+        </div>
+        <div class="col-md-3 col-sm-6">
+          <p class="h4 text-white mb-4">{{ i18n "quick_links" }}</p>
+          <ul class="list-styled list-hover-underline">
+            {{ range .Site.Menus.footer }}
+            <li class="mb-3 text-light"><a href="{{ .URL | relLangURL }}" class="text-light">{{ .Name }}</a></li>
+            {{ end }}
+          </ul>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-6" itemscope itemtype="http://schema.org/Organization">
+          <p class="h4 text-white mb-4">{{ i18n "contact_info"}}</p>
+          <ul class="list-unstyled" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+            <li class="mb-3 text-light">{{.Site.Params.horaires | safeHTML }}</li>
+            <li class="mb-3 text-light" itemprop="streetAddress">{{.Site.Params.address | safeHTML }}</li>
+            <li class="mb-3 text-light" itemprop="telephone">{{.Site.Params.mobile | safeHTML }}</li>
+            <li class="mb-3 text-light" itemprop="email">{{.Site.Params.email | safeHTML }}</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+  {{"  <!-- /footer -->" | safeHTML }}
+
+  {{"  <!-- copyright -->" | safeHTML }}
+  <section class="py-4 bg-gradient-secondary">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <p class="mb-0 text-light">{{ .Site.Params.copyright | markdownify }}</p>
+        </div>
+      </div>
+    </div>
+  </section>
+  {{"  <!-- /copyright -->" | safeHTML }}
+</footer>
+
+
+{{ "<!-- JS Plugins -->" | safeHTML }}
+{{ range .Site.Params.plugins.js}}
+<script src="{{ .link | absURL }}"></script>
+{{ end }}
+
+{{ "<!-- JS Script -->" | safeHTML }}
+{{ $script := resources.Get "js/script.js" | minify}}
+<script src="{{ $script.Permalink }}"></script>
+
+
