@@ -7,12 +7,11 @@ sections:
 - type: document
   path: content/pages/blog
   label: Blog
-  match: "**/*"
 - type: directory
   path: content/pages/blog
   label: Blog
   create: all
-  match: "*"
+  match: "**/*"
 - type: directory
   path: content
   label: Pages
