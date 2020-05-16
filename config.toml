@@ -1,5 +1,5 @@
 ############################# Default configuration ########################
-baseURL = ""
+baseURL = "https://gallant-kalam-bd46c8.netlify.app/"
 title = "WebPlusUn web éco-responsable"
 theme = "agico-hugo"
 # post pagination

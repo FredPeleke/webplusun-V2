@@ -18,4 +18,7 @@ Ce site est un CMS Headless, ce qui signifie qu'il est dépourvu d'un back-offic
   - L'ossature du site est en HTML5 ;
   - Les structurations, mises en couleurs et les animations sont créées en CSS3 ;
   - Certaines fonctionnalités complexes sont écrites en Javascript ;
-  - L'organisation sont  en Go ;"
+  - L'organisation est en Go ;
+  - La font principale est Verdana, une police libre et dans chaque ordinateur par défaut ;
+  - Le site est hébergé chez Infomaniak, un diffuseur certifié éco-responsable ;
+  - CDN"
