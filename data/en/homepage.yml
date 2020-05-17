@@ -16,7 +16,7 @@ exemples:
   enable : true
   exemples_item:
     # funfact item loop
-    - name : "Par exemple, l'affichage de cette page a généré 1,53g de CO2e en empreinte de Gaz à Effet de Serre (GES) contre 2,30g en moyenne."
+    - name : "Par exemple, l'affichage de cette page a généré 1,38g de CO2e en empreinte de Gaz à Effet de Serre (GES) contre 2,30g en moyenne."
       icon : "fa-refresh"
       icon_color : "green"
 

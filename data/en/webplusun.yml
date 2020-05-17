@@ -3,7 +3,7 @@ exemples:
   enable : true
   exemples_item:
     # funfact item loop
-    - name : "Par exemple, entre le code, les requêtes et les images, cette page ne pèse que 700Ko."
+    - name : "Par exemple, entre le code, les requêtes et les images, cette page ne pèse que 305Ko."
       count : ""
       icon : "fa-pagelines"
       icon_color : "green"

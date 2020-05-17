@@ -1,3 +1,13 @@
+############################### exemples #############################
+exemples:
+  enable : true
+  exemples_item:
+    # funfact item loop
+    - name : "Par exemple, cette page propose un confort de lecture qui vous amène à l'essentiel : l'information que vous cherchez qui est 'combien ça va me coûter ?'."
+      count : ""
+      icon : "fa-pagelines"
+      icon_color : "green"
+
 ########################### Pricing #################################
 pricing:
   enable : true
@@ -12,7 +22,7 @@ pricing:
       price : "€€€"
       unit : "/ mois"
       description : "Vous voulez ouvrir un site"
-      link : "#"
+      link : "contact"
       services:
         - "Formule 'créateurs'"
         - "Aide au projet"
@@ -26,7 +36,7 @@ pricing:
       price : "€€€€"
       unit : ""
       description : "Vous voulez améliorer un site"
-      link : "#"
+      link : "contact"
       services:
         - "Diagnostic du site"
         - "Refonte Éco ou Wordpress"
@@ -40,7 +50,7 @@ pricing:
       price : "€€-€€€"
       unit : ""
       description : "Vous cherchez des conseils"
-      link : "#"
+      link : "contact"
       services:
         - "Diagnostic du site"
         - "Définir ses KPI"

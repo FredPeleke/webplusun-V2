@@ -3,7 +3,7 @@ exemples:
   enable : true
   exemples_item:
     # funfact item loop
-    - name : "Par exemple, cette page n'a besoin que de 10 requêtes pour s'afficher dans sa totalité."
+    - name : "Par exemple, cette page n'a besoin que de 22 requêtes pour s'afficher dans sa totalité."
       count : ""
       icon : "fa-pagelines"
       icon_color : "green"
