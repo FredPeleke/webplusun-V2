@@ -43,8 +43,6 @@ link = "plugins/search/mark.js"
 link = "plugins/search/search.js"
 [[params.plugins.js]]
 link = "plugins/aos/aos.js"
-[[params.plugins.js]]
-link = "plugins/cookies/cookies.js"
 
 
   

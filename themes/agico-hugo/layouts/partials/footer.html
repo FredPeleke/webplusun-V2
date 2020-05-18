@@ -52,7 +52,9 @@
 {{ range .Site.Params.plugins.js}}
 <script src="{{ .link | absURL }}"></script>
 {{ end }}
-
+<!-- Cookies -->
+<script src="./plugins/cookies/cookies.js"></script><script>document.addEventListener('DOMContentLoaded', function(event){cookieChoices.showCookieConsentBar('Ce site utilise des cookies pour vous proposer le meilleur service possible, notamment un affichage plus rapide lors de votre prochaine visite, et pour moi une analyse plus complète du parcours de tous les visiteurs sur mes pages.', 'J’accepte', 'En savoir plus', './mentions-legales/');});</script>
+<!-- /Cookies -->
 {{ "<!-- JS Script -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify}}
 <script src="{{ $script.Permalink }}"></script>
