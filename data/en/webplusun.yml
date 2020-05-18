@@ -5,7 +5,7 @@ exemples:
     # funfact item loop
     - name : "Par exemple, entre le code, les requêtes et les images, cette page ne pèse que 305Ko."
       count : ""
-      icon : "fa-pagelines"
+      icon : "fa-spinner"
       icon_color : "green"
 
 ############################## Fred ###############################
@@ -35,7 +35,7 @@ Un site conçu en réfléchissant à faciliter le cheminement du visiteur vers d
   En relation directe avec de nombreuses entreprises de secteurs divers (décoration, immobilier, boutiques, e-commerce, alimentaire, surf, marketing, …) ayant une diffusion nationale et internationale, WebPlusUn mise sur la proximité et le contact avec ses clients."
   button:
     enable : true
-    label : "Un site éco-responsable vous intéresse ?"
+    label : "L'exemple de WebPlusUn"
     link : "contact"
 
 ############################## Fred ###############################

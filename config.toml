@@ -34,8 +34,6 @@ link = "plugins/slick/slick.min.js"
 [[params.plugins.js]]
 link = "plugins/venobox/venobox.min.js"
 [[params.plugins.js]]
-link = "plugins/google-map/gmap.js"
-[[params.plugins.js]]
 link = "plugins/search/fuse.min.js"
 [[params.plugins.js]]
 link = "plugins/search/mark.js"

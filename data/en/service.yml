@@ -5,7 +5,7 @@ exemples:
     # funfact item loop
     - name : "Par exemple, cette page n'a besoin que de 22 requêtes pour s'afficher dans sa totalité."
       count : ""
-      icon : "fa-pagelines"
+      icon : "fa-cogs"
       icon_color : "green"
 
 ############################### service ##############################

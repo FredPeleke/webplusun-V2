@@ -5,7 +5,7 @@ exemples:
     # funfact item loop
     - name : "Par exemple, cette page propose un confort de lecture qui vous amène à l'essentiel : l'information que vous cherchez qui est 'combien ça va me coûter ?'."
       count : ""
-      icon : "fa-pagelines"
+      icon : "fa-coffee"
       icon_color : "green"
 
 ########################### Pricing #################################
