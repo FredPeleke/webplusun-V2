@@ -74,8 +74,6 @@ service:
       icon : "fa-server"
       icon_color : "green" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
       content : "Choisir le bon hébergeur et les bons serveurs, la qualité dernier-cri autant que l'éthique éco-responsable."
-  #On réfléchie trop à son classement sur les moteurs de recherche au détriment de l’utilisateur direct.#
-  #Fonctionnel, Esthétique, Responsable : notre FER de lance#
 
 ############################### Features #####################################
 demarche:
@@ -105,15 +103,6 @@ demarche:
 
 ############################### cta #############################
 cta:
-  enable : false
-  cta_item:
-    # funfact item loop
-    - name : "Par exemple, entre le code, les requêtes et les images, cette page ne pèse que 700Ko."
-      count : ""
-      icon : "fa-pagelines"
-      icon_color : "green"
-
-cta:
   enable: true
   bg_Image: "images/herbes-copie.webp"
   title: "Mettez de l'éthique dans votre site"
@@ -121,7 +110,7 @@ cta:
 
 
     Commercialement, la différence se fera en vous démarquant à travers une certaine éthique.
-    
+
 
     Humainement, vous allez réduire votre impact environnemental."
   button:
