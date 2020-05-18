@@ -115,15 +115,15 @@ cta:
 
 cta:
   enable: true
-  bg_Image: images/herbes-copie.jpg
-  title: Mettez de l'éthique dans votre site
-  content: Les internautes-consommateurs ont un large choix parmi vos concurrents
+  bg_Image: "images/herbes-copie.webp"
+  title: "Mettez de l'éthique dans votre site"
+  content: "Les internautes-consommateurs ont un large choix parmi vos concurrents
     sur les mêmes biens et services, et accordent désormais plus d’importance à vos
     valeurs qu’à vos produits ("fabriqué en France", "1% pour la planète", etc.).
 
 
-    Commercialement, la différence se fera en vous démarquant à travers une certaine éthique. Humainement, vous allez réduire votre impact environnemental.
+    Commercialement, la différence se fera en vous démarquant à travers une certaine éthique. Humainement, vous allez réduire votre impact environnemental.""
   button:
     enable: true
-    label: Oui, mais à quel prix ?
+    label: "Oui, mais à quel prix ?"
     link: "/tarifs"

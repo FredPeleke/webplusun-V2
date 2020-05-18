@@ -96,7 +96,7 @@ weight = 5
 
 ########################### Default parameters ###########################
 [params]
-logo = "images/web-plus-un-logo.png"
+logo = "images/web-plus-un-logo.webp"
 # Meta data
 description = "WebPlusUn propose un service en éco-conception de site, diagnostics de performances et optimisations SXO sur la France entière."
 author = "WebPlusUn"

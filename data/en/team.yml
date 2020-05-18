@@ -5,7 +5,7 @@ team:
   team_member:
     # team member
     - name : "Fred Maget"
-      image : "images/team/Fred-Maget-WebPlusUn.jpg"
+      image : "images/team/Fred-Maget-WebPlusUn.webp"
       designation : "Votre consultant"
       social:
         - icon : "fa-facebook"

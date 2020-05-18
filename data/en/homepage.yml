@@ -1,7 +1,7 @@
 ############################### Banner #################################
 banner:
   enable : true
-  bg_image : "images/background/herbes.jpg"
+  bg_image : ""
   title : "Votre site internet éco-responsable"
   watermark : "responsable"
   content : "Remettre l'humain au centre de votre stratégie web et réduire l'impact environnemental de votre site, c'est possible !"
@@ -74,7 +74,7 @@ about:
     # about item loop
 
         # about item loop
-    - image : "images/about/img-eco-responsable.jpg"
+    - image : "images/about/img-eco-responsable.webp"
       subtitle : "Vous voulez un site :"
       title : "Éco-responsable"
       content : "La conception idéale d'un site web ne se situe pas dans un formatage ou un protocole mais dans vos objectifs. C'est avant tout une démarche qui consiste à restreindre un 'trop plein d'informations' pour se recentrer sur l'essentiel : ce que cherche votre visiteur.
@@ -92,7 +92,7 @@ about:
         label : "Nos services"
         link : "services"
 
-    - image : "images/about/img-sxo.jpg"
+    - image : "images/about/img-sxo.webp"
       subtitle : "Vous avez un site :"
       title : "Stratégie d'optimisation SXO"
       content : "Avoir un site sur le web ne fait pas tout. Est-il accessible ? Est-il lisible ? Est-il bien indexé ? Autant de questions qui se posent afin de comprendre les comportements et améliorer les visites des internautes sur votre site.
