@@ -113,7 +113,7 @@ google_analytics_id = "Your ID"
 # Preloader
 [params.preloader]
 enable = true
-preloader = "images/web-plus-un-logo.png"
+preloader = "images/web-plus-un-logo.webp"
 
 # Navigation button
 [params.navigation_button]
