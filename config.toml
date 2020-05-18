@@ -1,5 +1,5 @@
 ############################# Default configuration ########################
-baseURL = "https://dev-webplusun.netlify.app/"
+baseURL = "https://webplusun.fr/"
 title = "WebPlusUn web éco-responsable"
 theme = "agico-hugo"
 # post pagination
