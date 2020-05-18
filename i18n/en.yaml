@@ -29,13 +29,13 @@
   translation: Où me trouver ?
 
 - id: form_subtitle
-  translation: Message
+  translation: Une question vous taraude
 
 - id: form_title
-  translation: Laisser un message
+  translation: Laissez-moi un message
 
 - id: submit_now
-  translation: S'inscrire maintenant
+  translation: J'envoie
 
 - id: quick_links
   translation: Liens
