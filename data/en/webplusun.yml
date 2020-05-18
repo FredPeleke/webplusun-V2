@@ -11,7 +11,7 @@ exemples:
 ############################## Fred ###############################
 webplusun:
   enable : true
-  image : "images/about/webplusun-clavier.jpg"
+  image : "images/about/webplusun-clavier.webp"
   video_thumbnail : ""
   video_link : ""
   subtitle : ""
