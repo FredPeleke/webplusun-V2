@@ -5,7 +5,7 @@ banner:
   title : "Votre site internet éco-responsable"
   watermark : "éco responsable"
   content : "Remettre l'humain au centre de votre stratégie web et réduire l'impact environnemental de votre site, c'est possible !"
-  image : "images/banner/webplusun-site-eco-responsif.png"
+  image : "images/banner/webplusun-site-eco-responsif.webp"
   button:
     enable : false
     label : "Surfez sur un web plus sain"
