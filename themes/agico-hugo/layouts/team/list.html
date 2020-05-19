@@ -23,7 +23,7 @@
             <p class="team-member-designation text-light">{{ .designation }}</p>
             <ul class="list-inline team-member-social">
               {{ range .social }}
-              <li class="list-inline-item"><a href="{{.link | safeURL }}" class="p-2"><i class="fa {{ .icon }} text-white"></i></a></li>
+              <li class="list-inline-item"><a href="{{.link | safeURL }}" class="p-2" rel="noopener nofollow" target="_blank"><i class="fa {{ .icon }} text-white"></i></a></li>
               {{ end }}
             </ul>
           </div>
