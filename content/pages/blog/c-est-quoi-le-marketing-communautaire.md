@@ -1,6 +1,6 @@
 ---
 title: "C'est quoi le Marketing communautaire ?"
-date: 2019-04-10T09:51:57+06:00
+date: 2011-11-10T09:51:57+06:00
 # watermark text
 watermark: "Marketing"
 # page header background image
@@ -23,5 +23,5 @@ Grâce au Web, nous naviguons dorénavant dans un contexte de communication en r
 
 ## Une communication en réseau
 
-« *Conversations, mises en relation, confiance et entraide sont les valeurs fondatrices de ces plateformes*, convient Tara Hunt, auteur de The Whuffie Factor, dans une interview sur wordpress.com, *et les recommandations entre amis et gens se ressemblant par leurs profils prend de l’ampleur. […] L’aspect marketing viendra naturellement s’intercaler dans ce processus car, dans les communautés, les membres aiment à débattre de leur vie quotidienne, et ils recherchent également des conseils d’achat de la part de leur cercle rapproché d’amis en lesquels ils ont confiance.* » Il est donc prépondérant d’effectuer un travail de veille au quotidien, et de répertorier les leaders d’opinions.
+« *Conversations, mises en relation, confiance et entraide sont les valeurs fondatrices de ces plateformes*, convient Tara Hunt, auteur de The Whuffie Factor, *et les recommandations entre amis et gens se ressemblant par leurs profils prend de l’ampleur. […] L’aspect marketing viendra naturellement s’intercaler dans ce processus car, dans les communautés, les membres aiment à débattre de leur vie quotidienne, et ils recherchent également des conseils d’achat de la part de leur cercle rapproché d’amis en lesquels ils ont confiance.* » Il est donc prépondérant d’effectuer un travail de veille au quotidien, et de répertorier les leaders d’opinions.
 

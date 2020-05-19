@@ -1,6 +1,6 @@
 ---
 title: "Marketing viral, une solution Internet ?"
-date: 2019-04-10T09:51:57+06:00
+date: 2012-04-14T09:51:57+06:00
 # watermark text
 watermark: "Marketing"
 # page header background image
