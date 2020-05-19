@@ -11,7 +11,8 @@
 
   {{ "<!-- plugins -->" | safeHTML }}
   {{ range .Site.Params.plugins.css }}
-  <link rel="stylesheet" href="{{ .link | absURL }}" async>
+  <link rel="stylesheet" href="{{ .link | absURL }}" rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="{{ .link | absURL }}"></noscript>
   {{ end }}
 
   {{ "<!-- Stylesheet -->" | safeHTML }}
