@@ -96,7 +96,7 @@ weight = 5
 
 ########################### Default parameters ###########################
 [params]
-logo = "images/web-plus-un-logo.webp"
+logo = "images/web-plus-un-logo.png"
 # Meta data
 description = "WebPlusUn propose un service en éco-conception de site, diagnostics de performances et optimisations SXO sur la France entière."
 author = "WebPlusUn"
@@ -113,7 +113,7 @@ google_analytics_id = "Your ID"
 # Preloader
 [params.preloader]
 enable = true
-preloader = "images/web-plus-un-logo.webp"
+preloader = "images/web-plus-un-logo.png"
 
 # Navigation button
 [params.navigation_button]
