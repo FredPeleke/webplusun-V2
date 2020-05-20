@@ -13,8 +13,43 @@
   <priority>1.00</priority>
 </url>
 <url>
+  <loc>https://webplusun.fr/webplusun/</loc>
+  <lastmod>2020-05-19T10:50:57+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://webplusun.fr/service/</loc>
+  <lastmod>2020-05-19T10:50:57+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://webplusun.fr/references/</loc>
+  <lastmod>2020-05-19T10:50:57+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://webplusun.fr/contact/</loc>
+  <lastmod>2020-05-19T10:50:57+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://webplusun.fr/tarifs/</loc>
+  <lastmod>2020-05-19T10:50:57+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://webplusun.fr/mentions-legales/</loc>
+  <lastmod>2020-05-19T10:50:57+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://webplusun.fr/blog/</loc>
+  <lastmod>2020-05-19T10:50:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://webplusun.fr/blog/marketing-viral-une-solution-internet/</loc>
-  <lastmod>2020-03-12T10:50:57+00:00</lastmod>
+  <lastmod>2012-04-14T10:50:57+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -28,25 +63,8 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://webplusun.fr/blog/</loc>
+  <loc>https://webplusun.fr/blog/qu-est-ce-que-l-optimisation-seo/</loc>
   <lastmod>2020-03-12T10:50:57+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-<url>
-  <loc>https://webplusun.fr/mentions-legales/</loc>
-  <lastmod>2020-03-12T10:50:57+00:00</lastmod>
-  <priority>0.50</priority>
-</url>
-<url>
-  <loc>https://webplusun.fr/blog/qu-est-ce-que-l-optimisation-seo/</loc>
-  <lastmod>2020-03-12T10:50:57+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://webplusun.fr/mentions-legales/mentions-legales/</loc>
-  <lastmod>2020-03-12T10:50:57+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
 </urlset>
