@@ -25,3 +25,5 @@ Comme la roue et le feu, le numérique doit être un outil au service de l'human
 Par des mots simples, des chiffres, des faits, l'auteur nous fait prendre conscience de l'état actuel de notre société '*littéralement hypnotisée par sa découverte*' qu'est le numérique.
 
 Par des mots tout aussi simples, il nous montre ce que chacun de nous peut faire pour, non pas changer les choses, mais les améliorer avec du bon sens. '*Nous ne devons pas nous laisser dominer par cette invention, mais plutôt en tirer le meilleur*'.
+
+[Sobriété numérique, les clés pour agir](https://www.greenit.fr/2019/09/10/sobriete-numerique-les-cles-pour-agir/) est édité chez Buchet-Chastel et est vendu 18€.
