@@ -90,7 +90,7 @@ about:
       button:
         enable : true
         label : "Nos services"
-        link : "services"
+        link : "service"
 
     - image : "images/about/img-sxo.jpg"
       subtitle : "Vous avez un site :"
