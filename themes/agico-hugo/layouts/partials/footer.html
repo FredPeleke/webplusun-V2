@@ -53,7 +53,7 @@
 <script src="{{ .link | absURL }}"></script>
 {{ end }}
 <!-- Cookies -->
-<script src="./plugins/cookiechoices/cookiechoices.js"></script><script>document.addEventListener('DOMContentLoaded', function(event){cookieChoices.showCookieConsentBar('Ce site utilise des cookies pour vous proposer le meilleur service possible, notamment un affichage plus rapide lors de votre prochaine visite car votre passage reste en mémoire, et pour moi une analyse plus complète du parcours de tous les visiteurs sur mes pages.', 'J’accepte', 'En savoir plus', './mentions-legales/');});</script>
+<script src="../plugins/cookiechoices/cookiechoices.js"></script><script>document.addEventListener('DOMContentLoaded', function(event){cookieChoices.showCookieConsentBar('Ce site utilise des cookies pour vous proposer le meilleur service possible, notamment un affichage plus rapide lors de votre prochaine visite car votre passage reste en mémoire, et pour moi une analyse plus complète du parcours de tous les visiteurs sur mes pages.', 'J’accepte', 'En savoir plus', './mentions-legales/');});</script>
 <!-- /Cookies -->
 {{ "<!-- JS Script -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify}}
