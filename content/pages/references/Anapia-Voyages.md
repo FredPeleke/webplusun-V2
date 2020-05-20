@@ -18,7 +18,7 @@ job_type : "Optimisation"
 # section
 job_category : "Voyages"
 # job apply link
-apply_link : "https://anapia-voyages.fr"
+apply_link : "https://anapiavoyages.fr"
 ---
 
 
