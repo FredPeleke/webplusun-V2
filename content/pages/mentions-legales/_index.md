@@ -1,9 +1,9 @@
 ---
 title: "Mentions légales"
 # watermark text
-watermark: "Mentions légales"
+watermark: "Mentions"
 # page header background image
 bg_image: ""
 # meta description
-description : "WebPlusUn propose un service de conception de sites éco-responsables et de stratégie d'optimisation SXO."
+description : "WebPlusUn met ici en avant les textes de lois vous protégeant dans votre visite du site, et ma propriété intellectuelle."
 ---
