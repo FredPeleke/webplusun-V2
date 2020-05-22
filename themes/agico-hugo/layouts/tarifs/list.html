@@ -5,7 +5,7 @@
 {{"<!-- exemples -->" | safeHTML }}
 {{ if $data.tarifs.exemples.enable }}
 {{ with $data.tarifs.exemples }}
-<section class="bg-gradient-shadow py-4">
+<div class="bg-gradient-shadow py-4">
   <div class="container">
     <div class="row">
       {{ range .exemples_item }}
@@ -16,7 +16,7 @@
       {{ end }}
     </div>
   </div>
-</section>
+</div>
 {{ end }}
 {{ end }}
 {{"<!-- /exemples -->" | safeHTML }}
