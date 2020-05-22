@@ -82,7 +82,7 @@
       <div class="col-lg-6 col-md-7 text-center text-md-left">
         <p class="subtitle" data-aos="fade-left">{{ .subtitle }}</p>
         <h2 class="section-title" data-aos="fade-left" data-aos-delay="200">{{ .title }}</h2>
-        <p class="mb-4" data-aos="fade-left" data-aos-delay="300">{{ .content | markdownify }}</p>
+        <p class="mb-4" data-aos="fade-left" data-aos-delay="300">{{ .content | markdownify }}<--/p>
         {{ if .button.enable }}
         {{ with .button }}
         <a href="{{ .link | absLangURL }}" class="btn btn-outline-primary" data-aos="fade-left" data-aos-delay="500">{{ .label }}</a>
@@ -93,7 +93,7 @@
       <div class="col-lg-6 col-md-7 text-center text-md-left order-md-1 order-2">
         <p class="subtitle" data-aos="fade-right">{{ .subtitle }}</p>
         <h2 class="section-title" data-aos="fade-right" data-aos-delay="200">{{ .title }}</h2>
-        <p class="mb-4" data-aos="fade-right" data-aos-delay="300">{{ .content | markdownify }}</p>
+        <p class="mb-4" data-aos="fade-right" data-aos-delay="300">{{ .content | markdownify }}<--/p>
         {{ if .button.enable }}
         {{ with .button }}
         <a href="{{ .link | absLangURL }}" class="btn btn-outline-primary" data-aos="fade-right" data-aos-delay="500">{{ .label }}</a>
