@@ -28,9 +28,9 @@
           <p class="h5 d-inline-block mr-3">N'hésitez pas à partagez :</p>
           <ul class="list-inline d-inline-block">
             {{ $url := printf "%s" .Permalink | absLangURL }}
-            <li class="list-inline-item"><a href="https://facebook.com/sharer/sharer.php?u={{ $url }}" class="text-color lead"><i class="fa fa-facebook "></i></a></li>
-            <li class="list-inline-item"><a href="https://twitter.com/intent/tweet/?text={{ .Title }}&amp;url={{ $url }}" class="text-color lead"><i class="fa fa-twitter "></i></a></li>
-            <li class="list-inline-item"><a href="whatsapp://send?text={{ .Title }}%20{{ $url }}" class="text-color lead"><i class="fa fa-whatsapp "></i></a></li>
+            <li class="list-inline-item"><a href="https://facebook.com/sharer/sharer.php?u={{ $url }}" class="text-color lead" rel="noopener nofollow" target="_blank"><i class="fa fa-facebook "></i></a></li>
+            <li class="list-inline-item"><a href="https://twitter.com/intent/tweet/?text={{ .Title }}&amp;url={{ $url }}" class="text-color lead" rel="noopener nofollow" target="_blank"><i class="fa fa-twitter "></i></a></li>
+            <li class="list-inline-item"><a href="whatsapp://send?text={{ .Title }}%20{{ $url }}" class="text-color lead" rel="noopener nofollow" target="_blank"><i class="fa fa-whatsapp "></i></a></li>
           </ul>
         </div>
 
