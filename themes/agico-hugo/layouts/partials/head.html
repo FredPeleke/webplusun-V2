@@ -1,6 +1,6 @@
 <head>
   <meta charset="utf-8">
-  <title itemprop="name">{{ .Title }} | WebPlusUn</title>
+  <title itemscope itemtype="http://schema.org/WebPage" itemprop="name">{{ .Title }} | WebPlusUn</title>
   {{ "<!-- meta mobile -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description"
@@ -11,13 +11,13 @@
 
   {{ "<!-- plugins -->" | safeHTML }}
   {{ range .Site.Params.plugins.css }}
-  <link rel="stylesheet" href="{{ .link | absURL }}" as="style" rel="preload" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="stylesheet" href="{{ .link | absURL }}" rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="{{ .link | absURL }}"></noscript>
   {{ end }}
 
   {{ "<!-- Stylesheet -->" | safeHTML }}
   {{ $styles := resources.Get "scss/style.scss" | toCSS | minify }}
-  <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen" as="style" rel="preload" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen" rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen"></noscript>
 
   {{ "<!--Favicon-->" | safeHTML }}
