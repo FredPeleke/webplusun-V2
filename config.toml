@@ -19,8 +19,8 @@ link = "plugins/bootstrap/bootstrap.min.css"
 link = "plugins/slick/slick.css"
 [[params.plugins.css]]
 link = "plugins/font-awesome/font-awesome.min.css"
-[[params.plugins.css]]
-link = "plugins/venobox/venobox.css"
+## [[params.plugins.css]]
+## link = "plugins/venobox/venobox.css"
 [[params.plugins.css]]
 link = "plugins/aos/aos.css"
 
