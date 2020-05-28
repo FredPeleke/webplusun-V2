@@ -75,7 +75,8 @@ about:
     # about item loop
 
         # about item loop
-    - image : "images/about/img-eco-responsable.jpg"
+    - image1 : "images/about/img-eco-responsable.webp"
+      image2 : "images/about/img-eco-responsable.jpg"
       subtitle : "Vous voulez un site :"
       title : "Éco-responsable"
       content : "La conception idéale d'un site web ne se situe pas dans un formatage ou un protocole mais dans vos objectifs. C'est avant tout une démarche qui consiste à restreindre un 'trop plein d'informations' pour se recentrer sur l'essentiel : ce que cherche votre visiteur.
@@ -93,7 +94,8 @@ about:
         label : "Nos services"
         link : "service"
 
-    - image : "images/about/img-sxo.jpg"
+    - image1 : "images/about/img-sxo.webp"
+      image2 : "images/about/img-sxo.jpg"
       subtitle : "Vous avez un site :"
       title : "Stratégie d'optimisation SXO"
       content : "Avoir un site sur le web ne fait pas tout. Est-il accessible ? Est-il lisible ? Est-il bien indexé ? Autant de questions qui se posent afin de comprendre les comportements et améliorer les visites des internautes sur votre site.
