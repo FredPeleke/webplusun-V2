@@ -265,6 +265,7 @@ a.text-light {
   color: $text-color;
   font-family: $primary-font;
   font-weight: 400;
+  font-display: swap;
 }
 
 // section-gap
@@ -599,6 +600,7 @@ a.text-light {
       transform: translateY(-50%);
       color: $primary-color;
       transition: .3s ease;
+      font-display: swap;
     }
 
     &:hover {
