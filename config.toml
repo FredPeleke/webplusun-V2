@@ -15,8 +15,8 @@ disableLanguages = ["fr"] # desable language from here
 # CSS Plugins
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
-## [[params.plugins.css]]
-## link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
 [[params.plugins.css]]
 link = "plugins/font-awesome/font-awesome.min.css"
 ## [[params.plugins.css]]
@@ -29,8 +29,8 @@ link = "plugins/aos/aos.css"
 link = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
 link = "plugins/bootstrap/bootstrap.min.js"
-## [[params.plugins.js]]
-## link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
 ## [[params.plugins.js]]
 ## link = "plugins/venobox/venobox.min.js"
 [[params.plugins.js]]
