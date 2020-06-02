@@ -6,6 +6,11 @@
     padding: 15px 0;
   }
 
+  @include mobile {
+    background: $bg-gradient-secondary;
+    padding: 15px 0;
+  }
+
   &.nav-bg {
     background: $bg-gradient-secondary;
     padding: 15px 0;
