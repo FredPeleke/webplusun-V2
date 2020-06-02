@@ -18,7 +18,7 @@
     // apparence du bandeau
     function _createHeaderElement(cookieText, dismissText, linkText, linkHref) {
       var butterBarStyles = 'position:fixed;width:100%;background-color:#000000;color:#fff;' +
-          'margin:0; left:0; bottom:0; padding:4px;z-index:1000;text-align:center;';
+          'margin:0; padding:4px;z-index:1000;text-align:center;';
 
       var cookieConsentElement = document.createElement('div');
       cookieConsentElement.id = cookieConsentId;
