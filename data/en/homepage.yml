@@ -91,7 +91,7 @@ about:
   Car un visiteur satisfait est plus susceptible de revenir sur votre site, de partager vos infos, d'acheter vos produits ou services, et finalement [devenir votre meilleur ambassadeur](https://webplusun.fr/blog/c-est-quoi-le-marketing-communautaire/)."
       button:
         enable : true
-        label : "Nos services"
+        label : "Quels services ?"
         link : "service"
 
     - image1 : "images/about/img-sxo.webp"
@@ -107,7 +107,7 @@ about:
   Remettez l'humain au centre de votre stratégie car vos conversions seront toujours le reflet d'une action humaine."
       button:
         enable : true
-        label : "Nos références"
+        label : "Des références"
         link : "references"
 
 
