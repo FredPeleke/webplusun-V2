@@ -1,5 +1,5 @@
 ---
-title: "Web+1 web éco-responsable"
+title: "Web+1 pour un Web Plus Sain"
 # watermark text
 watermark: "WebPlusUn"
 # page header background image
