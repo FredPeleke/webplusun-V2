@@ -123,6 +123,11 @@ testimonial:
       designation : "Acteur"
       content : Puisqu'on ne peut changer la direction du vent, il faut apprendre à orienter les voiles.
 
+          # testimonial item loop
+    - name : "Yvon Chouinard"
+      designation : "Fondateur de Patagonia"
+      content : Le meilleur moyen de limiter notre impact sur l'environnement est de faire des produits de la meilleure qualité possible. Des produits durables, fonctionnels, beaux et simples.
+
 ############################## Partners #################################
 partner:
   enable : false
