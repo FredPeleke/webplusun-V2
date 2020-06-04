@@ -9,6 +9,8 @@
   <meta name="author" content="{{ . }}">{{ end }}
   {{ hugo.Generator }}
 
+  <link rel="canonical" href="{{ .Permalink }}" />
+
   {{ "<!-- plugins -->" | safeHTML }}
   {{ range .Site.Params.plugins.css }}
   <link rel="preload" href="{{ .link | absURL }}" as="style" onload="this.onload=null;this.rel='stylesheet'">

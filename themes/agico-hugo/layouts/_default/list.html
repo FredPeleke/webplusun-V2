@@ -65,23 +65,23 @@
                 <!-- Numéros de page -->
                 {{ range $paginator.Pagers }}
                   {{ $.Scratch.Set "page_number_flag" false }}
-                  <!-- Numéros de page total -->
+                  <!-- Nombre de pages total -->
                   {{ if gt $paginator.TotalPages $max_links }}
                     <!-- Limite inférieure -->
-                    <!-- Si l'utilisateur est sur une page dans la limite inférieure  -->
+                    <!-- Si l'utilisateur est sur une page inférieure  -->
                     {{ if le $paginator.PageNumber $lower_limit }}
-                      <!-- If the current loop page is less than max_links. -->
+                      <!-- Si la page de la boucle est inférieure à max_links. -->
                       {{ if le .PageNumber $max_links }}
                         {{ $.Scratch.Set "page_number_flag" true }}
                       {{ end }}
                     <!-- Limite supérieure -->
-                    <!-- Si l'utilisateur est sur une page dans la limite supérieure -->
+                    <!-- Si l'utilisateur est sur une page supérieure -->
                     {{ else if ge $paginator.PageNumber $upper_limit }}
-                      <!-- If the current loop page is greater than total pages minus $max_links -->
+                      <!-- Si la page de boucle actuelle est supérieure au nombre total de pages moins $max_links -->
                       {{ if gt .PageNumber (sub $paginator.TotalPages $max_links) }}
                         {{ $.Scratch.Set "page_number_flag" true }}
                       {{ end }}
-                    <!-- Middle pages. -->
+                    <!-- Pages intermédiaires. -->
                     {{ else }}
                       {{ if and ( ge .PageNumber (sub $paginator.PageNumber $adjacent_links) ) ( le .PageNumber (add $paginator.PageNumber $adjacent_links) ) }}
                         {{ $.Scratch.Set "page_number_flag" true }}
