@@ -4,7 +4,12 @@
     <div class="container">
       <div class="row justify-content-between">
         <div class="col-md-5 mb-4 mb-md-0" itemscope itemtype="http://schema.org/Brand">
-          <a href="{{ .Site.BaseURL | relLangURL }}"><img src="{{ .Site.Params.logo | absURL }}" class="mb-4" alt="{{ .Site.Title }}"></a>
+          <a href="{{ .Site.BaseURL | relLangURL }}">
+            <picture>
+              <source srcset="{{ .Site.Params.logo1 | absURL }}" type="image/webp" alt="{{ .Site.Title }}">
+              <img src="{{ .Site.Params.logo2 | absURL }}" class="mb-4" alt="{{ .Site.Title }}">
+            </picture>
+          </a>
           <p class="text-light mb-4">{{ .Site.Params.footer_content | markdownify }}</p>
           <ul class="list-inline social-icons">
             {{ range .Site.Params.social }}
