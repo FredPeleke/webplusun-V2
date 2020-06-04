@@ -1,0 +1,25 @@
+{
+  "short_name": "Webplusun",
+  "name": "Webplusun, Web eco-responsable",
+  "description": "Pour des sites web eco-responsables",
+  "icons": [
+    {
+      "src": "/images/WebPlusUn-Apple-touch-icon-180.jpg",
+      "type": "image/png",
+      "sizes": "180x180"
+    }
+  ],
+  "start_url": "/?source=pwa",
+  "background_color": "#fff",
+  "display": "minimal-ui",
+  "scope": "/",
+  "theme_color": "#0c639a",
+  "shortcuts": [
+    {
+      "name": "Contact",
+      "short_name": "Contact",
+      "description": "Prenons contact pour parler de votre projet",
+      "url": "/contact?source=pwa"
+    }
+  ]
+}
