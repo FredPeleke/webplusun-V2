@@ -7,7 +7,7 @@
       "src": "/images/WebPlusUn-Apple-touch-icon-180.jpg",
       "type": "image/png",
       "sizes": "180x180"
-    },
+    }
   ],
   "start_url": "/?source=pwa",
   "background_color": "#fff",
