@@ -7,6 +7,7 @@
           <a href="{{ .Site.BaseURL | relLangURL }}">
             <picture>
               <source srcset="{{ .Site.Params.logo1 | absURL }}" type="image/webp" alt="{{ .Site.Title }}">
+              <source srcset="{{ .Site.Params.logo2 | absURL }}" type="image/png" alt="{{ .Site.Title }}">
               <img src="{{ .Site.Params.logo2 | absURL }}" class="mb-4" alt="{{ .Site.Title }}">
             </picture>
           </a>
