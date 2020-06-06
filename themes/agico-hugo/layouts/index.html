@@ -81,7 +81,8 @@
       {{ if not (modBool $i 2)}}
       <div class="col-lg-6 col-md-5 text-center text-md-left mb-4 mb-md-0">
         <picture>
-          <source type="image/webp" srcset="{{ .image1 | absURL }}">
+          <source srcset="{{ .image1 | absURL }}" type="image/webp">
+          <source srcset="{{ .image2 | absURL }}" type="image/jpg">
           <img src="{{ .image2 | absURL}}" class="img-fluid" alt="web éco-responsable WebPlusUn" data-aos="fade-right">
         </picture>
       </div>
@@ -108,8 +109,9 @@
       </div>
       <div class="col-lg-6 col-md-5 text-center text-md-left order-1 order-md-2 mb-4 mb-md-0">
         <picture>
-          <source type="image/webp" srcset="{{ .image1 | absURL }}">
-          <img src="{{ .image | absURL}}" class="img-fluid" alt="optimisation sxo WebPlusUn" data-aos="fade-left">
+          <source srcset="{{ .image1 | absURL }}" type="image/webp">
+          <source srcset="{{ .image2 | absURL }}" type="image/jpg">
+          <img src="{{ .image2 | absURL}}" class="img-fluid" alt="optimisation sxo WebPlusUn" data-aos="fade-left">
         </picture>
       </div>
       {{ end }}
