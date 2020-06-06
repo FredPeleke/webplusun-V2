@@ -128,6 +128,10 @@ testimonial:
       designation : "Fondateur de Patagonia"
       content : Le meilleur moyen de limiter notre impact sur l'environnement est de faire des produits de la meilleure qualité possible. Des produits durables, fonctionnels, beaux et simples.
 
+          # testimonial item loop
+    - name : "Frédéric Bordage"
+      designation : "Expert en sobriété numérique"
+      content : Nous ne devons pas nous laisser dominer par cette invention, mais plutôt en tirer le meilleur.
 ############################## Partners #################################
 partner:
   enable : false
