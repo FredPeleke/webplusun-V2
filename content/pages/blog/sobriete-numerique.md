@@ -3,8 +3,6 @@ title: "C'est quoi la Sobriété numérique ?"
 date: 2020-01-14T09:51:57+06:00
 # watermark text
 watermark: "Sobriété"
-# page header background image
-bg_image: ""
 # meta description
 description : "'Sobriété numérique, les clé pour agir' est un livre de Frédéric Bordage, expert en ce domaine."
 # post image
