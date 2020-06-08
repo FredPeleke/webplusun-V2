@@ -89,10 +89,6 @@ name = "Mentions légales"
 URL = "mentions-legales"
 weight = 4
 
-[[menu.footer]]
-name = "Green IT"
-URL = "http://www.greenit.fr/"
-weight = 5
 
 ########################### Default parameters ###########################
 [params]
