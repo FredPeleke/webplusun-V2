@@ -1,9 +1,9 @@
 ---
 new_page_extension: md
-<<<<<<< HEAD
+
 auto_deploy: true
 admin_path: Kaixo
->>>>>>> b86f7ce4b53fd0c7d9f50438f86a5b7fd4bf5a3c
+
 webhook_url: 
 sections:
 - type: directory
