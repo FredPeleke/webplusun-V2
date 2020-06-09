@@ -21,7 +21,7 @@
         <h2 class="section-title" data-aos="fade-up" data-aos-delay="200" itemprop = "name">{{ .Params.Title2 }}</h2>
         <p class="text-color card-date position-relative d-inline-block">par <span
             class="text-dark font-weight-bold" itemprop="author">{{ .Params.Author }}</span> le <span
-            class="text-dark font-weight-bold" itemprop="datePublished" content="{{ .Params.Date }}">{{ .PublishDate.Format "02 Jan 2006" .Date.UTC }}</span></p>
+            class="text-dark font-weight-bold" itemprop="datePublished" content="{{ .Params.Date }}">{{ .PublishDate.Format "02 Jan 2006 MST" .Date.UTC }}</span></p>
         <div class="content">
           {{ .Content }}
         </div>
