@@ -11,7 +11,7 @@ tags: Stratégie
 type: post
 
 ---
-(sujet écrit en 2010 pour le magazine Boardsport Source)
+(Extrait d'un article écrit en 2010 pour le magazine Boardsport Source)
 
 Créativité, auto-actualisation, choix humains, trois facteurs facilement attribuables à la réussite d’une entreprise, trois valeurs nécessaires à l’épanouissement de l’individu. L’un comme l’autre a besoin de progresser, de développer son potentiel et sa capacité afin d’être reconnu, apprécié, approuvé auprès de ses pairs. Parce qu’ils déferlent jusque chez nous, les tourments économiques actuels mettent en porte-à-faux la sécurité de nos organisations, et portent à nos conscience la fébrilité du monde. « Finalement, tout se fond en un, et au milieu coule une rivière », écrivait Norman McLean. Exploitez parfaitement votre rivière depuis sa source, et votre environnement -commercial et social- vous le rendra.
 
