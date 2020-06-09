@@ -7,7 +7,7 @@ sections:
 - type: heading
   label: Blog Post
 - type: directory
-  path: exampleSite/content/english/blog
+  path: exampleSite/content/pages/blog
   label: Post (en)
   create: documents
   match: "**/*"
@@ -23,7 +23,7 @@ sections:
 - type: heading
   label: Career
 - type: directory
-  path: exampleSite/content/english/career
+  path: exampleSite/content/pages/references
   label: Career (en)
   create: documents
   match: "*"
@@ -39,7 +39,7 @@ sections:
 - type: heading
   label: Others Pages
 - type: directory
-  path: exampleSite/content/english/about
+  path: exampleSite/content/pages/webplusun
   label: About (en)
   create: none
   match: "*"
@@ -49,7 +49,7 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/english/service
+  path: exampleSite/content/pages/service
   label: Service (en)
   create: none
   match: "*"
@@ -59,7 +59,7 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/english/pricing
+  path: exampleSite/content/pages/tarifs
   label: Pricing (en)
   create: none
   match: "*"
@@ -69,7 +69,7 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/english/team
+  path: exampleSite/content/pages/team
   label: Team (en)
   create: none
   match: "*"
@@ -79,7 +79,7 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/english/contact
+  path: exampleSite/content/pages/contact
   label: Contact (en)
   create: none
   match: "*"
@@ -103,7 +103,7 @@ sections:
   templates:
   - new-page
 - type: directory
-  path: exampleSite/content/english
+  path: exampleSite/content/pages
   label: All Pages (en)
   create: all
   match: "**/*"
