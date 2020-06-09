@@ -1,5 +1,6 @@
 ---
 title: Qu'est-ce que la Performance globale ?
+title2: Performance globale
 date: 2020-06-08T14:51:57+00:00
 watermark: Performance
 description: 'Personnel, Planète, Profit : quand l’engagement de l''entreprise consiste
