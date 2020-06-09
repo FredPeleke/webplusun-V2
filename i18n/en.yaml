@@ -44,13 +44,13 @@
   translation: Infos de contact
 
 - id: search
-  translation: Cherchez…
+  translation: Cherchez un sujet…
 
 - id: category
   translation: … par catégories
 
 - id: latest_article
-  translation: … les derniers articles
+  translation: … ou les derniers articles
 
 - id: tags
   translation: … par étiquettes
