@@ -1,6 +1,7 @@
 ---
 title: "C'est quoi le Marketing communautaire ?"
-date: 2011-11-10T09:51:57+06:00
+title2: "Le Marketing communautaire"
+date: 2019-11-10T09:51:57+06:00
 # watermark text
 watermark: "Marketing"
 # page header background image

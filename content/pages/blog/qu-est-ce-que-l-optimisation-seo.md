@@ -1,6 +1,7 @@
 ---
 title: "Qu'est-ce que l'optimisation SEO ?"
-date: 2019-04-10T09:51:57+06:00
+title2 : "L'optimisation SEO"
+date: 2019-12-27T09:51:57+06:00
 # watermark text
 watermark: "SEO"
 # page header background image
