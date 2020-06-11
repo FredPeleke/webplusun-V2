@@ -16,6 +16,13 @@
 </IfModule>
 
 <IfModule mod_expires.c>
+	<FileMatch "\.ico$">
+		#cache .ico files for 1 year(31536000 sec)
+		Header set Cache-control max-age=31536000
+	</FileMatch>
+</IfModule>
+
+<IfModule mod_expires.c>
   ExpiresActive On
 
   # Images
