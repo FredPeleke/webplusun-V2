@@ -48,5 +48,5 @@
 </IfModule>
 
 # REDIRECTIONS 301
-RewriteEngine On
-Redirect /author/fred-maget/ https://webplusun.fr/webplusun/
+	RewriteEngine On
+	RedirectPermanent /author/fred-maget/ https://webplusun.fr/webplusun/
