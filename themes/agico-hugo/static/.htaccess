@@ -50,3 +50,4 @@
 # REDIRECTIONS 301
 RewriteEngine On
 RedirectPermanent /author/fred-maget.html https://webplusun.fr/webplusun.html
+RewriteRule ^/author/fred-maget(/)?$ https://webplusun.fr/webplusun [R=301,L,QSA]
