@@ -7,7 +7,7 @@ watermark: "Sobriété"
 # meta description
 description : "'Sobriété numérique, les clé pour agir' est un livre de Frédéric Bordage, expert en ce domaine."
 # post image
-image : "images/blog/webplusun-blog.jpg"
+image : "images/blog/webplusun-blog-eco.jpg"
 # post author
 author : "Fred Maget"
 # post categories

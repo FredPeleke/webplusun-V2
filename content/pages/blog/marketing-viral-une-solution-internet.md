@@ -9,7 +9,7 @@ bg_image: ""
 # meta description
 description : "Le marketing viral ne date pas d&#39;hier. Souvenez-vous de Tupperware qui, dès les années 50, exploitait déjà les réseaux personnels de leurs «ambassadrices» pour se faire connaître et vendre leurs produits."
 # post image
-image : "images/blog/webplusun-blog.jpg"
+image : "images/blog/webplusun-blog-marketing.jpg"
 # post author
 author : "Fred Maget"
 # post categories

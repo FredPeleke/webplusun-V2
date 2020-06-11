@@ -5,7 +5,7 @@ date: 2020-06-08T14:51:57+00:00
 watermark: Performance
 description: 'Personnel, Planète, Profit : quand l’engagement de l''entreprise consiste
   à associer performance et responsabilité.'
-image: images/blog/webplusun-blog.jpg
+image: images/blog/webplusun-blog-eco.jpg
 author: Fred Maget
 categories: Marketing
 tags: Stratégie

@@ -9,7 +9,7 @@ bg_image: ""
 # meta description
 description : "Une bonne rédaction SEO consiste à produire de l’intérêt, autant pour l&#39;internaute en quête d&#39;information que pour le moteur de recherche qui doit indexer la page."
 # post image
-image : "images/blog/webplusun-blog.jpg"
+image : "images/blog/webplusun-blog-optimisation.jpg"
 # post author
 author : "Fred Maget"
 # post categories

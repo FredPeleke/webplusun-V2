@@ -9,7 +9,7 @@ bg_image: ""
 # meta description
 description : "Les espaces communautaires donnent autant de place aux commentaires sur l&#39;info qu&#39;à l&#39;info elle-même, et font passer la communication d’une logique de cible à une logique de tribu."
 # post image
-image : "images/blog/webplusun-blog.jpg"
+image : "images/blog/webplusun-blog-marketing.jpg"
 # post author
 author : "Fred Maget"
 # post categories

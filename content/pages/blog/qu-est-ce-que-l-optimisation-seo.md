@@ -9,7 +9,7 @@ bg_image: ""
 # meta description
 description : "Le SEO -ou Search Engine Optimization- rassemble les multiples opérations visant à améliorer et pérenniser la visibilité d'un site sur Internet."
 # post image
-image : "images/blog/webplusun-blog.jpg"
+image : "images/blog/webplusun-blog-optimisation.jpg"
 # post author
 author : "Fred Maget"
 # post categories
