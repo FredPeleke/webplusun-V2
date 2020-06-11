@@ -49,4 +49,4 @@
 
 # REDIRECTIONS 301
 RewriteEngine On
-RedirectPermanent /author/fred-maget/ https://webplusun.fr/webplusun/
+Redirect 301 /author/fred-maget/ https://webplusun.fr/webplusun/
