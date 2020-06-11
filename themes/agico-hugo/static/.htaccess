@@ -49,4 +49,4 @@
 
 # REDIRECTIONS 301
 RewriteEngine On
-RewriteRule ^/author/fred-maget(/)?$ http://www.domaine.com/nouvelle-page [R=301,L,QSA]
+Redirect /author/fred-maget/ https://webplusun.fr/webplusun/
