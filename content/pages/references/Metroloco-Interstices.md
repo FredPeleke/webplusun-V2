@@ -24,7 +24,7 @@ apply_link : "http://www.interstices-sud-aquitaine.fr/restaurant-metroloco/"
 
 ## Un resto pas comme les autres !
 
-Le concept du Metroloco est de confier aux jeunes entrepreneur.e.s les clés d’un restaurant dans lequel il.elle.s expérimentent leurs compétences, leur autonomie et l’organisation collective, le modèle coopératif et de l’économie sociale et solidaire, leur pouvoir d’agir sur le territoire au travers d’actions telles que l’animation et les circuits alimentaires locaux.
+Le concept du Metroloco est de confier à de jeunes entrepreneurs les clés d’un restaurant dans lequel ils expérimentent leurs compétences, leur autonomie et l’organisation collective, le modèle coopératif et de l’économie sociale et solidaire, leur pouvoir d’agir sur le territoire au travers d’actions telles que l’animation et les circuits alimentaires locaux.
 
 
 ### La demande du client :

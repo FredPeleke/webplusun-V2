@@ -6,7 +6,7 @@ watermark: "À Lundi"
 # page header background image
 bg_image: ""
 # meta description
-description : "Retructuration et optimisation."
+description : "Retructuration et optimisation de leur site d'offres d'emploi."
 # career logo
 image : "images/career/A-lundi-logo.svg"
 # capture accueil
