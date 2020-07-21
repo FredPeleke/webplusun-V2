@@ -1,0 +1,37 @@
+---
+label: References
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: watermark
+  label: watermark
+- type: text
+  name: bg_image
+  label: bg_image
+- type: text
+  name: description
+  label: description
+- type: file
+  name: image
+  label: image
+- type: file
+  name: capture
+  label: capture
+- type: text
+  name: location
+  label: location
+- type: text
+  name: job_type
+  label: job_type
+- type: text
+  name: job_category
+  label: job_category
+- type: text
+  name: apply_link
+  label: apply_link
