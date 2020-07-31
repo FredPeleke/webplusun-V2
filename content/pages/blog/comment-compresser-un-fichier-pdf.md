@@ -7,7 +7,7 @@ description = ""
 draft = true
 image = ""
 job_category = "Éco"
-job_type = "Stratégie"
+job_type = ""
 location = ""
 title = "Comment compresser un fichier PDF ?"
 watermark = "PDF"
@@ -27,9 +27,9 @@ Créé par la société Adobe Système, le format PDF est devenu un standard dep
 
 Par exemple, vous préparez un document incluant du texte, des logos, des pictos, des photos, et aussi avec des éléments interactifs comme des champs à remplir, des liens cliquables, un peu de modélisations en 3D, du son ou une vidéo. Que ce soit à partir de Word, PowerPoint, Photoshop, InDesign, TextEdit pour citer les plus connus et exploités, vous pouvez alors éditer (« enregistrer-sous ») votre document en format PDF. Comme ça il pourra être vu et lu sur un système OS différent du vôtre sans souci, affichant exactement la même mise en page.
 
-C’est idéal pour proposer vos données sous forme de rapport, de présentation, de catalogue ou de portfolio. Mais vous le comprenez, un fichier PDF peut théoriquement contenir une quantité d'informations illimitée, et par conséquent devenir très lourd. 
+C’est idéal pour proposer vos données sous forme de rapport, de présentation, de catalogue ou de portfolio. Mais vous le comprenez, un fichier PDF peut théoriquement contenir une quantité d'informations illimitée, et par conséquent devenir très lourd.
 
-## Comment reconnaître un fichier « lourd » ? 
+## Comment reconnaître un fichier « lourd » ?
 
 Pas difficile ! Sur votre ordinateur, vous avez la possibilité d’afficher les informations de chaque document. Vous y trouverez son titre et aussi un nombre suivi des lettres Ko ou Mo. Elles signifient Kilo Octets et Mega Octets. Sans entrer dans les détails, si c’est Ko c’est okay, si c’est Mo il y a du boulot.
 
@@ -43,12 +43,14 @@ Il y a plusieurs raisons qui peuvent vous motiver à compresser un document, c�
 
 ## Comment compresser un document PDF ?
 
-Dès que j’ai un rapport ou une présentation à fournir à un client, je vais sur le site [pdfcompressor.com](https://pdfcompressor.com/ "pdfcompressor") (1) sur lequel je charge mon modèle PDF. Celui-ci le compresse alors à une taille facile à échanger sans altérer le niveau de qualité des images. 
+Dès que j’ai un rapport ou une présentation à fournir à un client, je vais sur le site [pdfcompressor.com](https://pdfcompressor.com/ "pdfcompressor") (1) sur lequel je charge mon modèle PDF. Celui-ci le compresse alors à une taille facile à échanger sans altérer le niveau de qualité des images.
 
-Par exemple : 
+Par exemple :
 
 * d’un fichier de 4,8 Mo, je retire un document de 905 Ko ;
 * d’un fichier de 526 Ko je récupère un document de 35 Ko.
+
+![WebPlusUn : compression pdf](/uploads/webplusun-compression-pdf.png "WebPlusUn : compression pdf")
 
 Si je vous dis que plus il y a de données à stocker, plus il faut de Centres de données (Data centers), vous l’entendez mais de loin. Si je vous dis qu’en allégeant vos documents, vous allez prolonger la durée de vie de votre matériel (ordinateur, tablette, smartphone), ça vous parle déjà plus. Et vous comprenez que ce petit effort peut donc vous faire économiser de l’argent.
 
