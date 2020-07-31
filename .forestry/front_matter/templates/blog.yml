@@ -1,0 +1,34 @@
+---
+label: Blog
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: title2
+  label: title2
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: watermark
+  label: watermark
+- type: text
+  name: description
+  label: description
+- type: file
+  name: image
+  label: image
+- type: text
+  name: author
+  label: author
+- type: text
+  name: categories
+  label: categories
+- type: text
+  name: tags
+  label: tags
+- type: text
+  name: type
+  label: type
