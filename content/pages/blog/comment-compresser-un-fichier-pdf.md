@@ -2,7 +2,7 @@
 apply_link = ""
 bg_image = ""
 capture = ""
-date = 2020-07-30T22:00:00Z
+date = 2020-07-31T08:25:00Z
 description = ""
 image = ""
 job_category = "Éco"
