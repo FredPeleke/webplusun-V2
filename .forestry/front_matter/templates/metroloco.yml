@@ -35,5 +35,3 @@ fields:
 - type: text
   name: apply_link
   label: apply_link
-pages:
-- content/pages/blog/comment-compresser-un-fichier-pdf.md

@@ -1,14 +1,18 @@
 +++
 apply_link = ""
+author = "Fred Maget"
 bg_image = ""
 capture = ""
+categories = "Éco"
 date = 2020-07-31T08:25:00Z
 description = "Le format PDF est idéal pour proposer vos données sous forme de rapport, de présentation, de catalogue ou de portfolio. Mais avez-vous pensé à le compresser pour le rendre moins énergivore ?"
 image = "/uploads/webplusun-blog-eco.jpg"
 job_category = "Éco"
 job_type = ""
 location = ""
+tags = "Optimisation"
 title = "Comment compresser un fichier PDF ?"
+type = "Post"
 watermark = "PDF"
 
 +++
