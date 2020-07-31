@@ -4,7 +4,6 @@ bg_image = ""
 capture = ""
 date = 2020-07-30T22:00:00Z
 description = ""
-draft = true
 image = ""
 job_category = "Éco"
 job_type = ""
