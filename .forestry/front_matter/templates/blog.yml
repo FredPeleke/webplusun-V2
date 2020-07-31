@@ -5,9 +5,6 @@ fields:
 - type: text
   name: title
   label: title
-- type: text
-  name: title2
-  label: title2
 - type: datetime
   name: date
   label: date
