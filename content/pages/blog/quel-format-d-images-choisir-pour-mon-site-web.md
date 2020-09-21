@@ -20,13 +20,10 @@ Le format d’une image est facile à trouver puisque c’est le suffixe du nom 
 
 Chaque format a ses qualités et ses défauts. En fait, c’est ce qu’il représente qui va définir son choix. On peut déjà distinguer les formats
 
-\- standards ou automatisés, générés directement par l’appareil photo ou le smartphone : JPG, JPEG ;
-
-\- retravaillés : GIF, PNG ;
-
-\- optimisés : SVG ;
-
-\- nouvelle génération: WEBP.
+* standards ou automatisés, générés directement par l’appareil photo ou le smartphone : JPG, JPEG ;
+* retravaillés : GIF, PNG ;
+* optimisés : SVG ;
+* nouvelle génération: WEBP.
 
 ### **Le format JPEG, ou JPG**
 
