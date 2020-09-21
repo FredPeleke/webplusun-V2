@@ -10,7 +10,7 @@ type = "Post"
 watermark = "formats"
 
 +++
-Par « format » il faut d’abord comprendre le type de compression d’une image. Je ne parle pas ici de la dimension en pixels ou en centimètres, qui a tout autant son importance. Définir le bon format va servir à [optimiser ses images pour le web](/blog/pourquoi-optimiser-ses-images-pour-le-web/) pour tirer le plus grand bénéfice possible pour vos lecteurs et votre indexation.
+Par « format » il faut d’abord comprendre le type de compression d’une image. Je ne parle pas ici de la dimension en pixels ou en centimètres, qui a tout autant son importance. Définir le bon format va servir à [optimiser ses images pour le web](/blog/pourquoi-optimiser-ses-images-pour-le-web/) afin d'en tirer le plus grand bénéfice possible pour vos lecteurs et votre indexation.
 
 > _Les images représentent en moyenne 65% des données reçues lors de la consultation d'une page web._
 
