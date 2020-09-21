@@ -51,7 +51,7 @@ Ce format a aussi été développé par la W3C pour décrire des ensembles de gr
 
 ### **Le format WEBP**
 
-Selon son concepteur Google : « 60% des octets transmis sur la toile seraient des images, et WebP procurerait de 30% à 80% de réduction d'espace face aux formats JPEG et PNG ».
+Selon son concepteur Google : « _60% des octets transmis sur la toile seraient des images, et WebP procurerait de 30% à 80% de réduction d'espace face aux formats JPEG et PNG_ ».
 
 Ce format intègre la transparence, une possibilité d'animations à la manière des GIF, et une option de compression sans perte de qualité via le WebP Lossless
 
