@@ -1,13 +1,13 @@
 +++
 author = "Fred Maget"
-categories = "optimisation"
+categories = "Optimisation, Éco"
 date = 2020-09-20T22:00:00Z
 description = ""
 draft = true
 image = "/uploads/webplusun-blog-optimisation.jpg"
 tags = "images"
 title = "Pourquoi optimiser ses images pour le web ?"
-type = ""
+type = "post"
 watermark = "images"
 
 +++
