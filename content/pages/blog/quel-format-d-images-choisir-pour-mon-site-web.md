@@ -35,7 +35,7 @@ Le plus connu, il permet un bon compromis entre la taille et la qualité de l’
 
 (Graphics Interchange Format)
 
-Avec le GIF, il devient possible de stocker plusieurs images dans un même fichier afin de créer des diaporamas, voire des animations. **Ce format restreint la qualité des images mais la compresse sans perte.**
+Avec le GIF, il devient possible de stocker plusieurs images dans un même fichier afin de créer des diaporamas, voire des animations. Ce format restreint la qualité des images mais la compresse sans perte.
 
 ### **Le format PNG**
 
@@ -47,7 +47,7 @@ Ce format a été créé par la W3C pour contourner le format GIF soumis à roya
 
 (Scalable Vector Graphics)
 
-Ce format a été développé par la W3C pour décrire des ensembles de graphiques vectoriels adaptables, c’est-à-dire que les images peuvent être automatiquement redimensionnées. De plus, la taille des fichiers est généralement plus petite que les formats JPEG et PNG, donc le temps de chargement des images est plus rapide.
+Ce format a aussi été développé par la W3C pour décrire des ensembles de graphiques vectoriels adaptables, c’est-à-dire que les images peuvent être automatiquement redimensionnées. De plus, la taille des fichiers est généralement plus petite que les formats JPEG et PNG, donc le temps de chargement des images est plus rapide.
 
 ### **Le format WEBP**
 
