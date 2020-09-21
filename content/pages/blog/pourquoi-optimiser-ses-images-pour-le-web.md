@@ -1,6 +1,6 @@
 +++
 author = "Fred Maget"
-categories = "Optimisation, Éco"
+categories = "Optimisation"
 date = 2020-09-15T07:00:00Z
 description = "Suivre les meilleures pratiques de référencement des images afin d'en tirer le plus grand bénéfice possible : temps de chargement, accessibilité, etc."
 image = "/uploads/webplusun-blog-optimisation.jpg"
@@ -20,7 +20,7 @@ J'entends ici le fait de suivre les meilleures pratiques de référencement dès
 
 Plus précisément, cela signifie intervenir sur le format de l’image, sa résolution, sa taille, son poids, et aussi sur son encodage, sa présentation.
 
-Bien que très visuel (nous parlons bien d’images, à savoir logos, photos, dessins, etc.), un site doit pouvoir être compris par des non-voyants. Et le premier aveugle qui visite votre site n’est autre que le robot indexeur du moteur de recherche lui-même, celui qui vient mesurer votre place potentielle dans son classement. Le code est ce que le moteur de recherche lit réellement, et non la page telle quelle. Et s’il ne comprend pas, il met « en attente », genre « pas fini, on verra plus tard », voire pas classé du tout. C’est le critère d’accessibilité.
+Bien que très visuel (nous parlons bien d’images, à savoir logos, photos, dessins vectoriels, etc.), un site doit pouvoir être compris par des non-voyants. Et le premier aveugle qui visite votre site n’est autre que le robot indexeur du moteur de recherche lui-même, celui qui vient mesurer votre place potentielle dans son classement. Le code est ce que le moteur de recherche lit réellement, et non la page telle quelle. Et s’il ne comprend pas, il met « en attente », genre « pas fini, on verra plus tard », voire pas classé du tout. C’est le critère d’accessibilité.
 
 C'est exactement pour cela qu’il est si nécessaire de suivre les meilleures pratiques lorsque vous ajoutez des images à vos pages. La façon de les intégrer et de les positionner dans la page, les balises que vous utilisez, ce que vous écrivez dans les balises descriptives, les images que vous rendez visibles, tous ces critères sont importants pour les robots indexeurs qui lisent ce code.
 
