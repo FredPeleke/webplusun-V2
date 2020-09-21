@@ -11,7 +11,9 @@ type = "Post"
 watermark = "formats"
 
 +++
-Par « format » il faut d’abord comprendre le type de compression d’une image. Je ne parle pas ici de la dimension en pixels ou en centimètres, qui a tout autant son importance. Définir le bon format va servir à **optimiser ses images pour le web** pour tirer le plus grand bénéfice possible pour vos lecteurs et votre indexation**.**
+Par « format » il faut d’abord comprendre le type de compression d’une image. Je ne parle pas ici de la dimension en pixels ou en centimètres, qui a tout autant son importance. Définir le bon format va servir à **optimiser ses images pour le web** pour tirer le plus grand bénéfice possible pour vos lecteurs et votre indexation.
+
+> _Les images représentent en moyenne 65% des données reçues lors de la consultation d'une page web._
 
 Le format d’une image est facile à trouver puisque c’est le suffixe du nom de votre image : .jpg .png .gif etc., ce qu’on appelle l’extension. Tiens, rien qu’avec ces trois-là, vous avez déjà les formats les plus répandus. Pourtant ils ont tous trois des utilisations différentes. Sans compter les autres formats existants.
 
@@ -47,7 +49,7 @@ Ce format a été créé par la W3C pour contourner le format GIF soumis à roya
 
 ### **Le format SVG**
 
-(**_Scalable Vector Graphics_**)
+(Scalable Vector Graphics)
 
 Ce format a été développé par la W3C pour décrire des ensembles de graphiques vectoriels adaptables, c’est-à-dire que les images peuvent être automatiquement redimensionnées. De plus, la taille des fichiers est généralement plus petite que les formats JPEG et PNG, donc le temps de chargement des images est plus rapide.
 
@@ -65,6 +67,6 @@ D’abord parce que presque tous les navigateurs web actuels sur smartphone et o
 
 Bien sûr, il existe des extensions qui peuvent être encore plus efficacement compressées, mais elles ne sont tout simplement pas prises en charge par le même nombre de navigateurs web.
 
-D’un point de vue éco-responsable, Google annonce comme raison de la création de ce format : « la volonté de réduire la quantité de données circulant sur Internet car, selon les développeurs, les images représentent en moyenne 65% des données reçues lors de la consultation d'une page web. Des tests réalisés par Google en transcodant un million d’images déjà compressées avec pertes montrent qu'en moyenne le WebP réduirait la taille des fichiers de 39% par rapport aux formats JPEG, PNG et GIF, sans perte de qualité perceptible. »
+D’un point de vue éco-responsable, Google annonce comme raison de la création de ce format : « _la volonté de réduire la quantité de données circulant sur Internet car, selon les développeurs, les images représentent en moyenne 65% des données reçues lors de la consultation d'une page web. Des tests réalisés par Google en transcodant un million d’images déjà compressées avec pertes montrent qu'en moyenne le WebP réduirait la taille des fichiers de 39% par rapport aux formats JPEG, PNG et GIF, sans perte de qualité perceptible_. »
 
-Finalement, le choix du format ne tient qu’à votre stratégie d’acquisition vs les moyens mis en œuvre. Certes, ça demande du temps à mettre en place pour un résultat efficace, mais les retombées en valent la peine sur du long terme : WebP charge plus vite et est pris en charge par plus de 80% des navigateurs du monde entier. Et n’est-il pas plus judicieux d'investir dans ces 80% d'utilisateurs. Pour les 20% restants, un bon vieux JPG ou PNG fera l’affaire.
+Finalement, le choix du format ne tient qu’à votre stratégie d’acquisition vs les moyens mis en œuvre. Certes, ça demande du temps à mettre en place pour un résultat efficace, mais les retombées en valent la peine sur du long terme : WebP charge plus vite et est pris en charge par plus de 80% des navigateurs du monde entier. Et n’est-il pas plus judicieux d'investir dans ces 80% d'utilisateurs ? Pour les 20% restants, un bon vieux JPG ou PNG fera l’affaire.
