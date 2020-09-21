@@ -3,7 +3,6 @@ author = "Fred Maget"
 categories = "Optimisation, Éco"
 date = 2020-09-15T07:00:00Z
 description = "Suivre les meilleures pratiques de référencement des images afin d'en tirer le plus grand bénéfice possible : temps de chargement, accessibilité, etc."
-draft = true
 image = "/uploads/webplusun-blog-optimisation.jpg"
 tags = "images"
 title = "Pourquoi optimiser ses images pour le web ?"
