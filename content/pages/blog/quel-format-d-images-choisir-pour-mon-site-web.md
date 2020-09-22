@@ -63,7 +63,7 @@ D’abord parce que presque tous les navigateurs web actuels sur smartphone et o
 
 Bien sûr, il existe des extensions qui peuvent être encore plus efficacement compressées, mais elles ne sont tout simplement pas prises en charge par le même nombre de navigateurs web.
 
-![Tableau des avantages de chaque format d'images](/uploads/webplusun-tableau-avantages-images.png "Tableau des types d'images")
+![Tableau des avantages de chaque format d'images](/uploads/webplusun-tableau-avantages-images.webp "Tableau des types d'images")
 
 D’un point de vue éco-responsable, Google annonce comme raison de la création de ce format : « _la volonté de réduire la quantité de données circulant sur Internet car, selon les développeurs, les images représentent en moyenne 65% des données reçues lors de la consultation d'une page web. Des tests réalisés par Google en transcodant un million d’images déjà compressées avec pertes montrent qu'en moyenne le WebP réduirait la taille des fichiers de 39% par rapport aux formats JPEG, PNG et GIF, sans perte de qualité perceptible_. »
 
