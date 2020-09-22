@@ -3,6 +3,7 @@ author = "Fred Maget"
 categories = "Optimisation"
 date = 2020-09-20T22:00:00Z
 description = "JPG, PNG, GIF, WEBP, chaque format d’image web a ses qualités et ses défauts. Finalement, son choix ne tient qu’à votre stratégie d’acquisition."
+draft = true
 image = "/uploads/webplusun-blog-optimisation.jpg"
 tags = "Images"
 title = "Quel format d’images choisir pour mon site web ?"
