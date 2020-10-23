@@ -6,8 +6,8 @@
         <div class="col-md-5 mb-4 mb-md-0" itemscope itemtype="http://schema.org/Brand">
           <a href="{{ .Site.BaseURL | relLangURL }}">
             <picture>
-              <source srcset="{{ .Site.Params.logo1 | absURL }}" type="image/webp" alt="{{ .Site.Title }}">
-              <source srcset="{{ .Site.Params.logo2 | absURL }}" type="image/png" alt="{{ .Site.Title }}">
+              <source srcset="{{ .Site.Params.logo1 | absURL }}" type="image/webp">
+              <source srcset="{{ .Site.Params.logo2 | absURL }}" type="image/png">
               <img src="{{ .Site.Params.logo2 | absURL }}" class="mb-4" alt="{{ .Site.Title }}">
             </picture>
           </a>

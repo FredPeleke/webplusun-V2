@@ -4,8 +4,8 @@
     <nav class="navbar navbar-expand-lg navbar-dark p-0" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
       <a class="navbar-brand p-0" href="{{ .Site.BaseURL | relLangURL }}" itemscope itemtype="http://schema.org/Brand">
         <picture>
-          <source srcset="{{ .Site.Params.logo1 | absURL }}" type="image/webp" alt="{{ .Site.Title }}">
-          <source srcset="{{ .Site.Params.logo2 | absURL }}" type="image/png" alt="{{ .Site.Title }}">
+          <source srcset="{{ .Site.Params.logo1 | absURL }}" type="image/webp">
+          <source srcset="{{ .Site.Params.logo2 | absURL }}" type="image/png">
           <img src="{{ .Site.Params.logo2 | absURL }}" alt="{{ .Site.Title }}">
         </picture>
       </a>
