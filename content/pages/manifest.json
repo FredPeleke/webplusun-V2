@@ -5,7 +5,7 @@
   "icons": [
     {
       "src": "/images/WebPlusUn-Apple-touch-icon-180.jpg",
-      "type": "image/jpg",
+      "type": "image/png",
       "sizes": "180x180"
     }
   ],
