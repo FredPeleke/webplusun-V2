@@ -4,7 +4,7 @@
   "description": "Pour des sites web eco-responsables",
   "icons": [
     {
-      "src": "/images/WebPlusUn-Apple-touch-icon-180.jpg",
+      "src": "https://webplusun.fr/images/WebPlusUn-Apple-touch-icon-180.jpg",
       "type": "image/jpg",
       "sizes": "180x180"
     }
