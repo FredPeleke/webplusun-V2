@@ -22,7 +22,7 @@ apply_link : "https://stephanie-lacassagne.fr/"
 ---
 
 
-## Psycho-praticienne à Anglet
+## Sexologue à Bayonne
 
 Stéphanie Lacassagne est nouvellement diplômée en sexologie et psychologie énergétique. Elle voulait une visibilité sur l'internet pour compléter sa communication directe. Sensible à l'humain et à l'écologie, elle a fait appel à moi pour l'élaboration d'un site sur mesure avec un impact environnemental réduit.
 
