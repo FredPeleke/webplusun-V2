@@ -22,7 +22,7 @@ apply_link : "https://lasolutionrelance.fr/"
 ---
 
 
-## Sexologue à Bayonne
+## Assistante commerciale à Ascain
 
 Angélique Lemesle est Assistante commerciale indépendante. Elle accompagne entreprises et particuliers dans leurs démarches et suivis administratif, commercial et dans la gestion des impayés sur toute la France. Elle m'a demandé de préparer un site incluant un blog fournissant un contact très facile, et un suivi avec des conseils sur une stratégie de communication.
 
