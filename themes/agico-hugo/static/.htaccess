@@ -48,10 +48,10 @@
 	ExpiresByType application/x-shockwave-flash "access plus 1 month"
 </IfModule>
 
-# REDIRECTIONS 301
 <IfModule mod_rewrite.c>
+# REDIRECTIONS 301
 	RewriteEngine On
 	RedirectPermanent /author/fred-maget.html http://webplusun.fr/webplusun.html
 	RewriteRule ^/author/fred-maget(/)?$ http://webplusun.fr/webplusun [R=301,L,QSA]
-	RedirectPermanent /blog/c-est-quoi-le-marketing-communautaire http://webplusun.fr/blog/marketing-viral-une-solution-internet
+	RedirectPermanent /blog/c-est-quoi-le-marketing-communautaire https://webplusun.fr/blog/marketing-viral-une-solution-internet
 </IfModule>
