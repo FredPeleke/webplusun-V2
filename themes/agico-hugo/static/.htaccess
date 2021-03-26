@@ -49,9 +49,8 @@
 </IfModule>
 
 # REDIRECTIONS 301
-<IfModule mod_rewrite.c>
+
 	RewriteEngine On
-	RedirectPermanent /author/fred-maget.html http://webplusun.fr/webplusun.html
+	RedirectPermanent /author/fred-maget http://webplusun.fr/webplusun
 	RewriteRule ^/author/fred-maget(/)?$ http://webplusun.fr/webplusun [R=301,L,QSA]
 	RedirectPermanent /blog/c-est-quoi-le-marketing-communautaire http://webplusun.fr/marketing-viral-une-solution-internet
-</IfModule>
