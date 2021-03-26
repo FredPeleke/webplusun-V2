@@ -5,7 +5,7 @@
 	RewriteCond %{HTTP_HOST}  ^webplusun\.fr$ [NC]
 	RewriteCond %{QUERY_STRING}  ^$
 	RewriteCond %{HTTPS} =on
-	RewriteRule ^blog/c-est-quoi-le-marketing-communautaire/$ https://webplusun.fr/blog/marketing-viral-une-solution-internet? [R=301,NE,NC,L]
+	RewriteRule ^blog/c-est-quoi-le-marketing-communautaire\.html$ https://webplusun.fr/blog/marketing-viral-une-solution-internet.html? [R=301,NE,NC,L]
 
 	# 301 Redirect 2
 	RewriteCond %{HTTP_HOST}  ^webplusun\.fr$ [NC]
