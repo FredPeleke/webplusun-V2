@@ -48,7 +48,7 @@
 	ExpiresByType application/x-shockwave-flash "access plus 1 month"
 </IfModule>
 
-<IfModule mod_rewrite.c>
+
 # REDIRECTIONS 301
 	RewriteEngine On
 	# 301 Redirect 1
@@ -63,4 +63,3 @@
 	RewriteCond %{HTTPS} =on
 	RewriteRule ^author/fred-maget\.html$ https://webplusun.fr/webplusun.html? [R=301,NE,NC,L]
 
-</IfModule>
