@@ -53,5 +53,5 @@
 	RewriteEngine On
 	RedirectPermanent /author/fred-maget.html http://webplusun.fr/webplusun.html
 	RewriteRule ^/author/fred-maget(/)?$ http://webplusun.fr/webplusun [R=301,L,QSA]
-	RedirectPermanent /blog/c-est-quoi-le-marketing-communautaire.html http://webplusun.fr/blog/marketing-viral-une-solution-internet.html
+	RedirectPermanent /blog/c-est-quoi-le-marketing-communautaire.html https://webplusun.fr/blog/marketing-viral-une-solution-internet.html
 </IfModule>
