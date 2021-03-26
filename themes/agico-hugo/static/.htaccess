@@ -1,5 +1,4 @@
 <IfModule mod_rewrite.c>
-# REDIRECTIONS 301
 	RewriteEngine On
 	# 301 Redirect 1
 	RewriteCond %{HTTP_HOST}  ^webplusun\.fr$ [NC]
