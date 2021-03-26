@@ -1,4 +1,4 @@
-<IfModule mod_rewrite.c>
+
 	RewriteEngine On
 	# 301 Redirect 1
 	RewriteCond %{HTTP_HOST}  ^webplusun\.fr$ [NC]
@@ -11,7 +11,7 @@
 	RewriteCond %{QUERY_STRING}  ^$
 	RewriteCond %{HTTPS} =on
 	RewriteRule ^author/fred-maget\.html$ https://webplusun.fr/webplusun.html? [R=301,NE,NC,L]
-</IfModule>
+
 
 <IfModule mod_deflate.c>
 	AddOutputFilterByType DEFLATE text/plain
