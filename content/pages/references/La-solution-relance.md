@@ -2,7 +2,7 @@
 title: "La Solution Relance"
 date: 2020-12-15T09:51:57+06:00
 # watermark text
-watermark: "Administratif"
+watermark: "Assistante"
 # page header background image
 bg_image: ""
 # meta description
