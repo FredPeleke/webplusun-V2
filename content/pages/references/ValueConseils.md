@@ -29,7 +29,7 @@ ValueConseils propose des conseils en évolution et transition professionnelle e
 
 ### La demande du client :
 
-* optimisation du site vitrine ;
+* l'optimisation du site vitrine ;
 * une mise en conformité Conception Numérique Responsable ;
 * l'optimisation des contenus (textuels, visuels, on-page, etc.)
 * la possibilité de gérer les pages en pleine autonomie ;
