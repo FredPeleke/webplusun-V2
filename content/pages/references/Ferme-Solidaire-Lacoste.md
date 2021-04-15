@@ -1,12 +1,12 @@
 ---
 title: "Ferme Solidaire Lacoste"
-date: 2021-02-10T09:51:57+06:00
+date: 2021-02-22T09:51:57+06:00
 # watermark text
-watermark: "Solidaire"
+watermark: "Écolieu"
 # page header background image
 bg_image: ""
 # meta description
-description : "Création d'un site éco-responsable pour la Ferme Solidaire Lacoste basé à Tarnos."
+description : "Création d'un site éco-responsable pour la Ferme Solidaire Écolieu Lacoste basé à Tarnos."
 # career logo
 image : "https://www.fermesolidairelacoste.org/wp-content/uploads/2021/02/logoWebClr2.svg"
 # capture accueil
