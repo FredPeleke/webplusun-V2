@@ -6,7 +6,7 @@ watermark: "Mobilier"
 # page header background image
 bg_image: ""
 # meta description
-description : "Refonte du site pour le cabinet Value Conseils."
+description : "Refonte du site pour la créatrice de meubles artisanaux Fanny-Laure."
 # career logo
 image : "https://fannylaure.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2020/10/typo-fannylaure-entete.png.webp"
 # capture accueil
