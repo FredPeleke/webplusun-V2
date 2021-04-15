@@ -22,7 +22,7 @@ apply_link : "https://ptcesudaquitaine.coop/"
 ---
 
 
-## Maroquinerie éco-responsable 100% française
+## Développement du territoire
 
 Le Pôle Territorial de Coopération Economique Sud Aquitaine est un collectif d’acteur.rice.s du Sud Aquitaine (Sud Landes, Pays Basque et Béarn) regroupé.e.s autour d’un Projet commun de développement du territoire au travers des principes et valeurs de l’Economie Sociale et Solidaire (ESS). Pour ce faire il a été décidé d’intervenir de façon transversale et concomitante sur différents axes et secteurs : inclusion, alimentation, éco-habitat, création d’activités, formation, Recherche et développement…
 
