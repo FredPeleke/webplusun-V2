@@ -6,7 +6,7 @@ watermark: "Federazioa"
 # page header background image
 bg_image: ""
 # meta description
-description : "Création du site pour le Cabinet de psychothérapie et hypnothérapie basé à Anglet."
+description : "Création du site pour la Fédération Arrapitz."
 # career logo
 image : "images/career/atlantic-therapies-logo2.png"
 # capture accueil
@@ -24,7 +24,7 @@ apply_link : "https://www.arrapitz.eus"
 
 ## Pour un nouveau développement rural
 
-Un projet collaboratif très complet et intéressant pour la Fédération Arrapitz tant sur le plan technique qu'humain. Arrapitz regroupe 19 associations de producteurs, éleveurs, maraichers du Pays basque impliquées dans le développement rural et durable.
+Un projet collaboratif très complet et intéressant pour la Fédération Arrapitz tant sur le plan technique qu'humain. Arrapitz regroupe de nombreuses associations de producteurs, éleveurs, maraichers du Pays basque impliquées dans le développement rural et durable.
 
 
 ### La demande du client :
