@@ -11,33 +11,23 @@ exemples:
 ############################## Fred ###############################
 webplusun:
   enable : true
-  image : "images/about/webplusun-clavier.jpg"
+  image : "images/about/espace-technologique-jean-bertin.jpg"
   video_thumbnail : ""
   video_link : ""
   subtitle : ""
-  title : "L'éco-responsabilité est l'avenir du web"
-  content : "Nous sommes de plus en plus connectés. Smartphones, tablets et ordinateurs sont dans chaque foyer. Mais quel est leur impact sur notre environnement ?
-On pense souvent que le digital, c’est du virtuel, que ça permet de dématérialiser plein de paperasse, de photos, vidéos, films, etc. Oui mais en fait non. Parce que finalement il n’y a pas de virtuel sans matériel.
-Le but de WebPlusUn est de réagir sans culpabiliser, car l'outil web fait désormais partie de notre quotidien. Faisons en sorte de surfer sur un web plus sain pour optimiser les cycles de vie de chaque appareil.
+  title : "Installé à Tarnos, à quelques kilomètres de Bayonne, Biarritz et Hossegor, je vous accueille dans mon bureau afin de bien détailler vos attentes et objectifs autour de votre projet web, et alors définir le meilleur moyen d'y arriver.
+  
 
+  De Bayonne à Capbreton, de Biriatou à Ostabat, je me déplace dans un vaste rayon à votre rencontre. Car la proximité et le contact direct avec mes clients du Pays basque et des Landes améliorent la productivité et favorisent l'accompagnement de chacun des dossiers sur lesquels je suis amené à travailler.
+  
 
-### L'éco-responsable au service du SXO
+  Chaque création de site internet est un projet unique que je mène en tant que conseiller freelance web spécialisé dans l'éco-responsabilité numérique, à savoir une grande expérience visant à réduire l'empreinte environnementale dans l'utilisation des sites internet.
+  
 
-  On réfléchie trop à son classement sur les moteurs de recherche au détriment de l’utilisateur direct. Pourtant l’un ne va pas sans l’autre. Le classement n’est pas l’aboutissement.
+  Je travaille en collaboration avec des graphistes et rédacteurs locaux sur la partie design et contenus des projets.
+  
 
-
-  Désormais, les consommateurs accordent plus d’intérêt à vos valeurs qu’à vos produits. Alors que ceux-ci ont un vaste choix parmi vos concurrents sur les mêmes biens et services, la différence se fera en valorisant une certaine éthique.
-
-
-  Un site conçu en réfléchissant à faciliter le cheminement du visiteur vers des objectifs précis (KPI) tout en allégeant la charge de l'appareil utilisé, les flux réseaux et les serveurs distants, fera la différence.
-
-
-### WebPlusUn vous accompagne
-
-  Basé entre Pays basque et Landes, WebPlusUn propose un service en conception de sites éco-responsables, diagnostic de performances et optimisation SXO.
-
-
-  En relation directe avec de nombreuses entreprises de secteurs divers (décoration, immobilier, boutiques, e-commerce, alimentaire, surf, marketing, …) ayant une diffusion nationale et internationale, WebPlusUn mise sur la proximité et le contact avec ses clients."
+  De nombreuses entreprises et associations de secteurs divers (économie, décoration, e-commerce, divertissement, hôtellerie, surf, marketing, …) ayant une diffusion nationale et internationale ont déjà fait appel à mes services depuis plusieurs années."
   button:
     enable : true
     label : "L'exemple de WebPlusUn"
@@ -46,9 +36,9 @@ Le but de WebPlusUn est de réagir sans culpabiliser, car l'outil web fait déso
 ############################## Fred ###############################
 fred:
   enable : true
-  subtitle : "Une démarche éco-responsable…"
-  title : "pour un Web plus sain !"
-  content : "C'est à partir de ce simple jeu de mot *pour un Web plus sain* que le nom WebPlusUn m'est apparu évident. Complété par un logo *Web+1* facile à lire et voilà l'aspect visuel et cognitif de mon projet lancé.   
+  subtitle : "Fred Maget"
+  title : "une démarche éco-responsable au Pays basque"
+  content : "C’est à partir de ce simple jeu de mot '+1 = plus sain' que le nom WebPlusUn et son dérivé 'pour un Web plus sain' me sont apparus évidents. Complété par un logo Web+1 facile à lire et voilà l’aspect visuel et cognitif de mon projet lancé.   
   
 
   Ancien journaliste-rédacteur spécialisé dans les sports alternatifs, je me suis rapidement intéressé au web pour diffuser mes écrits sur un site créé (en partie encodé) avec Netscape en 1998 : *Zone d'Impact*.  
@@ -78,6 +68,11 @@ testimonial:
   subtitle : ""
   title : "L'avenir vu par les penseurs :"
   testimonial_item:
+    # testimonial item loop
+    - name : "Frédéric Bordage"
+      designation : "Expert en sobriété numérique"
+      content : Nous ne devons pas nous laisser dominer par cette invention, mais plutôt en tirer le meilleur.
+
     # testimonial item loop
     - name : "Henri Bergson"
       designation : "Philosophe"
@@ -128,10 +123,6 @@ testimonial:
       designation : "Fondateur de Patagonia"
       content : Le meilleur moyen de limiter notre impact sur l'environnement est de faire des produits de la meilleure qualité possible. Des produits durables, fonctionnels, beaux et simples.
 
-          # testimonial item loop
-    - name : "Frédéric Bordage"
-      designation : "Expert en sobriété numérique"
-      content : Nous ne devons pas nous laisser dominer par cette invention, mais plutôt en tirer le meilleur.
 ############################## Partners #################################
 partner:
   enable : false
