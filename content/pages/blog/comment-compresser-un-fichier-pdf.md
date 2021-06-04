@@ -11,7 +11,7 @@ job_category = "Éco"
 job_type = ""
 location = ""
 tags = "Images"
-title = "Comment compresser un fichier PDF ?"
+title = "Comment réduire la taille d'un fichier PDF ?"
 type = "Post"
 watermark = "PDF"
 
@@ -36,7 +36,7 @@ C’est idéal pour proposer vos données sous forme de rapport, de présentatio
 
 Pas difficile ! Sur votre ordinateur, vous avez la possibilité d’afficher les informations de chaque document. Vous y trouverez son titre et aussi un nombre suivi des lettres Ko ou Mo. Elles signifient Kilo Octets et Mega Octets. Sans entrer dans les détails, si c’est Ko c’est okay, si c’est Mo il y a du boulot.
 
-### Pourquoi compresser un fichier lourd ?
+### Pourquoi compresser un fichier trop volumineux ?
 
 Il y a plusieurs raisons qui peuvent vous motiver à compresser un document, c’est à dire à réduire son poids :
 
@@ -44,7 +44,7 @@ Il y a plusieurs raisons qui peuvent vous motiver à compresser un document, c�
 * L’envoi par mel peut s’avérer lent et fastidieux. Un gestionnaire d’emails comme Gmail accepte jusqu’à 7 Mo, mais la patience est de mise. En plus ça vous bouffe toute la bande passante d’Internet. Idem pour la réception d’un tel fichier ;
 * Reprenons la base de l’optimisation SEO qu’est le temps de chargement. L’objectif est d’attirer l’internaute sur votre site pour qu’il y trouve ce qu’il est venu y chercher. Si votre site n’apparait pas en quelques secondes (moins de 4 secondes en moyenne), l’internaute n’attend pas et retourne sur la page précédente. Le poids du document agit sur son temps de chargement. Donc plus il est léger, plus il s’affiche rapidement, et plus vous convertissez.
 
-## Comment compresser un document PDF ?
+## Comment compresser un fichier pdf trop lourd gratuitement ?
 
 Dès que j’ai un rapport ou une présentation à fournir à un client, je vais sur le site [pdfcompressor.com](https://pdfcompressor.com/ "pdfcompressor") (1) sur lequel je charge mon modèle PDF. Celui-ci le compresse alors à une taille facile à échanger sans altérer le niveau de qualité des images.
 
