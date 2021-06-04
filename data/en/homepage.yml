@@ -4,7 +4,7 @@ banner:
   bg_image : ""
   title : "Votre site internet éco-responsable"
   watermark : "éco responsable"
-  content : "Remettre l'humain au centre de votre stratégie web et réduire l'impact environnemental de votre site, c'est possible !"
+  content : "Réduire l’empreinte écologique de votre site internet et remettre l’humain au centre de votre stratégie web, c’est possible !"
   image1 : "images/banner/webplusun-site-eco-responsif.webp"
   image2 : "images/banner/webplusun-site-eco-responsif.png"
   button:
@@ -14,7 +14,7 @@ banner:
 
 ############################### exemples #############################
 exemples:
-  enable : true
+  enable : false
   exemples_item:
     # funfact item loop
     - name : "Par exemple, l'affichage de cette page a généré 1,38g de CO2e en empreinte de Gaz à Effet de Serre (GES) contre 2,30g en moyenne."
