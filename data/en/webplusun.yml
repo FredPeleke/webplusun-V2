@@ -12,6 +12,7 @@ exemples:
 webplusun:
   enable : true
   image : "images/about/espace-technologique-jean-bertin.jpg"
+  alt : "Espace Technologique Jean Bertin à Tarnos"
   video_thumbnail : ""
   video_link : ""
   subtitle : ""
