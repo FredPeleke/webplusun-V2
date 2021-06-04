@@ -1,6 +1,6 @@
 ############################# Default configuration ########################
 baseURL = "https://webplusun.fr/"
-title = "Agence web éco-responsable Bayonne"
+title = "Création de sites web éco-responsables"
 theme = "agico-hugo"
 # post pagination
 paginate = "4"
