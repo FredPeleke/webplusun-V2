@@ -32,7 +32,7 @@ webplusun:
   De nombreuses entreprises et associations de secteurs divers (économie, décoration, e-commerce, divertissement, hôtellerie, surf, marketing, …) ayant une diffusion nationale et internationale ont déjà fait appel à mes services depuis plusieurs années."
   button:
     enable : true
-    label : "L'exemple de WebPlusUn"
+    label : "Ça m'intéresse, je prend contact !"
     link : "contact"
 
 ############################## Fred ###############################
@@ -55,10 +55,7 @@ fred:
   À la fin de la décennie, je bouclais mon magasin et intégrais l'agence de communication d'[Iker Aguirre](https://www.ikeraguirre.com/). Cet expert en marketing, gestion d'entreprise et commerce international m'a beaucoup influencé. Avec lui, je me suis recentré sur l'optimisation des sites web.
 
 
-  C'est en 2011 que je crée WebPlusUn en indépendant pour conseiller de jeunes entreprises dans leurs démarches vers le web. Dès l'année suivante, j'y associais l'aspect environnemental.
-
-
-  "
+  C'est en 2011 que je crée WebPlusUn en indépendant pour conseiller de jeunes entreprises dans leurs démarches vers le web. Dès l'année suivante, j'y associais l'aspect environnemental."
   button:
     enable : false
     label : "Un site éco-responsable vous intéresse ?"
