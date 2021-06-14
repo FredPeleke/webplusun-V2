@@ -79,8 +79,9 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <span class="subtitle" data-aos="fade-up">{{ .subtitle }}</span>
         <h2 class="section-title" data-aos="fade-up" data-aos-delay="200">{{ .title }}</h2>
+        <span class="subtitle" data-aos="fade-up">{{ .subtitle }}</span>
+        
       </div>
       {{ range $index, $element:= .team_member }}
       {{ $delay := mul $index 200}}
