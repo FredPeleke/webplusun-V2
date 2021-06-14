@@ -9,13 +9,13 @@
 
 <url>
   <loc>https://webplusun.fr/</loc>
-  <lastmod>2020-03-12T10:50:57+00:00</lastmod>
+  <lastmod>2021-06-14T10:50:57+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://webplusun.fr/webplusun/</loc>
-  <lastmod>2020-05-19T10:50:57+00:00</lastmod>
-  <priority>0.90</priority>
+  <lastmod>2021-06-14T10:50:57+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
   <loc>https://webplusun.fr/service/</loc>
@@ -49,7 +49,7 @@
 </url>
 <url>
   <loc>https://webplusun.fr/blog/marketing-viral-une-solution-internet/</loc>
-  <lastmod>2012-04-14T10:50:57+00:00</lastmod>
+  <lastmod>2021-06-14T10:50:57+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -70,6 +70,16 @@
 <url>
   <loc>https://webplusun.fr/blog/performance-globale/</loc>
   <lastmod>2020-06-08T10:50:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://webplusun.fr/blog/quel-format-d-images-choisir-pour-mon-site-web/</loc>
+  <lastmod>2021-06-14T10:50:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://webplusun.fr/blog/comment-compresser-un-fichier-pdf/</loc>
+  <lastmod>2021-06-14T10:50:57+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 </urlset>
