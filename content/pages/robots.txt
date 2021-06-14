@@ -2,4 +2,3 @@ User-agent: *
 Disallow: /team
 Disallow: /kaixo
 Disallow: /webplusun-construction
-Disallow: /service
