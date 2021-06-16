@@ -31,9 +31,9 @@
           <p class="h4 text-white mb-4">{{ i18n "contact_info"}}</p>
           <ul class="list-unstyled">
             <li class="mb-3 text-light">{{.Site.Params.horaires | safeHTML }}</li>
-            <li itemprop="address" itemscope itemtype="http://schema.org/PostalAddress" class="mb-3 text-light"><a href="{{.Site.Params.address | safeHTML }}">{{.Site.Params.address | safeHTML }}</a></li>
-            <li itemprop="telephone" class="mb-3 text-light"><a href="{{.Site.Params.mobile | absURL }}">{{.Site.Params.mobile | safeHTML }}</a></li>
-            <li itemprop="email" class="mb-3 text-light"><a href="{{.Site.Params.email | absURL }}">{{.Site.Params.email | safeHTML }}</a></li>
+            <li itemprop="address" itemscope itemtype="http://schema.org/PostalAddress" class="mb-3 text-light">{{.Site.Params.address | safeHTML }}</li>
+            <li itemprop="telephone" class="mb-3 text-light"><a href="tel:{{.Site.Params.mobile | absURL }}">{{.Site.Params.mobile | safeHTML }}</a></li>
+            <li itemprop="email" class="mb-3 text-light"><a href="mailto:{{.Site.Params.email | absURL }}">{{.Site.Params.email | safeHTML }}</a></li>
           </ul>
         </div>
       </div>
