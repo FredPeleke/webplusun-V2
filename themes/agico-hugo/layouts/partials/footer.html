@@ -32,8 +32,8 @@
           <ul class="list-unstyled">
             <li class="mb-3 text-light">{{.Site.Params.horaires | safeHTML }}</li>
             <li itemprop="address" itemscope itemtype="http://schema.org/PostalAddress" class="mb-3 text-light">{{.Site.Params.address | safeHTML }}</li>
-            <li itemprop="telephone" class="mb-3 text-light"><a href="tel:{{.Site.Params.mobile | absURL }}">{{.Site.Params.mobile | safeHTML }}</a></li>
-            <li itemprop="email" class="mb-3 text-light"><a href="mailto:{{.Site.Params.email | absURL }}">{{.Site.Params.email | safeHTML }}</a></li>
+            <li itemprop="telephone" class="mb-3 text-light"><a href="tel:{{.Site.Params.mobile | safeURL }}">{{.Site.Params.mobile | safeHTML }}</a></li>
+            <li itemprop="email" class="mb-3 text-light"><a href="mailto:{{.Site.Params.email | safeURL }}">{{.Site.Params.email | safeHTML }}</a></li>
           </ul>
         </div>
       </div>
@@ -62,7 +62,7 @@
 <script src="{{ .link | absURL }}"></script>
 {{ end }}
 <!-- Cookies -->
-<script src="https://webplusun.fr/plugins/cookiechoices/cookiechoices.js"></script><script>document.addEventListener('DOMContentLoaded', function(event){cookieChoices.showCookieConsentBar('Ce site utilise des cookies pour vous proposer le meilleur service possible, notamment une analyse du parcours de tous les visiteurs sur mes pages.', 'J’accepte', 'En savoir plus', './mentions-legales/');});</script>
+<script src="https://webplusun.fr/plugins/cookiechoices/cookiechoices.js"></script><script>document.addEventListener('DOMContentLoaded', function(event){cookieChoices.showCookieConsentBar('Ce site utilise des cookies pour vous proposer le meilleur service possible, notamment une analyse de votre parcours sur mes pages.', 'J’accepte', 'En savoir plus', './mentions-legales/');});</script>
 <!-- /Cookies -->
 {{ "<!-- JS Script -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify}}
