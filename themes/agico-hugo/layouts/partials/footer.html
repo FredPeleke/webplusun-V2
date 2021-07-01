@@ -59,9 +59,7 @@
 {{ range .Site.Params.plugins.js}}
 <script src="{{ .link | absURL }}"></script>
 {{ end }}
-<!-- Cookies -->
-<script src="https://webplusun.fr/plugins/cookiechoices/cookiechoices.js"></script><script>document.addEventListener('DOMContentLoaded', function(event){cookieChoices.showCookieConsentBar('Ce site utilise des cookies pour vous proposer le meilleur service possible, notamment une analyse de votre parcours sur mes pages.', 'J’accepte', 'En savoir plus', './mentions-legales/');});</script>
-<!-- /Cookies -->
+
 {{ "<!-- JS Script -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify}}
 <script src="{{ $script.Permalink }}"></script>
