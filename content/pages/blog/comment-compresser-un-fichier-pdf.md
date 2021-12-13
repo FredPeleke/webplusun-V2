@@ -46,7 +46,7 @@ Il y a plusieurs raisons qui peuvent vous motiver à compresser un document, c�
 
 ## Comment compresser un fichier pdf trop lourd gratuitement ?
 
-Dès que j’ai un rapport ou une présentation à fournir à un client, je vais sur le site [pdfcompressor.com](https://pdfcompressor.com/ "pdfcompressor") (1) sur lequel je charge mon modèle PDF. Celui-ci le compresse alors à une taille facile à échanger sans altérer le niveau de qualité des images.
+Dès que j’ai un rapport ou une présentation à fournir à un client, je vais sur le site [ilovepdf.com](https://www.ilovepdf.com/fr/compresser_pdf "ilovepdf") (1) sur lequel je charge mon modèle PDF. Celui-ci le compresse alors à une taille facile à échanger sans altérer le niveau de qualité des images.
 
 Par exemple :
 
