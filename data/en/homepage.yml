@@ -99,11 +99,17 @@ about:
       image2 : "images/about/webplusun-clavier.jpg"
       alt : "web éco-responsable WebPlusUn"
       subtitle : "Vous voulez un site :"
-      title : "Éco-responsable"
+      title : "Qu’est-ce qui pollue le plus sur internet ?"
       content : "Nous sommes de plus en plus connectés. Smartphones, tablets et ordinateurs sont dans chaque foyer. Mais quel est leur impact sur notre environnement ? On pense souvent que le digital, c’est du virtuel, que ça permet de dématérialiser plein de paperasse, de photos, vidéos, films, etc. Oui mais en fait non. Parce que finalement il n’y a pas de virtuel sans matériel.
 
 
-  L'utilisation d'internet pollue bien plus qu'on ne l'imagine. 7 à 10% de l’électricité mondiale serait consommée par l’internet. L’empreinte écologique de l’univers numérique global représente environ 3 fois celle de la France. Et Internet est le 6e plus gros pays consommateur d’énergie. 73% des Français n’ont pas conscience de la notion de pollution numérique."
+  L'utilisation d'internet pollue bien plus qu'on ne l'imagine. 7 à 10% de l’électricité mondiale serait consommée par l’internet. L’empreinte écologique de l’univers numérique global représente environ 3 fois celle de la France. Et Internet est le 6e plus gros pays consommateur d’énergie. 73% des Français n’ont pas conscience de la notion de pollution numérique.
+
+
+  Chaque fichier hébergé en ligne est stocké sur un serveur dont le refroidissement, l'alimentation et l'accès sollicitent de l'énergie. Ces fichiers, ce sont les courriels, les sites web, les réseaux sociaux, les sites de streaming audio ou vidéos, etc.
+
+
+  Le but de WebPlusUn est de réagir sans culpabiliser, car l’outil web fait désormais partie de notre quotidien. Faisons en sorte d'élaborer un web plus sain afin d'optimiser les cycles de vie des appareils qui nous permettent de surfer tous les jours et par n'importe quel temps."
       button:
         enable : true
         label : "Quels services ?"
