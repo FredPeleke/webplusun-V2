@@ -49,7 +49,7 @@ faits:
 
 ############################### Features #####################################
 feature:
-  enable : true
+  enable : false
   subtitle : "Ce dont il faut se rendre compte, c'est que"
   title : "chaque jour, Internet pollue :"
   feature_item:
@@ -68,7 +68,28 @@ feature:
       icon_color : "green" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
       content : ""
 
-##################################### About #############################
+##################################### Intro #############################
+intro:
+  enable : true
+  intro_item:
+    # about item loop
+
+    - image1 : "images/about/img-sxo.webp"
+      image2 : "images/about/img-sxo.jpg"
+      alt : "WebPlusUn"
+      subtitle : "Vous avez un site :"
+      title : "Stratégie d'optimisation SXO"
+      content : "Vouloir un site web, c’est vouloir être présent et visible sur l’internet.
+Vouloir un site web éco-responsable, c’est opter pour un site simple, rapide à s’afficher sur tous les écrans, et facile à comprendre. Car celui-ci est optimisé sur des critères spécifiques de façon à être peu énergivore pour les écrans et les data centers. Et en plus Google aime ça, donc votre classement s’en ressent !
+
+Je suis Fred Maget, concepteur et conseiller pour des sites web depuis 2009, convaincu par l’impact environnemental du numérique depuis 2011. Surfeur et triathlète, la nature est mon terrain de jeu. J’agis pour la préserver, pour moi, pour vous, pour nos enfants.
+"
+      button:
+        enable : false
+        label : "Des références"
+        link : "references"
+
+##################################### présentation #############################
 about:
   enable : true
   about_item:
@@ -83,39 +104,7 @@ about:
       content : "Nous sommes de plus en plus connectés. Smartphones, tablets et ordinateurs sont dans chaque foyer. Mais quel est leur impact sur notre environnement ? On pense souvent que le digital, c’est du virtuel, que ça permet de dématérialiser plein de paperasse, de photos, vidéos, films, etc. Oui mais en fait non. Parce que finalement il n’y a pas de virtuel sans matériel.
 
 
-  L'utilisation d'internet pollue bien plus qu'on ne l'imagine. 7 à 10% de l’électricité mondiale serait consommée par l’internet. L’empreinte écologique de l’univers numérique global représente environ 3 fois celle de la France. Et Internet est le 6e plus gros pays consommateur d’énergie. 73% des Français n’ont pas conscience de la notion de pollution numérique.
-
-
-  Le but de WebPlusUn est de réagir sans culpabiliser, car l’outil web fait désormais partie de notre quotidien. Faisons en sorte d'élaborer un web plus sain afin d'optimiser les cycles de vie des appareils qui nous permettent de surfer tous les jours et par n'importe quel temps.
-
-
-  Qu'est-ce qu'un site web éco-responsable ?
-
-    - un design simple, épuré
-    - une structure de site allégée
-    - une page vite chargée
-    - une expérience utilisateur facilitée
-    - un contenu (textes, images, fichiers, etc.) optimisé
-    - un nombre de requêtes http limité
-    - un hébergement certifié ISO 14001 et ISO 50001
-
-
-  La conception idéale d’un site internet ne se situe pas dans un formatage structuré par un CMS type Wordpress ou un protocole édicté par Google mais dans vos objectifs.
-
-
-  C’est avant tout une démarche sur plusieurs niveaux qui consiste à limiter les transferts de données -parfois futiles- entre le data center qui héberge votre site web et l'écran du navigateur qui l'affiche. Pour synthétiser, il faut réduire un ‘trop plein d’informations’ pour se recentrer sur l’essentiel : que votre site soit facilement accessible. Finalement, plus votre site web est simple, plus il est éco-responsable.
-
-
-  Une démarche de sobriété numérique
-
-
-  Cette pratique de l'éco-conception revient donc à restreindre le nombre de requêtes http en allant chercher moins d'informations à afficher pour soulager la bande passante et le DOM, en optimisant les images, en choisissant un hébergeur équipé de serveurs SSD rapides et efficients.
-
-
-  Agir en éco-responsable, c’est aussi faire en sorte que le temps passé sur votre site –et sur l’internet en général– soit rapide, pertinent, optimisé. L’objectif n’est pas que votre visiteur se balade sur votre site au risque de se perdre mais qu’il y trouve des réponses à ce qu’il cherche. Les notions de temps passé, de nombres de pages visitées sont intéressantes mais pas primordiales.
-
-
-  Car un visiteur satisfait est plus susceptible de revenir sur votre site, de partager vos infos, d’acheter vos produits ou services, et finalement devenir votre meilleur ambassadeur."
+  L'utilisation d'internet pollue bien plus qu'on ne l'imagine. 7 à 10% de l’électricité mondiale serait consommée par l’internet. L’empreinte écologique de l’univers numérique global représente environ 3 fois celle de la France. Et Internet est le 6e plus gros pays consommateur d’énergie. 73% des Français n’ont pas conscience de la notion de pollution numérique."
       button:
         enable : true
         label : "Quels services ?"
