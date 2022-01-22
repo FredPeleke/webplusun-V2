@@ -140,6 +140,26 @@ about:
         label : "Des références"
         link : "references"
 
+    - image1 : "images/about/webplusun-clavier.webp"
+      image2 : "images/about/webplusun-clavier.jpg"
+      alt : "web éco-responsable WebPlusUn"
+      subtitle : ""
+      title : "Une démarche de sobriété numérique"
+      content : "Cette pratique de l'éco-conception revient donc à transférer moins d'informations pour soulager la bande passante, à optimiser les images, à choisir un hébergeur équipé de serveurs rapides et efficients.
+
+
+  « Une connexion 4G est jusqu’à 23 fois plus énergivore qu’une connexion WiFi. » (source ADEME)
+
+
+  Agir en éco-responsable, c’est aussi faire en sorte que le temps passé sur votre site –et sur l’internet en général– soit pertinent et optimisé. L’objectif n’est pas que votre visiteur se balade sur votre site mais qu’il y trouve des réponses à ce qu’il cherche. Les notions de temps passé, de nombres de pages visitées sont intéressantes mais pas primordiales.
+
+
+  Car un visiteur satisfait est plus susceptible de revenir sur votre site, de partager vos infos, d’acheter vos produits ou services, et finalement devenir votre meilleur ambassadeur."
+      button:
+        enable : true
+        label : "Prenons contact !"
+        link : "contact"
+
 
 ############################ video ###############################
 promo_video:
