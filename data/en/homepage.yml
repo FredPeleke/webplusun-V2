@@ -120,14 +120,7 @@ about:
       alt : "optimisation sxo WebPlusUn"
       subtitle : ""
       title : "Qu'est-ce qu'un site web éco-responsable ?"
-      content : |
-- un design simple, épuré
-- une structure de site allégée
-- une page vite chargée
-- une expérience utilisateur facilitée
-- un contenu (textes, images, fichiers, etc.) optimisé
-- un nombre de requêtes http limité
-- un hébergement ISO 14001 et ISO 50001 certifié
+      content : "Un design simple, épuré, une structure de site allégée, une page vite chargée, une expérience utilisateur facilitée, un contenu (textes, images, fichiers, etc.) optimisé, un nombre de requêtes http limité, un hébergement ISO 14001 et ISO 50001 certifié
 
 
   La conception idéale d’un site internet ne se situe pas dans un formatage structuré par un CMS type Wordpress ou un protocole édicté par Google, mais dans vos objectifs :
@@ -141,7 +134,7 @@ about:
   C’est alors une démarche à plusieurs niveaux qui s'appuie sur l'évolutivité de templates personnalisés ou préconstruits, la limitation des transferts de données -parfois futiles- entre le data center qui héberge votre site web et l'écran du navigateur qui l'affiche, sans oublier la qualité de cet informatique périphérique.
 
 
-  Pour synthétiser, il faut réduire un ‘trop plein d’informations’ et se recentrer sur l’essentiel : que votre site soit facilement accessible. Finalement, plus votre site web est simple, plus il est éco-responsable.
+  Pour synthétiser, il faut réduire un ‘trop plein d’informations’ et se recentrer sur l’essentiel : que votre site soit facilement accessible. Finalement, plus votre site web est simple, plus il est éco-responsable."
       button:
         enable : true
         label : "Des références"
