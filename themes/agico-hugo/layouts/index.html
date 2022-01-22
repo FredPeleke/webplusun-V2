@@ -74,7 +74,7 @@
 
 {{"<!-- intros -->"| safeHTML}}
 {{ if $data.homepage.intro.enable }}
-{{ range $i,$p := $data.homepage.intro.intro }}
+{{ range $i,$p := $data.homepage.intro.intro_item }}
 <section class="section pb-5">
   <div class="container">
     <div class="row align-items-center">
@@ -104,7 +104,7 @@
 {{ end }}
 {{"<!-- /intros -->"| safeHTML}}
 
-{{"<!-- intros -->"| safeHTML}}
+{{"<!-- présentation -->"| safeHTML}}
 {{ if $data.homepage.about.enable }}
 {{ range $i,$p := $data.homepage.about.about_item }}
 <section class="section pb-5">
@@ -152,6 +152,6 @@
 </section>
 {{ end }}
 {{ end }}
-{{"<!-- /intros -->"| safeHTML}}
+{{"<!-- /présentation -->"| safeHTML}}
 
 {{ end }}
