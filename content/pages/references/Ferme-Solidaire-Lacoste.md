@@ -44,5 +44,4 @@ Portée par l’association Ecolieu Lacoste, la Ferme solidaire de l’Eco-lieu 
 * optimisation des photos ;
 * mise en place des outils de suivi (Tag Manager, Analytics, Search Console, +) ;
 * élaboration d’une stratégie marketing inbound ;
-* configuration d'une page Google My Business ;
-* maintenance et suivi mensuel des visites.
+* configuration d'une page Google My Business.
