@@ -72,7 +72,7 @@
 {{ end }}
 {{"<!-- /compteur -->" | safeHTML }}
 
-{{"<!-- intros -->"| safeHTML}}
+{{"<!-- intro -->"| safeHTML}}
 {{ if $data.homepage.intro.enable }}
 {{ range $i,$p := $data.homepage.intro.intro_item }}
 <section class="section pb-5">
@@ -80,8 +80,8 @@
     <div class="row align-items-center">
       {{ if not (modBool $i 2)}}
       <div class="col-lg-6 col-md-7 text-center text-md-left order-md-1 order-2">
-        <p class="subtitle" data-aos="fade-right">{{ .subtitle }}</p>
-        <h2 class="section-title" data-aos="fade-right" data-aos-delay="200">{{ .title }}</h2>
+        <!-- p class="subtitle" data-aos="fade-right">{{ .subtitle }}</p -->
+        <!-- h2 class="section-title" data-aos="fade-right" data-aos-delay="200">{{ .title }}</h2 -->
         <p class="mb-4" data-aos="fade-right" data-aos-delay="300">{{ .content | markdownify }}
         {{ if .button.enable }}
         {{ with .button }}
@@ -102,7 +102,7 @@
 </section>
 {{ end }}
 {{ end }}
-{{"<!-- /intros -->"| safeHTML}}
+{{"<!-- /intro -->"| safeHTML}}
 
 {{"<!-- présentation -->"| safeHTML}}
 {{ if $data.homepage.about.enable }}
