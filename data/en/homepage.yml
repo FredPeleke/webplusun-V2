@@ -98,7 +98,7 @@ about:
     - image1 : "images/about/webplusun-clavier.webp"
       image2 : "images/about/webplusun-clavier.jpg"
       alt : "web éco-responsable WebPlusUn"
-      subtitle : "Vous voulez un site :"
+      subtitle : ""
       title : "Qu’est-ce qui pollue le plus sur internet ?"
       content : "Nous sommes de plus en plus connectés. Smartphones, tablets et ordinateurs sont dans chaque foyer. Mais quel est leur impact sur notre environnement ? On pense souvent que le digital, c’est du virtuel, que ça permet de dématérialiser plein de paperasse, de photos, vidéos, films, etc. Oui mais en fait non. Parce que finalement il n’y a pas de virtuel sans matériel.
 
@@ -118,15 +118,29 @@ about:
     - image1 : "images/about/img-sxo.webp"
       image2 : "images/about/img-sxo.jpg"
       alt : "optimisation sxo WebPlusUn"
-      subtitle : "Vous avez un site :"
-      title : "Stratégie d'optimisation SXO"
-      content : "Avoir un site sur le web ne fait pas tout. Est-il accessible ? Est-il lisible ? Est-il bien indexé ? Autant de questions qui se posent afin de comprendre les comportements et améliorer les visites des internautes sur votre site.
+      subtitle : ""
+      title : "Qu'est-ce qu'un site web éco-responsable ?"
+      content : "- un design simple, épuré >
+    - une structure de site allégée
+    - une page vite chargée
+    - une expérience utilisateur facilitée
+    - un contenu (textes, images, fichiers, etc.) optimisé
+    - un nombre de requêtes http limité
+    - un hébergement ISO 14001 et ISO 50001 certifié
 
 
-  SXO est la contraction de SEO -*optimisation pour les moteurs de recherche*, en anglais- et UX -*expérience utilisateur*, toujours en anglais. Cette indication pour rappeler que Google et consors restent des canaux d'aquisitions quand vos visiteurs sont, eux, humains.
+  La conception idéale d’un site internet ne se situe pas dans un formatage structuré par un CMS type Wordpress ou un protocole édicté par Google, mais dans vos objectifs :
+
+- « Je veux un site qui s’affiche vite. »
+- « J’ai besoin qu’on me trouve facilement. »
+- « Il faut qu’on puisse me contacter rapidement. »
+- etc.
 
 
-  Remettez l'humain au centre de votre stratégie car vos conversions seront toujours le reflet d'une action humaine."
+  C’est alors une démarche à plusieurs niveaux qui s'appuie sur l'évolutivité de templates personnalisés ou préconstruits, la limitation des transferts de données -parfois futiles- entre le data center qui héberge votre site web et l'écran du navigateur qui l'affiche, sans oublier la qualité de cet informatique périphérique.
+
+
+  Pour synthétiser, il faut réduire un ‘trop plein d’informations’ et se recentrer sur l’essentiel : que votre site soit facilement accessible. Finalement, plus votre site web est simple, plus il est éco-responsable."
       button:
         enable : true
         label : "Des références"
