@@ -14,10 +14,10 @@ banner:
 
 ############################### exemples #############################
 exemples:
-  enable : false
+  enable : true
   exemples_item:
     # funfact item loop
-    - name : "Par exemple, l'affichage de cette page a généré 1,38g de CO2e en empreinte de Gaz à Effet de Serre (GES) contre 2,30g en moyenne."
+    - name : "Ce site récolte des données de trafic anonymisées sans déposer de cookies."
       icon : "fa-refresh"
       icon_color : "green"
 
@@ -49,24 +49,24 @@ faits:
 
 ############################### Features #####################################
 feature:
-  enable : false
+  enable : true
   subtitle : "Ce dont il faut se rendre compte, c'est que"
   title : "chaque jour, Internet pollue :"
   feature_item:
-    - title : "le trafic aérien"
-      icon : "fa-plane"
-      icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-      content : "Cette page s'est affichée en 2s sur mobile et 2,5s sur ordinateur car elle ne pèse que 700Ko."
-      
-    - title : "Optimisation"
+    - title : "Rapide"
       icon : "fa-gears"
       icon_color : "orange" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-      content : "30 requêtes."
+      content : ""
 
-    - title : "Empreinte"
+    - title : "Sécurisé"
+      icon : "fa-diamond"
+      icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+      content : ""
+
+    - title : "Écologique"
       icon : "fa-recycle"
       icon_color : "green" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-      content : "L'affichage de cette page a produit 1,53g de CO2e en empreinte de Gaz à Effet de Serre (GES) contre 2,30g en moyenne."
+      content : ""
 
 ##################################### About #############################
 about:
@@ -75,20 +75,47 @@ about:
     # about item loop
 
         # about item loop
-    - image1 : "images/about/img-eco-responsable.webp"
-      image2 : "images/about/img-eco-responsable.jpg"
+    - image1 : "images/about/webplusun-clavier.webp"
+      image2 : "images/about/webplusun-clavier.jpg"
+      alt : "web éco-responsable WebPlusUn"
       subtitle : "Vous voulez un site :"
       title : "Éco-responsable"
-      content : "La conception idéale d'un site web ne se situe pas dans un formatage ou un protocole mais dans vos objectifs. C'est avant tout une démarche qui consiste à restreindre un 'trop plein d'informations' pour se recentrer sur l'essentiel : ce que cherche votre visiteur.
-  
-
-  L'objectif n'est pas que votre visiteur se balade sur votre site au risque de se perdre mais qu'il y trouve des réponses à ce qu'il cherche. Les notions de *temps passé*, de *nombres de pages visitées* sont intéressantes mais pas primordiales.
+      content : "Nous sommes de plus en plus connectés. Smartphones, tablets et ordinateurs sont dans chaque foyer. Mais quel est leur impact sur notre environnement ? On pense souvent que le digital, c’est du virtuel, que ça permet de dématérialiser plein de paperasse, de photos, vidéos, films, etc. Oui mais en fait non. Parce que finalement il n’y a pas de virtuel sans matériel.
 
 
-  Agir en éco-responsable, c'est aussi faire en sorte que le temps passé sur votre site --et sur l'internet en général-- soit rapide, pertinent, optimisé.
+  L'utilisation d'internet pollue bien plus qu'on ne l'imagine. 7 à 10% de l’électricité mondiale serait consommée par l’internet. L’empreinte écologique de l’univers numérique global représente environ 3 fois celle de la France. Et Internet est le 6e plus gros pays consommateur d’énergie. 73% des Français n’ont pas conscience de la notion de pollution numérique.
 
 
-  Car un visiteur satisfait est plus susceptible de revenir sur votre site, de partager vos infos, d'acheter vos produits ou services, et finalement [devenir votre meilleur ambassadeur](https://webplusun.fr/blog/marketing-viral-une-solution-internet/)."
+  Le but de WebPlusUn est de réagir sans culpabiliser, car l’outil web fait désormais partie de notre quotidien. Faisons en sorte d'élaborer un web plus sain afin d'optimiser les cycles de vie des appareils qui nous permettent de surfer tous les jours et par n'importe quel temps.
+
+
+  Qu'est-ce qu'un site web éco-responsable ?
+
+    - un design simple, épuré
+    - une structure de site allégée
+    - une page vite chargée
+    - une expérience utilisateur facilitée
+    - un contenu (textes, images, fichiers, etc.) optimisé
+    - un nombre de requêtes http limité
+    - un hébergement certifié ISO 14001 et ISO 50001
+
+
+  La conception idéale d’un site internet ne se situe pas dans un formatage structuré par un CMS type Wordpress ou un protocole édicté par Google mais dans vos objectifs.
+
+
+  C’est avant tout une démarche sur plusieurs niveaux qui consiste à limiter les transferts de données -parfois futiles- entre le data center qui héberge votre site web et l'écran du navigateur qui l'affiche. Pour synthétiser, il faut réduire un ‘trop plein d’informations’ pour se recentrer sur l’essentiel : que votre site soit facilement accessible. Finalement, plus votre site web est simple, plus il est éco-responsable.
+
+
+  Une démarche de sobriété numérique
+
+
+  Cette pratique de l'éco-conception revient donc à restreindre le nombre de requêtes http en allant chercher moins d'informations à afficher pour soulager la bande passante et le DOM, en optimisant les images, en choisissant un hébergeur équipé de serveurs SSD rapides et efficients.
+
+
+  Agir en éco-responsable, c’est aussi faire en sorte que le temps passé sur votre site –et sur l’internet en général– soit rapide, pertinent, optimisé. L’objectif n’est pas que votre visiteur se balade sur votre site au risque de se perdre mais qu’il y trouve des réponses à ce qu’il cherche. Les notions de temps passé, de nombres de pages visitées sont intéressantes mais pas primordiales.
+
+
+  Car un visiteur satisfait est plus susceptible de revenir sur votre site, de partager vos infos, d’acheter vos produits ou services, et finalement devenir votre meilleur ambassadeur."
       button:
         enable : true
         label : "Quels services ?"
@@ -96,6 +123,7 @@ about:
 
     - image1 : "images/about/img-sxo.webp"
       image2 : "images/about/img-sxo.jpg"
+      alt : "optimisation sxo WebPlusUn"
       subtitle : "Vous avez un site :"
       title : "Stratégie d'optimisation SXO"
       content : "Avoir un site sur le web ne fait pas tout. Est-il accessible ? Est-il lisible ? Est-il bien indexé ? Autant de questions qui se posent afin de comprendre les comportements et améliorer les visites des internautes sur votre site.
