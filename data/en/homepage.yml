@@ -77,12 +77,13 @@ intro:
     - image1 : "images/about/img-sxo.webp"
       image2 : "images/about/img-sxo.jpg"
       alt : "WebPlusUn"
-      subtitle : "Vous avez un site :"
-      title : "Stratégie d'optimisation SXO"
+      subtitle : ""
+      title : ""
       content : "Vouloir un site web, c’est vouloir être présent et visible sur l’internet.
 Vouloir un site web éco-responsable, c’est opter pour un site simple, rapide à s’afficher sur tous les écrans, et facile à comprendre. Car celui-ci est optimisé sur des critères spécifiques de façon à être peu énergivore pour les écrans et les data centers. Et en plus Google aime ça, donc votre classement s’en ressent !
 
-Je suis Fred Maget, concepteur et conseiller pour des sites web depuis 2009, convaincu par l’impact environnemental du numérique depuis 2011. Surfeur et triathlète, la nature est mon terrain de jeu. J’agis pour la préserver, pour moi, pour vous, pour nos enfants."
+
+  Je suis Fred Maget, concepteur et conseiller pour des sites web depuis 2009, convaincu par l’impact environnemental du numérique depuis 2011. Surfeur et triathlète, la nature est mon terrain de jeu. J’agis pour la préserver, pour moi, pour vous, pour nos enfants."
       button:
         enable : false
         label : "Des références"
@@ -123,12 +124,7 @@ about:
       content : "Un design simple, épuré, une structure de site allégée, une page vite chargée, une expérience utilisateur facilitée, un contenu (textes, images, fichiers, etc.) optimisé, un nombre de requêtes http limité, un hébergement ISO 14001 et ISO 50001 certifié
 
 
-  La conception idéale d’un site internet ne se situe pas dans un formatage structuré par un CMS type Wordpress ou un protocole édicté par Google, mais dans vos objectifs :
-
-- « Je veux un site qui s’affiche vite. »
-- « J’ai besoin qu’on me trouve facilement. »
-- « Il faut qu’on puisse me contacter rapidement. »
-- etc.
+  La conception idéale d’un site internet ne se situe pas dans un formatage structuré par un CMS type Wordpress ou un protocole édicté par Google, mais dans vos objectifs : « Je veux un site qui s’affiche vite », « J’ai besoin qu’on me trouve facilement », « Il faut qu’on puisse me contacter rapidement », etc.
 
 
   C’est alors une démarche à plusieurs niveaux qui s'appuie sur l'évolutivité de templates personnalisés ou préconstruits, la limitation des transferts de données -parfois futiles- entre le data center qui héberge votre site web et l'écran du navigateur qui l'affiche, sans oublier la qualité de cet informatique périphérique.
