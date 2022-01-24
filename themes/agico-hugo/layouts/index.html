@@ -72,6 +72,31 @@
 {{ end }}
 {{"<!-- /compteur -->" | safeHTML }}
 
+{{"<!-- intro -->"| safeHTML}}
+{{ if $data.homepage.intro.enable }}
+{{ range $data.homepage.intro.intro_item }}
+<section class="section pb-5">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-2 col-md-5 text-center text-md-left mb-4 mb-md-0">
+        <picture>
+          <source srcset="{{ .image1 | absURL }}" type="image/webp">
+          <source srcset="{{ .image2 | absURL }}" type="image/jpg">
+          <amp-img src="{{ .image2 | absURL}}" class="img-fluid" alt="{{ .alt }}" data-aos="fade-right" loading="lazy" decoding="async" width="587" height="480" layout="responsive">
+        </picture>
+      </div>
+      <div class="col-lg-8 col-md-7 text-center text-md-left">
+        <!-- p class="subtitle">{{ .subtitle }}</p -->
+        <h2 class="section-title" data-aos="fade-left" data-aos-delay="200">{{ .title }}</h2>
+        <p class="mb-4" data-aos="fade-left" data-aos-delay="300">{{ .content | markdownify }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+{{"<!-- /intro -->"| safeHTML}}
+
 {{"<!-- présentation -->"| safeHTML}}
 {{ if $data.homepage.about.enable }}
 {{ range $i,$p := $data.homepage.about.about_item }}
