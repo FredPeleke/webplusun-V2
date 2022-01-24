@@ -29,7 +29,12 @@
     <div class="row">
       <div class="col-md-6 pr-lg-4 mb-4 mb-md-0">
         <div class="position-relative" data-aos="fade-up">
-          <img src="{{ .image | absURL}}" class="img-fluid shadow" alt="{{ .alt }}">
+          <picture>
+            <source srcset="{{ .image1 | absURL }}" type="image/webp">
+            <source srcset="{{ .image2 | absURL }}" type="image/jpg">
+            <amp-img src="{{ .image2 | absURL}}" class="img-fluid" alt="{{ .alt }}" data-aos="fade-right" loading="lazy" decoding="async" width="510" height="384" layout="responsive">
+          </picture>
+          <!-- img src="{{ .image | absURL}}" class="img-fluid shadow" alt="{{ .alt }}" -->
           
         </div>
       </div>
