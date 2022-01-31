@@ -8,7 +8,7 @@ exemples:
       icon : "fa-spinner"
       icon_color : "green"
 
-############################## Fred ###############################
+############################## webplusun ###############################
 webplusun:
   enable : true
   image1 : "images/about/espace-technologique-jean-bertin.webp"
