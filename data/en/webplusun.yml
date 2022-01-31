@@ -11,8 +11,8 @@ exemples:
 ############################## Fred ###############################
 webplusun:
   enable : true
-  image1 : "/images/about/espace-technologique-jean-bertin.webp"
-  image : "/images/about/espace-technologique-jean-bertin.jpg"
+  image1 : "images/about/espace-technologique-jean-bertin.webp"
+  image2 : "images/about/espace-technologique-jean-bertin.jpg"
   alt : "Espace Technologique Jean Bertin à Tarnos"
   video_thumbnail : ""
   video_link : ""
