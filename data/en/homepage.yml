@@ -74,8 +74,8 @@ intro:
   intro_item:
     # about item loop
 
-    - image1 : "images/about/img-sxo.webp"
-      image2 : "images/about/img-sxo.jpg"
+    - image1 : "images/about/Fred-Maget-WebPlusUn.jpg"
+      image2 : "images/about/Fred-Maget-WebPlusUn.jpg"
       alt : "WebPlusUn"
       subtitle : ""
       title : ""
@@ -96,15 +96,15 @@ about:
     # about item loop
 
         # about item loop
-    - image1 : "images/about/webplusun-clavier.webp"
-      image2 : "images/about/webplusun-clavier.jpg"
-      alt : "web éco-responsable WebPlusUn"
+    - image1 : "images/about/sobriete-numerique.jpg"
+      image2 : "images/about/sobriete-numerique.jpg"
+      alt : "Nous sommes de plus en plus connectés. Smartphones, tablets et ordinateurs sont dans chaque foyer."
       subtitle : ""
       title : "Qu’est-ce qui pollue le plus sur internet ?"
       content : "Nous sommes de plus en plus connectés. Smartphones, tablets et ordinateurs sont dans chaque foyer. Mais quel est leur impact sur notre environnement ? On pense souvent que le digital, c’est du virtuel, que ça permet de dématérialiser plein de paperasse, de photos, vidéos, films, etc. Oui mais en fait non. Parce que finalement il n’y a pas de virtuel sans matériel.
 
 
-  L'utilisation d'internet pollue bien plus qu'on ne l'imagine. 7 à 10% de l’électricité mondiale serait consommée par l’internet. L’empreinte écologique de l’univers numérique global représente environ 3 fois celle de la France. Et Internet est le 6e plus gros pays consommateur d’énergie. 73% des Français n’ont pas conscience de la notion de pollution numérique.
+  L'utilisation d'internet pollue bien plus qu'on ne l'imagine. 7 à 10% de l’électricité mondiale serait consommée par l’internet. L’empreinte écologique de l’univers numérique global représente environ 3 fois celle de la France. Si Internet était un pays, ce serait le 6e plus gros consommateur d’énergie. Pourtant, trois Français sur quatre n’ont pas conscience de la notion de pollution numérique.
 
 
   Chaque fichier hébergé en ligne est stocké sur un serveur dont le refroidissement, l'alimentation et l'accès sollicitent de l'énergie. Ces fichiers, ce sont les courriels, les sites web, les réseaux sociaux, les sites de streaming audio ou vidéos, etc.
@@ -116,8 +116,8 @@ about:
         label : "Quels services ?"
         link : "service"
 
-    - image1 : "images/about/img-sxo.webp"
-      image2 : "images/about/img-sxo.jpg"
+    - image1 : "images/about/sobriete-numerique.jpg"
+      image2 : "images/about/sobriete-numerique.jpg"
       alt : "optimisation sxo WebPlusUn"
       subtitle : ""
       title : "Qu'est-ce qu'un site web éco-responsable ?"
@@ -136,8 +136,8 @@ about:
         label : "Des références"
         link : "references"
 
-    - image1 : "images/about/webplusun-clavier.webp"
-      image2 : "images/about/webplusun-clavier.jpg"
+    - image1 : "images/about/sobriete-numerique.jpg"
+      image2 : "images/about/sobriete-numerique.jpg"
       alt : "web éco-responsable WebPlusUn"
       subtitle : ""
       title : "Une démarche de sobriété numérique"
@@ -156,6 +156,22 @@ about:
         label : "Prenons contact !"
         link : "contact"
 
+############################### cta #############################
+cta:
+  enable: false
+  bg_Image: "images/herbes-copie.jpg"
+  title: "Mettez de l'éthique dans votre site"
+  content: "Les internautes-consommateurs ont un large choix parmi vos concurrents sur les mêmes biens et services, et accordent désormais plus d’importance à vos valeurs qu’à vos produits ('fabriqué en France', '1% pour la planète', etc.).
+
+
+    Commercialement, la différence se fera en vous démarquant à travers une certaine éthique.
+
+
+    Humainement, vous allez réduire votre impact environnemental."
+  button:
+    enable: true
+    label: "Oui, mais à quel prix ?"
+    link: "contact"
 
 ############################ video ###############################
 promo_video:
