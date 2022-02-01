@@ -74,8 +74,8 @@ intro:
   intro_item:
     # about item loop
 
-    - image1 : "images/about/Fred-Maget-WebPlusUn.jpg"
-      image2 : "images/about/Fred-Maget-WebPlusUn.jpg"
+    - image1 : "images/team/Fred-Maget-WebPlusUn.jpg"
+      image2 : "images/team/Fred-Maget-WebPlusUn.jpg"
       alt : "WebPlusUn"
       subtitle : ""
       title : ""
@@ -96,8 +96,8 @@ about:
     # about item loop
 
         # about item loop
-    - image1 : "images/about/sobriete-numerique.jpg"
-      image2 : "images/about/sobriete-numerique.jpg"
+    - image1 : "images/about/toujours-plus-connectes.jpg"
+      image2 : "images/about/toujours-plus-connectes.jpg"
       alt : "Nous sommes de plus en plus connectés. Smartphones, tablets et ordinateurs sont dans chaque foyer."
       subtitle : ""
       title : "Qu’est-ce qui pollue le plus sur internet ?"
