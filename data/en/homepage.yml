@@ -17,7 +17,7 @@ exemples:
   enable : true
   exemples_item:
     # funfact item loop
-    - name : "Ce site récolte des données de trafic anonymisées sans déposer de cookies."
+    - name : "Ce site récolte des données de trafic anonymisées sans déposer de cookies, conformément aux RGPD."
       icon : "fa-refresh"
       icon_color : "green"
 
@@ -74,8 +74,8 @@ intro:
   intro_item:
     # about item loop
 
-    - image1 : "images/team/Fred-Maget-WebPlusUn.jpg"
-      image2 : "images/team/Fred-Maget-WebPlusUn.jpg"
+    - image1 : "images/about/Fred-Maget-portrait.webp"
+      image2 : "images/about/Fred-Maget-portrait.jpg"
       alt : "WebPlusUn"
       subtitle : ""
       title : ""
@@ -96,8 +96,8 @@ about:
     # about item loop
 
         # about item loop
-    - image1 : "images/about/toujours-plus-connectes.jpg"
-      image2 : "images/about/toujours-plus-connectes.jpg"
+    - image1 : "images/about/pollution-numerique-en-7-chiffres.webp"
+      image2 : "images/about/pollution-numerique-en-7-chiffres.jpg"
       alt : "Nous sommes de plus en plus connectés. Smartphones, tablets et ordinateurs sont dans chaque foyer."
       subtitle : ""
       title : "Qu’est-ce qui pollue le plus sur internet ?"
@@ -116,8 +116,8 @@ about:
         label : "Quels services ?"
         link : "service"
 
-    - image1 : "images/about/sobriete-numerique.jpg"
-      image2 : "images/about/sobriete-numerique.jpg"
+    - image1 : "images/about/img-eco.webp"
+      image2 : "images/about/img-eco.jpg"
       alt : "optimisation sxo WebPlusUn"
       subtitle : ""
       title : "Qu'est-ce qu'un site web éco-responsable ?"
