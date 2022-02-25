@@ -139,6 +139,9 @@ map_marker = "images/marker.png"
 icon = "fa-facebook"
 URL = "https://www.facebook.com/WebPlusUn/"
 
+icon = "fa-linkedin"
+URL = "https://www.linkedin.com/company/webplusun/"
+
 
 ################################### English language #####################################
 [Languages.en]
