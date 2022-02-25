@@ -138,7 +138,6 @@ map_marker = "images/marker.png"
 [[params.social]]
 icon = "fa-facebook"
 URL = "https://www.facebook.com/WebPlusUn/"
-
 icon = "fa-linkedin"
 URL = "https://www.linkedin.com/company/webplusun/"
 
