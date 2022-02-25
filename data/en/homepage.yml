@@ -158,7 +158,7 @@ about:
 
 ############################### cta #############################
 cta:
-  enable: false
+  enable: true
   bg_Image: "images/herbes-copie.jpg"
   title: "Mettez de l'éthique dans votre site"
   content: "Les internautes-consommateurs ont un large choix parmi vos concurrents sur les mêmes biens et services, et accordent désormais plus d’importance à vos valeurs qu’à vos produits ('fabriqué en France', '1% pour la planète', etc.).
