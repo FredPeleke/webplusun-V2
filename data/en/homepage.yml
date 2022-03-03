@@ -171,7 +171,7 @@ cta:
   button:
     enable: true
     label: "Oui, mais à quel prix ?"
-    link: "contact"
+    link: "tarifs"
 
 ############################ video ###############################
 promo_video:
