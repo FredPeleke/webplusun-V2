@@ -22,7 +22,7 @@ pricing:
       price : "€€€€"
       unit : ""
       description : "Vous voulez ouvrir un site"
-      link : "./contact"
+      link : "./service"
       services:
         - "Éco ou Wordpress"
         - "Conception Numérique Responsable"
@@ -47,7 +47,7 @@ pricing:
         
     # pricing table loop
     - title : "Audit"
-      price : "€€-€€€"
+      price : "€€€"
       unit : ""
       description : "Vous voulez améliorer un site"
       link : "./contact"
