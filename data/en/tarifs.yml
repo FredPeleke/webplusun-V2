@@ -22,7 +22,7 @@ pricing:
       price : "€€€€"
       unit : ""
       description : "Vous voulez ouvrir un site"
-      link : "./service"
+      link : "./service/#services_reflexion"
       services:
         - "Éco ou Wordpress"
         - "Conception Numérique Responsable"
@@ -36,7 +36,7 @@ pricing:
       price : "€€€€"
       unit : ""
       description : "Vous voulez refondre un site"
-      link : "./contact"
+      link : "./service"
       services:
         - "Diagnostic du site"
         - "étude ergonomique"
@@ -50,7 +50,7 @@ pricing:
       price : "€€€"
       unit : ""
       description : "Vous voulez améliorer un site"
-      link : "./contact"
+      link : "./contact/#services_demarches"
       services:
         - "accessibilité"
         - "indexation"
