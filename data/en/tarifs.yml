@@ -60,44 +60,41 @@ pricing:
         - "+…"
         
     # pricing table loop
-    - title : "Consultant"
-      price : "€€-€€€"
-      unit : ""
-      description : "Vous cherchez des conseils"
+    - title : "Maintenance"
+      price : "€€"
+      unit : "/mois"
+      description : "Vous avez besoin de sécurité"
       link : "./contact"
       services:
-        - "Diagnostic du site"
-        - "Définir ses KPI"
-        - "Choix des mots-clés"
-        - "Analyse de trafic"
-        - "Canaux d'acquisition"
-        - "Impact environnemental"
+        - "sauvegardes quotidiennes"
+        - "mises à jour hebdomadaires"
+        - "sécurisation des données"
+        - "support technique"
+        - "+…"
+
+    # pricing table loop
+    - title : "Accompagnement"
+      price : "€€"
+      unit : "/mois"
+      description : "Vous voulez un suivi de projet"
+      link : "./contact"
+      services:
+        - "intégration de contenus"
+        - "suivi de la qualité d’indexation"
+        - "rapports de performances"
+        - "conseils en acquisition"
+        - "+…"
 
     # pricing table loop
     - title : "Consultant"
-      price : "€€-€€€"
+      price : "€€€"
       unit : ""
       description : "Vous cherchez des conseils"
       link : "./contact"
       services:
-        - "Diagnostic du site"
-        - "Définir ses KPI"
-        - "Choix des mots-clés"
-        - "Analyse de trafic"
-        - "Canaux d'acquisition"
-        - "Impact environnemental"
-
-    # pricing table loop
-    - title : "Consultant"
-      price : "€€-€€€"
-      unit : ""
-      description : "Vous cherchez des conseils"
-      link : "./contact"
-      services:
-        - "Diagnostic du site"
-        - "Définir ses KPI"
-        - "Choix des mots-clés"
-        - "Analyse de trafic"
-        - "Canaux d'acquisition"
-        - "Impact environnemental"
+        - "définir vos objectifs"
+        - "choisir des mots-clés pertinents"
+        - "exploiter vos canaux d'acquisition"
+        - "réduire votre impact environnemental"
+        - "+…"
         
