@@ -27,7 +27,7 @@
             <li>Les structurations, mises en couleurs et les animations sont créées en CSS3 ;</li>
             <li>Les fonctionnalités complexes sont écrites en Javascript ;</li>
             <li>L'organisation des données requiert d'autres langages spécifiques ;</li>
-            <li>La police de caractère est Luciole conçue spécifiquement pour les personnes malvoyantes ;</li>
+            <li>La police de caractère est <a herf="https://www.luciole-vision.com/" rel="noopener nofollow" target="_blank">Luciole</a> conçue spécifiquement pour les personnes malvoyantes ;</li>
             <li>Certaines images et photos sont convertis en .webp, format de compression dernière génération ;</li>
             <li>Webplusun.fr est installé chez <a href="https://infomaniak.com" rel="noopener nofollow" target="_blank">Infomaniak, un hébergeur certifié ISO 14001 et ISO 50001</a> ;</li>
             <li>Une diffusion rapide et sécurisée du site est générée via un CDN.</li>
@@ -64,7 +64,7 @@
               <i class="fa fa-envelope-o icon-primary"></i>
               <div class="pl-3">
                 <p class="h5 text-dark">Mel</p>
-                <p>{{ . | markdownify }}</p>
+                <a href="mailto:{{ . | markdownify }}">{{ . | markdownify }}</a>
               </div>
             </li>
             {{ end }}
