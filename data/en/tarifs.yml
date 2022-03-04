@@ -50,7 +50,7 @@ pricing:
       price : "€€€"
       unit : ""
       description : "Vous voulez améliorer un site"
-      link : "./contact#services_demarches"
+      link : "#services_demarches"
       services:
         - "accessibilité"
         - "indexation"
