@@ -50,7 +50,7 @@ pricing:
       price : "€€€"
       unit : ""
       description : "Vous voulez améliorer un site"
-      link : "#services_demarches"
+      link : "./service#services_demarches"
       services:
         - "accessibilité"
         - "indexation"
@@ -64,7 +64,7 @@ pricing:
       price : "€€"
       unit : "/mois"
       description : "Vous avez besoin de sécurité"
-      link : "./contact"
+      link : "./service"
       services:
         - "sauvegardes quotidiennes"
         - "mises à jour hebdomadaires"
@@ -77,7 +77,7 @@ pricing:
       price : "€€"
       unit : "/mois"
       description : "Vous voulez un suivi de projet"
-      link : "./contact"
+      link : "./service"
       services:
         - "intégration de contenus"
         - "suivi de la qualité d’indexation"
