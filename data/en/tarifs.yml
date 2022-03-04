@@ -19,31 +19,45 @@ pricing:
   pricing_table:
     # pricing table loop
     - title : "Création"
-      price : "€€€"
-      unit : "/ mois"
+      price : "€€€€"
+      unit : ""
       description : "Vous voulez ouvrir un site"
       link : "./contact"
       services:
-        - "Formule 'créateurs'"
-        - "Aide au projet"
         - "Éco ou Wordpress"
-        - "Conception SXO"
-        - "Config. outils de suivi"
-        - "Maintenance"
+        - "Conception Numérique Responsable"
+        - "mise en conformité RGPD"
+        - "outils de suivi"
+        - "formation à l’utilisation"
+        - "+…"
         
     # pricing table loop
     - title : "Existant"
       price : "€€€€"
       unit : ""
-      description : "Vous voulez améliorer un site"
+      description : "Vous voulez refondre un site"
       link : "./contact"
       services:
         - "Diagnostic du site"
-        - "Refonte Éco ou Wordpress"
-        - "Optimisation SXO"
-        - "Config. outils de suivi"
+        - "étude ergonomique"
+        - "optimisation des contenus"
+        - "mise en conformité RGPD"
         - "Cohérence des KPI"
-        - "Maintenance"
+        - "+…"
+        
+    # pricing table loop
+    - title : "Audit"
+      price : "€€-€€€"
+      unit : ""
+      description : "Vous voulez améliorer un site"
+      link : "./contact"
+      services:
+        - "accessibilité"
+        - "indexation"
+        - "fonctionnalités"
+        - "impact environnemental"
+        - "conformité RGPD"
+        - "+…"
         
     # pricing table loop
     - title : "Consultant"
@@ -58,5 +72,32 @@ pricing:
         - "Analyse de trafic"
         - "Canaux d'acquisition"
         - "Impact environnemental"
-        
 
+    # pricing table loop
+    - title : "Consultant"
+      price : "€€-€€€"
+      unit : ""
+      description : "Vous cherchez des conseils"
+      link : "./contact"
+      services:
+        - "Diagnostic du site"
+        - "Définir ses KPI"
+        - "Choix des mots-clés"
+        - "Analyse de trafic"
+        - "Canaux d'acquisition"
+        - "Impact environnemental"
+
+    # pricing table loop
+    - title : "Consultant"
+      price : "€€-€€€"
+      unit : ""
+      description : "Vous cherchez des conseils"
+      link : "./contact"
+      services:
+        - "Diagnostic du site"
+        - "Définir ses KPI"
+        - "Choix des mots-clés"
+        - "Analyse de trafic"
+        - "Canaux d'acquisition"
+        - "Impact environnemental"
+        
