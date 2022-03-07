@@ -8,9 +8,9 @@ bg_image: ""
 # meta description
 description : "Création du site pour la Fédération Arrapitz."
 # career logo
-image : "images/career/atlantic-therapies-logo2.png"
+image : "images/career/Arrapitz-logo.png"
 # capture accueil
-capture : "images/career/Atlantic-Therapies-capture-accueil.jpg"
+capture : "images/career/Arrapitz-capture-accueil.jpg"
 # location
 location : "Ostabat Asme (64)"
 # job type
