@@ -80,7 +80,7 @@
     <div class="row align-items-center">
       <div class="col-lg-2 col-md-5 text-center text-md-left mb-4 mb-md-0">
         <picture>
-          <source srcset="{{ .image1 | absURL }}" type="image/jpg">
+          <source srcset="{{ .image1 | absURL }}" type="image/webp">
           <source srcset="{{ .image2 | absURL }}" type="image/jpg">
           <img src="{{ .image2 | absURL}}" class="img-fluid" alt="{{ .alt }}" data-aos="fade-right" loading="lazy" decoding="async" width="200" height="" layout="responsive">
         </picture>
@@ -106,7 +106,7 @@
       {{ if not (modBool $i 2)}}
       <div class="col-lg-6 col-md-5 text-center text-md-left mb-4 mb-md-0">
         <picture>
-          <source srcset="{{ .image1 | absURL }}" type="image/jpg">
+          <source srcset="{{ .image1 | absURL }}" type="image/webp">
           <source srcset="{{ .image2 | absURL }}" type="image/jpg">
           <img src="{{ .image2 | absURL}}" class="img-fluid" alt="{{ .alt }}" data-aos="fade-right" loading="lazy" decoding="async" width="461" height="" layout="responsive">
         </picture>
@@ -134,7 +134,7 @@
       </div>
       <div class="col-lg-6 col-md-5 text-center text-md-left order-1 order-md-2 mb-4 mb-md-0">
         <picture>
-          <source srcset="{{ .image1 | absURL }}" type="image/jpg">
+          <source srcset="{{ .image1 | absURL }}" type="image/webp">
           <source srcset="{{ .image2 | absURL }}" type="image/jpg">
           <img src="{{ .image2 | absURL}}" class="img-fluid" alt="{{ .alt }}" data-aos="fade-left" loading="lazy" decoding="async" width="461" height="" layout="responsive">
         </picture>
