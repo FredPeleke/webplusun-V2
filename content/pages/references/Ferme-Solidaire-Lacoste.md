@@ -24,7 +24,7 @@ apply_link : "https://www.fermesolidairelacoste.org/"
 
 ## Atelier-chantier d’insertion
 
-Portée par l’association Ecolieu Lacoste, la Ferme solidaire de l’Eco-lieu Lacoste est un atelier-chantier d’insertion par l’activité économique en maraîchage biologique. Le projet s’inscrit dans la démarche alimentaire de territoire sur le bassin de vie basco-landais, pour une transition alimentaire et agricole. L’association Ecolieu Lacoste a fait appel à mes services pour l'élaboration d'un site avec un impact environnemental réduit. Un projet collaboratif très complet et intéressant tant sur le plan technique qu'humain. J'ai mené ce dossier en collaboration avec Le Tour de Main (https://letourdemain.com/vivre-bien-son-activite/).
+Portée par l’association Ecolieu Lacoste, la Ferme solidaire de l’Eco-lieu Lacoste est un atelier-chantier d’insertion par l’activité économique en maraîchage biologique. Le projet s’inscrit dans la démarche alimentaire de territoire sur le bassin de vie basco-landais, pour une transition alimentaire et agricole. L’association Ecolieu Lacoste a fait appel à mes services pour l'élaboration d'un site avec un impact environnemental réduit. Un projet collaboratif très complet et intéressant tant sur le plan technique qu'humain. J'ai mené ce dossier en collaboration avec Le Tour de Main.
 
 
 ### La demande du client :
