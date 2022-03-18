@@ -23,10 +23,10 @@
           {{ "<!-- blog post -->" | safeHTML }}
           <div class="col-sm-6 mb-4">
             <div class="card border-0 shadow rounded-lg">
-              <img src="{{ .Params.Image | absURL }}" class="img-fluid card-img-top rounded-top-lg" alt="post-thumb">
+              <a href="{{ .Permalink }}"><img src="{{ .Params.Image | absURL }}" class="img-fluid card-img-top rounded-top-lg" alt="post-thumb"></a>
               <div class="card-body">
                 <p class="card-date">{{ .PublishDate.Format "02 Jan 2006" }}</p>
-                <p><a class=" h4 text-dark" href="{{ .Permalink }}">{{ .Title }}</a></p>
+                <p><a class="h4 text-dark" href="{{ .Permalink }}">{{ .Title }}</a></p>
               </div>
             </div>
           </div>
