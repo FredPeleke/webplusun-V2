@@ -2,6 +2,8 @@
 title: "C'est quoi la Sobriété numérique ?"
 title2 : "La Sobriété numérique"
 date: 2020-01-14T09:51:57+06:00
+maj: 2022-03-23T09:00:00Z
+lecture: "2mn"
 # watermark text
 watermark: "Sobriété"
 # meta description
@@ -23,6 +25,6 @@ Comme la roue et le feu, le numérique doit être un outil au service de l'human
 
 Par des mots simples, des chiffres, des faits, l'auteur nous fait prendre conscience de l'état actuel de notre société '_littéralement hypnotisée par sa découverte_' qu'est le numérique.
 
-Par des mots tout aussi simples, il nous montre ce que chacun de nous peut faire pour, non pas changer les choses, mais les améliorer avec du bon sens. '_Nous ne devons pas nous laisser dominer par cette invention, mais plutôt en tirer le meilleur_'.
+Par des mots tout aussi simples, il nous montre ce que chacun de nous peut faire pour, non pas changer les choses, mais les améliorer avec du bon sens à travers [des éco-gestes simples](https://webplusun.fr/blog/des-gestes-simples/). '_Nous ne devons pas nous laisser dominer par cette invention, mais plutôt en tirer le meilleur_'.
 
 [Sobriété numérique, les clés pour agir](https://www.greenit.fr/2019/09/10/sobriete-numerique-les-cles-pour-agir/) est édité chez Buchet-Chastel et est vendu 18€.
