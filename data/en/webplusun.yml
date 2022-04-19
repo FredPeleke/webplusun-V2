@@ -126,6 +126,13 @@ testimonial:
       designation : "Fondateur de Patagonia"
       content : Le meilleur moyen de limiter notre impact sur l'environnement est de faire des produits de la meilleure qualité possible. Des produits durables, fonctionnels, beaux et simples.
 
+
+          # testimonial item loop
+    - name : "Alizée"
+      designation : "Le Bon Digital - le numérique plus responsable"
+      content : J’ai à cœur de penser que nous sommes juste à l’aube d’un futur plus conscient, où le numérique responsable ne sera plus un mouvement mais bel et bien la norme.
+
+
 ############################## Partners #################################
 partner:
   enable : false
