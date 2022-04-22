@@ -1,4 +1,4 @@
-############################# Default configuration ########################
+############################# Configuration par défaut ########################
 baseURL = "https://webplusun.fr/"
 title = "Création de sites web éco-responsables"
 theme = "agico-hugo"
@@ -44,7 +44,7 @@ link = "plugins/aos/aos.js"
 
 ############################ Custom CSS #################################
 
-custom_css = ["css/custom.css"]
+custom_css = ["css/style-perso.css"]
   
 ############################ navigation #################################
 
@@ -92,7 +92,7 @@ URL = "mentions-legales"
 weight = 4
 
 
-########################### Default parameters ###########################
+########################### Paramètres par défaut ###########################
 [params]
 logo1 = "images/web-plus-un-logo.webp"
 logo2 = "images/web-plus-un-logo.png"
