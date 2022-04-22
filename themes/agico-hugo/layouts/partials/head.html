@@ -11,6 +11,11 @@
 
   <link rel="canonical" href="{{ .Permalink }}" />
 
+  <!-- Custom CSS -->
+  {{ range .Site.Params.custom_css -}}
+      <link rel="stylesheet" href="{{ . | absURL }}">
+  {{- end }}
+
   {{ "<!-- plugins -->" | safeHTML }}
   {{ range .Site.Params.plugins.css }}
   <link rel="stylesheet preload" href="{{ .link | absURL }}" as="style" onload="this.onload=null;this.rel='stylesheet'">

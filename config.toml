@@ -42,7 +42,9 @@ link = "plugins/search/search.js"
 [[params.plugins.js]]
 link = "plugins/aos/aos.js"
 
+############################ Custom CSS #################################
 
+custom_css = ["css/custom.css"]
   
 ############################ navigation #################################
 
