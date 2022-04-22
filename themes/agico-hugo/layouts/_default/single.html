@@ -21,11 +21,11 @@
         <h2 class="section-title" data-aos="fade-up" data-aos-delay="200" itemprop = "name">{{ .Params.Title2 }}</h2>
         <p class="text-color card-date position-relative d-inline-block" style="font-size: small;">par <span
             class="text-dark font-weight-bold" itemprop="author">{{ .Params.Author }}</span> publié le <span
-            class="text-dark font-weight-bold" itemprop="datePublished" content="{{ .Params.Date }}">{{ .PublishDate.Format "02 Jan 2006" }}</span>
+            class="text-dark font-weight-bold" itemprop="datePublished" content="{{ .Params.Date }}">{{ .PublishDate.Format "02 January 2006" .Date.UTC }}</span>
             {{- if isset .Params "Lastmod" }}
             {{- if ne .Lastmod .Date }}
               <span
-            class="text-dark font-weight-bold" itemprop="datePublished" content="{{ .Params.Lastmod }}">{{ .Lastmod.Format "02 Jan 2006" }}</span>
+            class="text-dark font-weight-bold" itemprop="datePublished" content="{{ .Params.Lastmod }}"> MàJ le {{ .Lastmod.Format "02 Jan 2006" }}</span>
             {{- end }}
             {{- end }}
             <!-- MàJ le <span
