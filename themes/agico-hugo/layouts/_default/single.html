@@ -23,7 +23,7 @@
             class="text-dark font-weight-bold" itemprop="author">{{ .Params.Author }}</span> publié le <span
             class="text-dark font-weight-bold" itemprop="datePublished" content="{{ .Params.Date }}">{{ .PublishDate.Format "02 Jan 2006" }}</span>
              MàJ le <span
-            class="text-dark font-weight-bold" itemprop="datePublished" content="{{ .Params.Maj }}">{{ .PublishDate.Format "02 Jan 2006" }}</span></p>
+            class="text-dark font-weight-bold" itemprop="datePublished" content="{{ .Params.LastMod }}">{{ .LastMod.Format "02 Jan 2006" }}</span></p>
         <div class="content">
           {{ .Content }}
         </div>
