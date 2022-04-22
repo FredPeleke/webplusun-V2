@@ -22,8 +22,8 @@
         <p class="text-color card-date position-relative d-inline-block">par <span
             class="text-dark font-weight-bold" itemprop="author">{{ .Params.Author }}</span> publié le <span
             class="text-dark font-weight-bold" itemprop="datePublished" content="{{ .Params.Date }}">{{ .PublishDate.Format "02 Jan 2006" }}</span>
-             <!-- MàJ le <span
-            class="text-dark font-weight-bold" itemprop="datePublished" content="{{ .Params.Maj }}">{{ .PublishDate.Format "02 Jan 2006" }}</span> --></p>
+             MàJ le <span
+            class="text-dark font-weight-bold" itemprop="datePublished" content="{{ .Params.Maj }}">{{ .PublishDate.Format "02 Jan 2006" }}</span></p>
         <div class="content">
           {{ .Content }}
         </div>
