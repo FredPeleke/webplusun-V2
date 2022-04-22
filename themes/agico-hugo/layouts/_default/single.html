@@ -25,7 +25,7 @@
             {{- if isset .Params "Lastmod" }}
             {{- if ne .Lastmod .Date }}
               <span
-            class="text-dark font-weight-bold" itemprop="datePublished" content="{{ .Params.Lastmod }}"> MàJ le {{ .Lastmod.Format "02 Jan 2006" }}</span>
+            class="text-dark font-weight-bold" itemprop="datePublished" content="{{ .Params.Lastmod }}">{{ .Lastmod.Format "02 Jan 2006" }}</span>
             {{- end }}
             {{- end }}
             <!-- MàJ le <span
