@@ -22,7 +22,7 @@
         <p class="text-color card-date position-relative d-inline-block" style="font-size: small;">par <span
             class="text-dark font-weight-bold" itemprop="author">{{ .Params.Author }}</span> publié le <span
             class="text-dark font-weight-bold" itemprop="datePublished" content="{{ .Params.Date }}">{{ .PublishDate.Format "02 Jan 2006" }}</span>
-            {{ with .Params.Lastmod }}
+            {{ if isset .Params "Lastmod" }}
               MàJ le <span
             class="text-dark font-weight-bold" itemprop="datePublished" content="{{ .Params.Lastmod }}">{{ .Lastmod.Format "02 Jan 2006" }}</span>
             {{ end }}
