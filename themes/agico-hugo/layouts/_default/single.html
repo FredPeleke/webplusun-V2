@@ -26,10 +26,10 @@
             class="text-dark font-weight-bold" itemprop="datePublished" content="{{ .Params.Date }}">{{ $date }}</span>
             {{ if and (ne $lastmod $date) (gt .Lastmod .Date) }}
             MàJ le <span
-            class="text-dark font-weight-bold" itemprop="datePublished" content="{{ .Params.Lastmod }}">{{ $lastmod }}</span>
+            class="text-dark font-weight-bold" itemprop="dateModified" content="{{ .Params.Lastmod }}">{{ $lastmod }}</span>
             {{ end }}
-            <!-- MàJ le <span
-            class="text-dark font-weight-bold" itemprop="datePublished" content="{{ .Params.Lastmod }}">{{ .Date.Format "02 Jan 2006" }}</span>--></p>
+            <i class="fa fa-read icon-lg icon-green"></i><span
+            class="text-dark font-weight-bold" itemprop="datePublished" content="{{ .Params.Lecture }}">{{ .Params.Lecture }}</span>--></p>
         <div class="content">
           {{ .Content }}
         </div>
