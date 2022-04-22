@@ -23,7 +23,9 @@
             class="text-dark font-weight-bold" itemprop="author">{{ .Params.Author }}</span> publié le <span
             class="text-dark font-weight-bold" itemprop="datePublished" content="{{ .Params.Date }}">{{ .PublishDate.Format "02 Jan 2006" }}</span>
             {{ if isset .Params "Lastmod" }}
-              MàJ le {{ .Lastmod.Format "Jan 2, 2006" }}
+              MàJ le {{ .Lastmod.Format "02 Jan 2006" }}
+            {{ if ne .Lastmod .Date }}
+            {{ end }}
             {{ end }}
             <!-- MàJ le <span
             class="text-dark font-weight-bold" itemprop="datePublished" content="{{ .Params.Lastmod }}">{{ .Date.Format "02 Jan 2006" }}</span>--></p>
