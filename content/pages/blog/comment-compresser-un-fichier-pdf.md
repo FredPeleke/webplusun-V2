@@ -1,21 +1,23 @@
-+++
-apply_link = ""
-author = "Fred Maget"
-bg_image = ""
-capture = ""
-categories = "Éco"
-date = 2020-07-31T08:25:00Z
-description = "Comment compresser un fichier PDF pour un téléchargement plus rapide de vos données sous forme de rapport, de présentation, de catalogue ou de portfolio."
-image = "/uploads/webplusun-blog-eco.jpg"
-job_category = "Éco"
-job_type = ""
-location = ""
-tags = "Images"
-title = "Comment réduire la taille d'un fichier PDF ?"
-type = "Post"
-watermark = "PDF"
+---
+apply_link: ""
+author: "Fred Maget"
+bg_image: ""
+capture: ""
+categories: "Éco"
+date: 2020-07-31T08:25:00Z
+lastmod: 2022-04-12T09:00:00Z
+lecture: "2mn"
+description: "Comment compresser un fichier PDF pour un téléchargement plus rapide de vos données sous forme de rapport, de présentation, de catalogue ou de portfolio."
+image: "/uploads/webplusun-blog-eco.jpg"
+job_category: "Éco"
+job_type: ""
+location: ""
+tags: "Images"
+title: "Comment réduire la taille d'un fichier PDF ?"
+type: "Post"
+watermark: "PDF"
+---
 
-+++
 Il arrive souvent, lorsqu’on veut envoyer par mel une présentation issue d’un fichier Word ou Powerpoint, ou proposer en téléchargement sur son site un catalogue ou un livre blanc, qu’on ait recours au format PDF. Mais avez-vous pensé à compresser ce PDF pour le rendre moins énergivore ? Convertir des fichiers et réduire la taille de PDF volumineux les rendront plus faciles à utiliser tant au niveau du navigateur web que pour votre disque dur. 
 
 ## Qu’est-ce qu’un fichier PDF ?

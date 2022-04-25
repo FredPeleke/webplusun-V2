@@ -2,6 +2,8 @@
 title: "Qu'est-ce que l'optimisation SEO ?"
 title2 : "L'optimisation SEO"
 date: 2019-12-27T09:51:57+06:00
+lastmod: 
+lecture: "2mn"
 # watermark text
 watermark: "SEO"
 # page header background image
