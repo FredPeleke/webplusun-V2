@@ -1,9 +1,8 @@
 ---
-title: "Blog"
-# watermark text
-watermark: "Blog"
-# page header background image
-bg_image: ""
-# meta description
-description : "Des articles sur le marketing, sur l'optimisation, sur l'éco-sensibilité, des astuces, des mises en situation,… Bref, de la lecture."
+title: Blog
+watermark: Blog
+bg_image: ''
+description: Des articles sur sur l'éco-sensibilité, l'optimisation, le marketing,
+  des astuces, des mises en situation,… Bref, de la lecture.
+
 ---
