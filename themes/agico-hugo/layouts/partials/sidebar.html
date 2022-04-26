@@ -41,7 +41,7 @@
           <!--img src="{{ .Params.Image | absURL }}" class="rounded-sm mr-3" alt="post-thumb"-->
           <div class="media-body">
             <p class="h6 mt-0"><a href="{{ .Permalink }}" class="text-dark">{{ .Title }}</a></p>
-            <p class="mb-0 text-color">{{ .PublishDate.Format "02 Jan 2006" }}</p>
+            <p class="mb-0 text-color">{{ .Lastmod.Format "02 Jan 2006" }}</p>
           </div>
         </li>
         {{ end }}
