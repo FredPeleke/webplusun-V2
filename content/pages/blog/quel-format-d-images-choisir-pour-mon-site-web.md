@@ -1,6 +1,6 @@
 ---
 title: "Quel format d’images choisir pour mon site web ?"
-title2: ""
+title2: "Formats d'images pour le web"
 description: "JPG, PNG, GIF, WEBP, chaque format d’image web a ses qualités et ses défauts. Finalement, son choix ne tient qu’à vos envies et objectifs."
 date: 2020-09-20T22:00:00Z
 lastmod: 2022-04-26T22:00:00Z
