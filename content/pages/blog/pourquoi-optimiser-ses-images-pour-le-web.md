@@ -2,7 +2,7 @@
 author = "Fred Maget"
 categories = "Optimisation"
 date = 2020-09-15T07:00:00Z
-lastmod = 
+lastmod = 2020-09-15T07:00:00Z
 lecture = "2mn"
 description = "Suivre les meilleures pratiques de référencement des images afin d'en tirer le plus grand bénéfice possible : temps de chargement, accessibilité, etc."
 image = "/uploads/webplusun-blog-optimisation.jpg"

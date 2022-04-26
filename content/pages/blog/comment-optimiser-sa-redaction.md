@@ -2,7 +2,7 @@
 title: "Comment optimiser sa rédaction ?"
 title2: "La rédaction optimisée"
 date: 2019-03-03T09:51:57+06:00
-lastmod: 
+lastmod: 2019-03-03T09:51:57+06:00
 lecture: "2mn"
 # watermark text
 watermark: "rédaction"
