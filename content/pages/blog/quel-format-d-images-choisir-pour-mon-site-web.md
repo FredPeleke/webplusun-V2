@@ -19,7 +19,7 @@ Par « format » il faut comprendre le type d’image ; je ne parle pas ici de l
 
 Le format d’une image est facile à trouver puisque c’est le suffixe du nom de votre image : .jpg .png .gif, etc., ce qu’on appelle l’extension. Tiens, rien qu’avec ces trois-là vous avez déjà les formats les plus répandus. Pourtant ils ont tous trois des utilisations différentes. Sans compter les autres formats existants.
 
-<h2 id="comment-choisir-le-bon-format-d-image">Comment choisir le bon format d’image ?</h2>
+<h2 id="comment-choisir-le-bon-format-d-image">Comment choisir le bon format d’image&nbsp;?</h2>
 
 Chaque format a ses qualités et ses défauts. En fait, c’est ce qu’il représente qui va définir son choix. On peut déjà distinguer les formats
 
@@ -92,6 +92,7 @@ Bien sûr, il existe des extensions qui peuvent être encore plus efficacement c
           <img src="/uploads/webplusun-tableau-avantages-images.png" class="img-fluid" alt="Tableau des avantages de chaque format d'images" data-aos="fade-up">
       </picture>
 </div>
+
 
 <img src="/images/picto-ecoresponsable.png" alt="picto ecoresponsable.png" height="32" width="32"> D’un point de vue éco-responsable, Google annonce comme raison de la création de ce format : « *la volonté de réduire la quantité de données circulant sur Internet car, selon les développeurs, les images représentent en moyenne 65% des données reçues lors de la consultation d&rsquo;une page web. Des tests réalisés par Google en transcodant un million d’images déjà compressées avec pertes montrent qu&rsquo;en moyenne le WebP réduirait la taille des fichiers de 39% par rapport aux formats JPEG, PNG et GIF, sans perte de qualité perceptible*. »
 
