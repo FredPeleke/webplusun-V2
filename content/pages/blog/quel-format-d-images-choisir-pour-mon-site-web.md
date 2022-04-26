@@ -85,7 +85,7 @@ D’abord parce que presque tous les navigateurs web actuels sur smartphone et o
 
 Bien sûr, il existe des extensions qui peuvent être encore plus efficacement compressées, mais elles ne sont tout simplement pas prises en charge par le même nombre de navigateurs web.
 
-<div class="text-center">
+<div class="text-center" class="mb-4">
      <picture>
           <source srcset="/uploads/webplusun-tableau-avantages-images.webp" type="image/webp">
           <source srcset="/uploads/webplusun-tableau-avantages-images.png" type="image/png">
