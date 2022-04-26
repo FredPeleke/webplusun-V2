@@ -25,7 +25,7 @@
             <div class="card border-0 shadow rounded-lg">
               <a href="{{ .Permalink }}"><img src="{{ .Params.Image | absURL }}" class="img-fluid card-img-top rounded-top-lg" alt="{{ .Description }}">
               <div class="card-body">
-                <p class="card-date">{{ .Lastmod.Format "02 Jan 2006" }}</p>
+                <p class="card-date">{{ .PublishDate.Format "02 Jan 2006" }}</p>
                 <p class="h4 text-dark">{{ .Title }}</p>
               </div>
             </a>
