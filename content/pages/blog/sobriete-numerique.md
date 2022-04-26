@@ -1,8 +1,8 @@
 ---
 title: "C'est quoi la Sobriété numérique ?"
-title2 : "La Sobriété numérique"
+title2: "La Sobriété numérique"
 date: 2020-01-14T09:51:57+06:00
-lastmod: 
+lastmod: 2020-01-14T09:51:57+06:00
 lecture: "2mn"
 # watermark text
 watermark: "Sobriété"
