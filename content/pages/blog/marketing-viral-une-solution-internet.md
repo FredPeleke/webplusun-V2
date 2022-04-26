@@ -1,0 +1,61 @@
+---
+author: "Fred Maget"
+categories: "Marketing"
+date: 2019-11-18T22:00:00Z
+lastmod: 2019-11-18T22:00:00Z
+lecture: "2mn"
+description: "Avec l'arrivée d'Internet, au lieu de n’être qu’une simple cible, l’internaute devient acteur et même relai de diffusion de l’information."
+image: "images/blog/webplusun-blog-marketing.jpg"
+watermark: "Marketing"
+tags: "RSI"
+title: "Quel est l'intérêt du marketing viral sur Internet?"
+type: "Posts"
+---
+
+La théorie de l’évolution apportée par Charles Darwin évoque une progression grâce au processus de sélection naturelle. Au jour le jour et ce jusqu’à aujourd’hui, les espèces ont muté de façon à pouvoir s’adapter aux multiples et divers changements occasionnés par notre planète. Mais seules les espèces les plus alertes – et non pas les plus fortes - ont survécu à cette évolution. Le marketing et la communication d’entreprise nécessitent une remise en question régulière afin de trouver les points d’appuis les plus propices et pertinents dans une société en constant mouvement. En marge d’aider le quotidien de tout un chacun, la révolution industrielle a engendré capitalisme et consumérisme. Outre le fait de mettre à disposition un nouvel outil d’échanges et de partages, l'avènement d'Internet a ouvert la voie vers la renaissance du marketing viral.
+
+## marketing viral et marketing digital
+Le marketing viral ne date pas d'hier. Souvenez-vous de l'exemple Tupperware qui, dès les années 50, exploitait déjà les réseaux personnels de leurs «ambassadrices» pour se faire connaître et vendre leurs produits auprès d'un maximum de ménages grâce à un système pyramidal.
+
+Mais au fil des ans, la facilité de mouvement croissant et la prolifération des magasins de masse a provoqué un lent déclin de ce système. Jusqu'à l'arrivée d'Internet qui a revigoré le marketing viral en devenant l'outil indispensable à une prospection de plus en plus précise et ad hoc.
+
+## C'est quoi le Marketing communautaire&nbsp;?
+Grâce au Web, nous naviguons dorénavant dans un contexte de communication en réseau (horizontal) et non plus hiérarchique (vertical). Notamment au travers de plateformes vouées à l’interactivité -le fameux Web 2.0-, telles Facebook, Linkedin, Twitter, Instagram, Tik-Tok, Pinterest,… ou les nombreux forums et blogs qui jalonnent la toile. Tous ces espaces communautaires donnent autant de place aux commentaires sur l'info qu'à l'info elle-même, et font passer la communication d’une logique de cible à une logique de tribu.
+
+<img src="https://images.squarespace-cdn.com/content/v1/564668c7e4b0aa1ddb58293f/1447689580482-EXKSKT2EYL60721HXH6F/ke17ZwdGBToddI8pDm48kGOjdzI05bGYeUUpdR0QIEVZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xj1nVWs2aaTtWBneO2WM-uGGsX57E4azydP1Iegt3jA40gjXRkFLdU7Ox76-YPhRA/leffetwhuffie.jpg" alt="L'effet Whuffie de Tara Hunt" width="40%" align="right" style="padding:3px" />
+
+## Qu'est-ce que ça veut dire viral ?
+
+### Une communication en réseau
+« *Conversations, mises en relation, confiance et entraide sont les valeurs fondatrices de ces plateformes*, convient Tara Hunt, auteur de <a href="https://g.co/kgs/GGZz1F" rel="nooppener nofollow" target="_blank">The Whuffie Factor</a>, *et les recommandations entre amis et gens se ressemblant par leurs profils prend de l’ampleur. […] L’aspect marketing viendra naturellement s’intercaler dans ce processus car, dans les communautés, les membres aiment à débattre de leur vie quotidienne, et ils recherchent également des conseils d’achat de la part de leur cercle rapproché d’amis en lesquels ils ont confiance.* » Il est donc prépondérant d’effectuer un travail de veille au quotidien, et de répertorier les leaders d’opinions.
+
+## Votre stratégie marketing passe par l'Internet
+De nombreuses études ont fait ressortir une réduction plus ou moins latente des budgets alloués au marketing dans plusieurs entreprises afin d’équilibrer les bilans dans un environnement de vente affaibli, cela par une restructuration globale souvent dirigée vers la réduction des pubs payantes dans des médias traditionnels et un positionnement plus fort sur un Internet moins onéreux.
+
+Le constat est déjà visible dans la presse papier générale et spécialisée avec une baisse flagrante dans le nombre de pages, pire encore, de parutions.
+
+Pourtant, hors de question d’attendre un retour des institutions médiatiques jusque-là immuables. Des choix drastiques et pertinents s’imposent pour ne pas mourir tel l’âne de Buridan. Des études de Millward Brown ont établi une concordance tangible entre baisse de la pression médiatique et perte de parts de marché. Votre présence, quel qu’en soit le biais, est donc requise !
+
+## Comment lancer une campagne de marketing viral&nbsp;?
+
+La crise qui nous tourmente précipite une profonde mutation des modes de consommation et de relation aux marques. Il est donc grand temps de s’adapter à l’environnement conjoncturel car, quoiqu'il soit démontré que ce n’est pas efficace sur le long terme, les investissements marketing vont encore diminuer alors que les exigences de résultats resteront identiques.
+
+D’où une obligation d’adapter la profession de marketer et de revenir aux fondamentaux. Les marques qui survivront à cette sélection « darwinienne » auront un positionnement clair, facile à énoncer et à diffuser, et une parfaite connaissance de leur cible. Ce seront aussi celles qui n’auront pas peur des idées marketing qui produisent de la publicité gratuite.
+
+« *Les idées sont des virus et se propagent comme la grippe* », insinue le gourou du marketing Seth Godin. Et quel meilleur terrain de jeu que le World Wide Web ? Bien que la rumeur et le bouche-à-oreille soient utilisés depuis la nuit des temps, Internet a donné une nouvelle dimension à cette viralité. C’est en fait le premier média à la disposition de tous. Au lieu de n’être qu’une simple cible, l’internaute devient acteur et même relai de diffusion de l’information. « *Ne tournez plus votre marketing vers n'importe qui ! Transformez plutôt vos idées en épidémies et invitez vos clients à faire votre marketing à votre place* », explique Seth Godin dans son livre Unleashed the Idea Virus (Maxima).
+
+### Buzz ! Faites parler de vous !
+
+Pour que votre message se répande rapidement et le plus vastement possible, il faut que le contenu proposé soit utile ou originale. Bien sur, l'un n'empêche pas l'autre.
+
+Si vous optez pour le coté utile, votre objectif sera de montrer votre savoir-faire, fournir astuces et explications, répondre à des questions récurrentes, un moyen notoire d'assoir votre notoriété auprès de consommateurs en demande. Vous pouvez, par exemple, proposer vos contenus au travers d'articles sur votre blog ou pour d'autres sites web, ou même vous mettre en scène dans des vidéos. Ceci vient alors consolider votre "EAT", c'est à dire votre Expertise dans un domaine précis, votre Autorité pour en parler, et la Confiance (Trustworthiness) qu'on vous porte.
+
+Si vous optez pour le coté original, soyez créatif tout en ciblant bien vos destinataires initiaux. Car si vous tapez trop large,l'objectif d'acquérir de nouveaux clients sera plus difficile à atteindre. À moins de compter sur un effet de buzz, mais assurez-vous alors que votre message ne sorte pas du cadre de votre objectif, voire ne vous échappe pas.
+
+Vous pouvez diffuser vos messages sur les réseaux sociaux qui sont devenus incontournables à la réussite d'une campagne de marketing viral grâce aux boutons de partage.
+
+## Conclusion
+
+Par réflexe naturel ou panurgien, beaucoup (trop) d'entreprises n'osaient jusqu'ici investir réellement leur marketing sur le chemin de l'Internet.
+
+Pourtant le Web est un incommensurable amplificateur qui donne la possibilité à des marques inconnues d'émerger rapidement et pour un coût réduit. Car le nerf de la guerre pour une petite marque naissante à budget limité ou une grosse société établie est sans ambiguïté son Retour Sur Investissement, qui plus est en cette période difficile.
