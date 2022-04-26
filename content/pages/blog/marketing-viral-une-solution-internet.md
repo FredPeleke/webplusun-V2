@@ -22,7 +22,7 @@ Mais au fil des ans, la facilité de mouvement croissant et la prolifération de
 ## C'est quoi le Marketing communautaire&nbsp;?
 Grâce au Web, nous naviguons dorénavant dans un contexte de communication en réseau (horizontal) et non plus hiérarchique (vertical). Notamment au travers de plateformes vouées à l’interactivité -le fameux Web 2.0-, telles Facebook, Linkedin, Twitter, Instagram, Tik-Tok, Pinterest,… ou les nombreux forums et blogs qui jalonnent la toile. Tous ces espaces communautaires donnent autant de place aux commentaires sur l'info qu'à l'info elle-même, et font passer la communication d’une logique de cible à une logique de tribu.
 
-<img src="https://images.squarespace-cdn.com/content/v1/564668c7e4b0aa1ddb58293f/1447689580482-EXKSKT2EYL60721HXH6F/ke17ZwdGBToddI8pDm48kGOjdzI05bGYeUUpdR0QIEVZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xj1nVWs2aaTtWBneO2WM-uGGsX57E4azydP1Iegt3jA40gjXRkFLdU7Ox76-YPhRA/leffetwhuffie.jpg" alt="L'effet Whuffie de Tara Hunt" width="40%" align="right" style="padding:3px" />
+<img src="https://images.squarespace-cdn.com/content/v1/564668c7e4b0aa1ddb58293f/1447689580482-EXKSKT2EYL60721HXH6F/ke17ZwdGBToddI8pDm48kGOjdzI05bGYeUUpdR0QIEVZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xj1nVWs2aaTtWBneO2WM-uGGsX57E4azydP1Iegt3jA40gjXRkFLdU7Ox76-YPhRA/leffetwhuffie.jpg" alt="L'effet Whuffie de Tara Hunt" width="40%" style="padding:3px" style="float:right;" data-aos="fade-up" loading="lazy" decoding="async" />
 
 ## Qu'est-ce que ça veut dire viral ?
 
