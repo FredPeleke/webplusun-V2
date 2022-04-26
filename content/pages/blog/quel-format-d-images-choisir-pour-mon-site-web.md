@@ -32,7 +32,7 @@ Chaque format a ses qualités et ses défauts. En fait, c’est ce qu’il repr�
 
 <h3 id="le-format-jpeg-ou-jpg">Le format JPEG, ou JPG</h3>
 
-(Joint Photographic Experts Group)
+**(Joint Photographic Experts Group)**
 
 Le plus connu car format universel devenu standard, il permet un bon compromis entre la taille et la qualité de l’image en adoptant plus de 16 millions de couleurs. C’est un format de haute qualité avec, hélas, aucune transparence possible et une marge de compression limitée.
 
