@@ -9,7 +9,7 @@ image: "images/blog/webplusun-blog-marketing.jpg"
 watermark: "Marketing"
 tags: "RSI"
 title: "Quel est l'intérêt du marketing viral sur Internet?"
-type: "Posts"
+type: "post"
 ---
 
 La théorie de l’évolution apportée par Charles Darwin évoque une progression grâce au processus de sélection naturelle. Au jour le jour et ce jusqu’à aujourd’hui, les espèces ont muté de façon à pouvoir s’adapter aux multiples et divers changements occasionnés par notre planète. Mais seules les espèces les plus alertes – et non pas les plus fortes - ont survécu à cette évolution. Le marketing et la communication d’entreprise nécessitent une remise en question régulière afin de trouver les points d’appuis les plus propices et pertinents dans une société en constant mouvement. En marge d’aider le quotidien de tout un chacun, la révolution industrielle a engendré capitalisme et consumérisme. Outre le fait de mettre à disposition un nouvel outil d’échanges et de partages, l'avènement d'Internet a ouvert la voie vers la renaissance du marketing viral.

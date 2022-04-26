@@ -10,7 +10,7 @@ image: "/uploads/webplusun-blog-eco.jpg"
 watermark: "éco-gestes"
 categories: "Éco"
 tags: "éco-gestes"
-type: "Post"
+type: "post"
 ---
 
 Vaste question dans une société qui se tourne de plus en plus vers ces outils pour des raisons différentes. D’abord c’est pratique au quotidien pour envoyer des messages et eMails, pour faire des recherches, connaître le trafic routier en direct avec le GPS, garder le contact avec son entourage, stocker des photos, vidéos, documents,… Ensuite c’est divertissant lors d’une pause de faire défiler le fil d’actu de son réseau social préféré, de regarder une ou des vidéos en streaming, de jouer en ligne, etc. Il faut simplement savoir, ou avoir envie de savoir, que <b>tous ces gestes ont un impact plus ou moins important sur les appareils utilisés (de votre écran jusqu'aux serveurs)</b>, et par voie de conséquence sur les resources de notre planète. Loin de moi l’envie de culpabiliser quiconque, chacun a son libre arbitre et sa conscience. Mais mieux vaut prévenir que guérir.

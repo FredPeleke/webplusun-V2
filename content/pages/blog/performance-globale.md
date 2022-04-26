@@ -1,17 +1,17 @@
 ---
-title: Qu'est-ce que la Performance globale ?
-title2: La Performance globale
+title: "Qu'est-ce que la Performance globale ?"
+title2: "La Performance globale"
 date: 2020-06-08T14:51:57+00:00
 lastmod: 2020-06-08T14:51:57+00:00
 lecture: "2mn"
-watermark: Performance
-description: 'Personnel, Planète, Profit : quand l’engagement de l''entreprise consiste
-  à associer performance et responsabilité.'
-image: images/blog/webplusun-blog-eco.jpg
-author: Fred Maget
-categories: Marketing
-tags: Stratégie
-type: post
+watermark: "Performance"
+description: "Personnel, Planète, Profit : quand l’engagement de l'entreprise consiste
+  à associer performance et responsabilité."
+image: "images/blog/webplusun-blog-eco.jpg"
+author: "Fred Maget"
+categories: "Marketing"
+tags: "Stratégie"
+type: "post"
 
 ---
 (Extrait d'un article écrit en 2010 pour le magazine Boardsport Source)

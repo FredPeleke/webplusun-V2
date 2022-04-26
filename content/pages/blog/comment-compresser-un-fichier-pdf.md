@@ -14,7 +14,7 @@ job_type: ""
 location: ""
 tags: "Images"
 title: "Comment réduire la taille d'un fichier PDF ?"
-type: "Post"
+type: "post"
 watermark: "PDF"
 ---
 
