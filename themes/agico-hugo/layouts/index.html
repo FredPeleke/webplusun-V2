@@ -160,7 +160,7 @@
         <p class="call-to-action">{{ .content | markdownify }}
         {{ if .button.enable }}
         {{ with .button }}
-        <a href="{{ .link }}" class="btn call-to-action-btn">{{ .label }}</a>
+        <a href="{{ .link }}" aria-label="bouton lien vers la page tarifs" class="btn call-to-action-btn">{{ .label }}</a>
         {{ end }}
         {{ end }}
       </div>
