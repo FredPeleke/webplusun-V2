@@ -14,7 +14,7 @@
           <p class="text-light mb-4">{{ .Site.Params.footer_content | markdownify }}</p>
           <ul class="list-inline social-icons">
             {{ range .Site.Params.social }}
-            <li class="list-inline-item"><a href="{{ .URL | safeURL }}" target="_blank"><i class="fa {{ .icon }}"></i></a></li>
+            <li class="list-inline-item"><a href="{{ .URL | safeURL }}" target="_blank"><i class="fa {{ .icon }}"></i> {{ .link }}</a></li>
             {{ end }}
           </ul>
           <!--img src="https://api.thegreenwebfoundation.org/greencheckimage/webplusun.fr?nocache=true" alt="This website is hosted Green - checked by thegreenwebfoundation.org" -->

@@ -140,7 +140,7 @@ map_marker = "images/marker.png"
 [[params.social]]
 icon = "fa-linkedin"
 URL = "https://www.linkedin.com/company/webplusun/"
-
+link = "WebPlusUn sur LinkedIn"
 
 
 ################################### English language #####################################
