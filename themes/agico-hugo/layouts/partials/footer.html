@@ -14,7 +14,7 @@
           <p class="text-light mb-4">{{ .Site.Params.footer_content | markdownify }}</p>
           <ul class="list-inline social-icons">
             {{ range .Site.Params.social }}
-            <li class="list-inline-item"><a href="{{ .URL | safeURL }}" target="_blank"><i class="fa {{ .icon }}"></i> {{ .link }}</a></li>
+            <li class="list-inline-item"><a href="{{ .URL | safeURL }}" target="_blank"><i class="fa {{ .icon }}"></i>{{ .link }}</a></li>
             {{ end }}
           </ul>
           <!--img src="https://api.thegreenwebfoundation.org/greencheckimage/webplusun.fr?nocache=true" alt="This website is hosted Green - checked by thegreenwebfoundation.org" -->
@@ -67,7 +67,33 @@
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
 <!-- script Userway -->
-<script>(function(){var s = document.createElement("script");s.setAttribute("data-account","gKy2sa9Vfr");s.setAttribute("src","https://cdn.userway.org/widget.js");document.body.appendChild(s);})();</script><noscript>Enable JavaScript to ensure <a href="https://userway.org">website accessibility</a></noscript>
+<script>
+      (function(d){
+         var s = d.createElement("script");
+         /* uncomment the following line to override default position*/
+         /* s.setAttribute("data-position", 3);*/
+         /* uncomment the following line to override default size (values: small, large)*/
+         /* s.setAttribute("data-size", "small");*/
+         /* uncomment the following line to override default language (e.g., fr, de, es, he, nl, etc.)*/
+         /* s.setAttribute("data-language", "language");*/
+         /* uncomment the following line to override color set via widget (e.g., #053f67)*/
+         /* s.setAttribute("data-color", "#053e67");*/
+         /* uncomment the following line to override type set via widget (1=person, 2=chair, 3=eye, 4=text)*/
+         /* s.setAttribute("data-type", "1");*/
+         /* s.setAttribute("data-statement_text:", "Our Accessibility Statement");*/
+         /* s.setAttribute("data-statement_url", "http://www.example.com/accessibility")";*/
+         /* uncomment the following line to override support on mobile devices*/
+         /* s.setAttribute("data-mobile", true);*/
+         /* uncomment the following line to set custom trigger action for accessibility menu*/
+         /* s.setAttribute("data-trigger", "triggerId")*/
+         s.setAttribute("data-account", "gKy2sa9Vfr");
+         s.setAttribute("src", "https://cdn.userway.org/widget.js");
+         (d.body || d.head).appendChild(s);})(document)
+     </script>
+<noscript>
+Assurez-vous d'autoriser le language Javascript pour vérifier l'
+<a href="https://userway.org">accessibilité du website</a>
+</noscript>
 <!-- fin script Userway -->
 
 
