@@ -170,7 +170,7 @@ cta:
     Humainement, vous allez réduire votre impact environnemental."
   button:
     enable: true
-    label: "Oui, mais à quel prix ?"
+    label: "À quel prix ?"
     link: "tarifs"
 
 ############################ video ###############################
