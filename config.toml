@@ -117,7 +117,7 @@ preloader = "images/web-plus-un-logo.png"
 # Navigation button
 [params.navigation_button]
 enable = true
-label = "Ça vous intrigue ?"
+label = "Prenons contact !"
 link = "contact"
 
 ###########################
