@@ -133,7 +133,7 @@ about:
   Pour synthétiser, il faut réduire un ‘trop plein d’informations’ et se recentrer sur l’essentiel : que votre site soit facilement accessible. Finalement, plus votre site web est simple, plus il est éco-responsable."
       button:
         enable : true
-        label : "Références"
+        label : "Des références"
         link : "references"
 
     - image1 : "images/about/sobriete-numerique.jpg"
