@@ -60,14 +60,19 @@ URL = "service"
 weight = 3
 
 [[menu.main]]
+name = "Tarifs"
+URL = "tarifs"
+weight = 4
+
+[[menu.main]]
 name = "Références"
 URL = "references"
-weight = 4
+weight = 5
 
 [[menu.main]]
 name = "Blog"
 URL = "blog"
-weight = 5
+weight = 6
 
 ###########################
 #Footer menu
