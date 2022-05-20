@@ -18,6 +18,7 @@ type: "post"
 watermark: "Accès"
 ---
 
+<img src="/uploads/accessibilite-web.webp" class="img-fluid" alt="Pourquoi l'accessibilité Web est importante" style="float:right;" data-aos="fade-up" loading="lazy" decoding="async">
 L’environnement numérique et les sites internet font désormais partis de notre quotidien. Mais tout le monde ne les appréhende pas de la même façon. Pour la majeure partie d’entre-nous, le clavier et l’écran sont des outils simples et basiques, voire logiques. Mais pour certains, des configurations s’imposent pour le même usage.
 
 ## Les handicapés sont des visiteurs potentiels
@@ -30,5 +31,3 @@ Côté technique, l’accessibilité numérique est positive pour le parcours ut
 Pour ma part, le dernier audit du site webplusun.fr réalisé ce mois-ci indique une conformité partielle avec le RGAA (Référentiel général d'amélioration de l'accessibilité) version 4. Je travaille donc à l’intégration d’attributs spécifiques, tant dans la réalisation technique que dans l’ergonomie et l’amélioration du parcours utilisateur. À commencer par la mise en place d’un Pop-up proposé par [Userway](https://scan.userway.org/ "Userway") pour configurer divers aspects du site : contraste, taille du texte, surlignage des liens, etc.
 
 Soyons pragmatique et réfléchissons à nous faciliter la vie. L’acuité visuelle diminue avec l’âge et nous vieillissons tous. Autant préparer le terrain.
-
-<img src="/uploads/accessibilite-web.webp" class="img-fluid" alt="Pourquoi l'accessibilité Web est importante" style="float:right;" data-aos="fade-up" loading="lazy" decoding="async">
