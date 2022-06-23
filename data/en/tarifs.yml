@@ -19,7 +19,7 @@ pricing:
   pricing_table:
     # Types de sites
     - title : "Intro"
-      price : "900€"
+      price : "900€ ht"
       unit : "à partir de"
       description : "Vous voulez ouvrir un site"
       link : "./service#services_reflexion"
@@ -28,11 +28,13 @@ pricing:
         - "1 page + Blog"
         - "Conception Numérique Responsable"
         - "mise en conformité RGPD"
+        - "outils de suivi"
+        - "formation à l’utilisation"
         - "+…"
 
     - title : "Manager"
-      price : "1500€"
-      unit : ""
+      price : "1500€ ht"
+      unit : "à partir de"
       description : "Vous voulez ouvrir un site"
       link : "./service#services_reflexion"
       services:
@@ -45,8 +47,8 @@ pricing:
         - "+…"
 
     - title : "Éco"
-      price : "1950€"
-      unit : ""
+      price : "1950€ ht"
+      unit : "à partir de"
       description : "Vous voulez ouvrir un site"
       link : "./service#services_reflexion"
       services:
@@ -58,38 +60,10 @@ pricing:
         - "formation à l’utilisation"
         - "+…"
 
-    # pricing table loop
-    - title : "Existant"
-      price : "€€€€"
-      unit : ""
-      description : "Vous voulez refondre un site"
-      link : "./service"
-      services:
-        - "Diagnostic du site"
-        - "étude ergonomique"
-        - "optimisation des contenus"
-        - "mise en conformité RGPD"
-        - "Cohérence des KPI"
-        - "+…"
-        
-    # pricing table loop
-    - title : "Audit"
-      price : "€€€"
-      unit : ""
-      description : "Vous voulez améliorer un site"
-      link : "./service#services_demarches"
-      services:
-        - "accessibilité"
-        - "indexation"
-        - "fonctionnalités"
-        - "impact environnemental"
-        - "conformité RGPD"
-        - "+…"
-        
-    # pricing table loop
+    # prestations
     - title : "Maintenance"
-      price : "€€"
-      unit : "/mois"
+      price : "60€ ht/mois"
+      unit : ""
       description : "Vous avez besoin de sécurité"
       link : "./service"
       services:
@@ -99,10 +73,9 @@ pricing:
         - "support technique"
         - "+…"
 
-    # pricing table loop
     - title : "Accompagnement"
-      price : "€€"
-      unit : "/mois"
+      price : "480€ ht"
+      unit : "à partir de"
       description : "Vous voulez un suivi de projet"
       link : "./service"
       services:
@@ -112,16 +85,52 @@ pricing:
         - "conseils en acquisition"
         - "+…"
 
-    # pricing table loop
-    - title : "Consultant"
-      price : "€€€"
-      unit : ""
-      description : "Vous cherchez des conseils"
+    - title : "Duo"
+      price : "1200€ ht"
+      unit : "à partir de"
+      description : "Maintenance et Accompagnement"
+      link : "./service"
+      services:
+        - "maintenance de sécurité"
+        - "accompagnement de projet"
+        - " "
+        - "1 MOIS OFFERT"
+        - " "
+
+    # combos
+    - title : "Présence"
+      price : "2220€ ht"
+      unit : "à partir de"
+      description : "Site + Maintenance"
       link : "./contact"
       services:
-        - "définir vos objectifs"
-        - "choisir des mots-clés pertinents"
-        - "exploiter vos canaux d'acquisition"
-        - "réduire votre impact environnemental"
-        - "+…"
+        - "prestation Manager"
+        - "+ prestation Maintenance"
+        - " "
+        - "1 MOIS OFFERT"
+        - " "
+        
+    - title : "Objectif"
+      price : "1980€ ht"
+      unit : "à partir de"
+      description : "Site + Accompagnement"
+      link : "./contact"
+      services:
+        - "prestation Manager"
+        - "+ prestation Accompagnement"
+        - " "
+        - "1 MOIS OFFERT"
+        - " "
+        
+    - title : "Premium"
+      price : "2700€ ht"
+      unit : "à partir de"
+      description : "Site + Duo"
+      link : "./contact"
+      services:
+        - "prestation Manager"
+        - "+ prestation Duo"
+        - " "
+        - "2 MOIS OFFERTS"
+        - " "
         
