@@ -8,7 +8,7 @@ bg_image: ""
 # meta description
 description : "Refonte du site pour Argilaia."
 # career logo
-image : "images/career/Argilaia-logo.png"
+image : "images/career/Argilaia-logo.jpg"
 # capture accueil
 capture : "images/career/Argilaia-capture-accueil.jpg"
 # location
