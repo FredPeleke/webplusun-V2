@@ -20,7 +20,7 @@ pricing:
     # Types de sites
     - title : "Intro"
       price : "900€"
-      unit : ""
+      unit : "à partir de"
       description : "Vous voulez ouvrir un site"
       link : "./service#services_reflexion"
       services:
