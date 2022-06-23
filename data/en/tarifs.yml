@@ -17,20 +17,47 @@ pricing:
   subtitle4 : "Vous comprendrez ainsi les tarifs de WebPlusUn. Alors définissez bien votre projet ;-) "
   title : "Nos formules"
   pricing_table:
-    # pricing table loop
-    - title : "Création"
-      price : "€€€€"
+    # Types de sites
+    - title : "Intro"
+      price : "900€"
       unit : ""
       description : "Vous voulez ouvrir un site"
       link : "./service#services_reflexion"
       services:
-        - "Éco ou Wordpress"
+        - "Wordpress"
+        - "1 page + Blog"
+        - "Conception Numérique Responsable"
+        - "mise en conformité RGPD"
+        - "+…"
+
+    - title : "Manager"
+      price : "1500€"
+      unit : ""
+      description : "Vous voulez ouvrir un site"
+      link : "./service#services_reflexion"
+      services:
+        - "Wordpress"
+        - "5 pages + Blog"
         - "Conception Numérique Responsable"
         - "mise en conformité RGPD"
         - "outils de suivi"
         - "formation à l’utilisation"
         - "+…"
-        
+
+    - title : "Éco"
+      price : "1950€"
+      unit : ""
+      description : "Vous voulez ouvrir un site"
+      link : "./service#services_reflexion"
+      services:
+        - "Jamstack"
+        - "5 pages + Blog"
+        - "Conception Numérique Responsable"
+        - "mise en conformité RGPD"
+        - "outils de suivi"
+        - "formation à l’utilisation"
+        - "+…"
+
     # pricing table loop
     - title : "Existant"
       price : "€€€€"
