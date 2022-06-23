@@ -2,7 +2,7 @@
 {{ range $index, $element:= $data.tarifs.pricing.pricing_table }}
 {{ $delay := mul $index 200}}
 <div class="col-lg-4 col-sm-6 mb-lg-0 mb-4" data-aos="fade-up" data-aos-delay="{{$delay}}">
-  <div class="pricing-table position-relative text-center px-4 py-5 rounded-lg shadow transition bg-white">
+  <div class="pricing-table position-relative text-center px-4 py-5 rounded-lg shadow transition bg-white mb-4">
     <p class="mb-4 font-weight-normal text-color">{{ .description }}</p>
     <span class="badge badge-pill badge-light font-weight-medium mb-3 py-2 px-4 text-primary">{{ .title }}</span>
     <div class="paragraph text-lowercase">{{ .unit }}<span class="h3 text-dark"> {{ .price }}</span></div>
@@ -13,7 +13,7 @@
       <li class="my-3">{{ . }}</li>
       {{ end }}
     </ul>
-    <a href="{{ .link | absLangURL }}" class="btn btn-outline-primary">En savoir plus</a>
+    <!--a href="{{ .link | absLangURL }}" class="btn btn-outline-primary">En savoir plus</a-->
   </div>
 </div>
 {{ end }}
