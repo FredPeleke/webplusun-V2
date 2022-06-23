@@ -21,12 +21,12 @@ pricing:
     - title : "Intro"
       price : "900€ ht"
       unit : "à partir de"
-      description : "Vous voulez ouvrir un site"
+      description : "Un site à petit budget"
       link : "./service#services_reflexion"
       services:
         - "Wordpress"
         - "1 page + Blog"
-        - "Conception Numérique Responsable"
+        - "Optimisation SEO"
         - "mise en conformité RGPD"
         - "outils de suivi"
         - "formation à l’utilisation"
@@ -35,12 +35,12 @@ pricing:
     - title : "Manager"
       price : "1500€ ht"
       unit : "à partir de"
-      description : "Vous voulez ouvrir un site"
+      description : "Votre site sur mesure"
       link : "./service#services_reflexion"
       services:
         - "Wordpress"
         - "5 pages + Blog"
-        - "Conception Numérique Responsable"
+        - "Optimisation SEO"
         - "mise en conformité RGPD"
         - "outils de suivi"
         - "formation à l’utilisation"
@@ -55,9 +55,9 @@ pricing:
         - "Jamstack"
         - "5 pages + Blog"
         - "Conception Numérique Responsable"
+        - "Optimisation SEO"
         - "mise en conformité RGPD"
         - "outils de suivi"
-        - "formation à l’utilisation"
         - "+…"
 
     # prestations
@@ -91,9 +91,10 @@ pricing:
       description : "Maintenance et Accompagnement"
       link : "./service"
       services:
+        - "combinaison"
         - "maintenance de sécurité"
         - "accompagnement de projet"
-        - " "
+        - "+"
         - "1 MOIS OFFERT"
         - " "
 
@@ -106,7 +107,7 @@ pricing:
       services:
         - "prestation Manager"
         - "+ prestation Maintenance"
-        - " "
+        - "+"
         - "1 MOIS OFFERT"
         - " "
         
@@ -118,7 +119,7 @@ pricing:
       services:
         - "prestation Manager"
         - "+ prestation Accompagnement"
-        - " "
+        - "+"
         - "1 MOIS OFFERT"
         - " "
         
@@ -130,7 +131,7 @@ pricing:
       services:
         - "prestation Manager"
         - "+ prestation Duo"
-        - " "
+        - "+"
         - "2 MOIS OFFERTS"
         - " "
         
