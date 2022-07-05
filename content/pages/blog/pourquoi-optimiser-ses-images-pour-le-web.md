@@ -30,4 +30,4 @@ C'est exactement pour cela qu’il est si nécessaire de suivre les meilleures p
 
 ### Vers plus de visibilité
 
-Mais l’optimisation ne va pas servir qu’à afficher votre site plus rapidement ou être lu par des malvoyants. La qualité d’indexation doit aussi permettre de classer vos visuels au sein de Google Images, une base de données de plus en plus utilisée pour faire des prospections. C’est donc une autre opportunité de vous rendre un peu plus visible sur les moteurs de recherche.
+Mais l’optimisation ne va pas servir qu’à afficher votre site plus rapidement ou [être lu par des malvoyants](https://webplusun.fr/blog/accessibilite-numerique/). La qualité d’indexation doit aussi permettre de classer vos visuels au sein de Google Images, une base de données de plus en plus utilisée pour faire des prospections. C’est donc une autre opportunité de vous rendre un peu plus visible sur les moteurs de recherche.
