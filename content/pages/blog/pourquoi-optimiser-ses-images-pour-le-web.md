@@ -4,7 +4,7 @@ categories: "Optimisation"
 date: 2020-09-15T07:00:00Z
 lastmod: 2022-07-5T07:00:00Z
 lecture: "2mn"
-description: "Optimiser ses images revient à suivre les meilleures pratiques de référencement afin d'en tirer le plus grand bénéfice : temps de chargement, accessibilité, etc."
+description: "Optimiser ses images revient à suivre les meilleures pratiques de référencement pour en tirer le plus grand bénéfice : temps de chargement, accessibilité, etc."
 image: "/uploads/webplusun-blog-optimisation.jpg"
 tags: "images"
 title: "Pourquoi optimiser ses images pour le web ?"
