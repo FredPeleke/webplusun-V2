@@ -9,8 +9,5 @@ team:
       designation : "Votre consultant"
       social:
         - icon : "fa-linkedin"
-          link : "https://www.linkedin.com/in/fr%C3%A9d%C3%A9rick-maget-392a52194/"
-
-        - icon : "fa-linkedin"
           link : "https://www.linkedin.com/company/webplusun/"
 
