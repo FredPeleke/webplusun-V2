@@ -5,3 +5,5 @@ Disallow: /webplusun-construction
 Disallow: /blog/page/2/
 Disallow: /blog/page/3/
 Sitemap: https://webplusun.fr/sitemap.xml
+Disallow: /plugins/
+Disallow: /js/
