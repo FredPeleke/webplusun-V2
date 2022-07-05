@@ -76,7 +76,7 @@ intro:
 
     - image1 : "images/about/Fred-Maget-portrait.webp"
       image2 : "images/about/Fred-Maget-portrait.jpg"
-      alt : "WebPlusUn"
+      alt : "Fred Maget, créateur et webmaster de WebPlusUn"
       subtitle : ""
       title : ""
       content : "Vouloir un site web, c’est vouloir être présent et visible sur l’internet.
@@ -98,7 +98,7 @@ about:
         # about item loop
     - image1 : "images/about/pollution-numerique-en-7-chiffres.webp"
       image2 : "images/about/pollution-numerique-en-7-chiffres.jpg"
-      alt : "Nous sommes de plus en plus connectés. Smartphones, tablets et ordinateurs sont dans chaque foyer."
+      alt : "Nous sommes de plus en plus connectés. Smartphones, tablets et ordinateurs sont dans chaque foyer. Cette image représente la pollution numérique en 7 chiffres."
       subtitle : ""
       title : "Quel est l'impact d'internet sur l'environnement ?"
       content : "Nous sommes de plus en plus connectés. Smartphones, tablets et ordinateurs sont dans chaque foyer. Mais quel est leur impact sur notre environnement ? On pense souvent que le digital, c’est du virtuel, que ça permet de dématérialiser plein de paperasse, de photos, vidéos, films, etc. Oui mais en fait non. Parce que finalement il n’y a pas de virtuel sans matériel.
@@ -118,7 +118,7 @@ about:
 
     - image1 : "images/about/img-eco.webp"
       image2 : "images/about/img-eco.jpg"
-      alt : "optimisation sxo WebPlusUn"
+      alt : "Un site web éco-responsable sous forme de nuage de mots-clés sur cette image."
       subtitle : ""
       title : "Qu'est-ce qu'un site web éco-responsable ?"
       content : "Un design simple, épuré, une structure de site allégée, une page vite chargée, une expérience utilisateur facilitée, un contenu ([textes](https://webplusun.fr/blog/comment-optimiser-sa-redaction/), [images](https://webplusun.fr/blog/pourquoi-optimiser-ses-images-pour-le-web/), [fichiers](https://webplusun.fr/blog/comment-compresser-un-fichier-pdf/), etc.) optimisé, un nombre de requêtes http limité, un hébergement ISO 14001 et ISO 50001 certifié
@@ -138,7 +138,7 @@ about:
 
     - image1 : "images/about/sobriete-numerique.jpg"
       image2 : "images/about/sobriete-numerique.jpg"
-      alt : "web éco-responsable WebPlusUn"
+      alt : "Un clavier avec une touche 'éco-responsable' pour une démarche de sobriété numérique"
       subtitle : ""
       title : "Une démarche de sobriété numérique"
       content : "Cette pratique de l'éco-conception revient donc à transférer moins d'informations pour soulager la bande passante, à optimiser les images, à choisir un hébergeur équipé de serveurs rapides et efficients.
