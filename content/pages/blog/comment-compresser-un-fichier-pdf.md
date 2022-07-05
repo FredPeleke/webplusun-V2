@@ -48,15 +48,15 @@ Il y a plusieurs raisons qui peuvent vous motiver à compresser un document, c�
 
 ## Comment compresser un fichier pdf trop lourd gratuitement ?
 
-Dès que j’ai un rapport ou une présentation à fournir à un client, je vais sur le site [ilovepdf.com](https://www.ilovepdf.com/fr/compresser_pdf "ilovepdf") (1) sur lequel je charge mon modèle PDF. Celui-ci le compresse alors à une taille facile à échanger sans altérer le niveau de qualité des images.
+Dès que j’ai un rapport ou une présentation à fournir à un client, je vais sur le site [ilovepdf.com](https://www.ilovepdf.com/fr/compresser_pdf "lien vers ilovepdf.com") (1) sur lequel je charge mon modèle PDF. Celui-ci le compresse alors à une taille facile à échanger sans altérer le niveau de qualité des images.
 
 Par exemple :
 
 * d’un fichier de 4,8 Mo, je retire un document de 905 Ko ;
 * d’un fichier de 526 Ko je récupère un document de 35 Ko.
 
-![WebPlusUn : compression pdf](/uploads/webplusun-compression-pdf.jpg "WebPlusUn : compression pdf")
+![WebPlusUn : compression pdf](/uploads/webplusun-compression-pdf.jpg "illustration d'une compression pdf avec ilovepdf")
 
-Si je vous dis que plus il y a de données à stocker, plus il faut de Centres de données (Data centers), vous l’entendez mais de loin. Si je vous dis qu’en allégeant vos documents, vous allez prolonger la durée de vie de votre matériel (ordinateur, tablette, smartphone), ça vous parle déjà plus. Et vous comprenez que ce petit effort peut donc vous faire économiser de l’argent.
+Si je vous dis que plus il y a de données à stocker, plus il faut de Centres de données (Data centers), vous l’entendez mais de loin. Si je vous dis qu’en allégeant vos documents, vous allez [prolonger la durée de vie de votre matériel](https://webplusun.fr/blog/des-gestes-simples/) (ordinateur, tablette, smartphone), ça vous parle déjà plus. Et vous comprenez que ce petit effort peut donc vous faire économiser de l’argent.
 
 (1) précision: je n'ai aucun lien avec ce site, je propose juste mon astuce.
