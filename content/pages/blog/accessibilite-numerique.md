@@ -5,7 +5,7 @@ bg_image: ""
 capture: ""
 categories: "Optimisation"
 date: 2022-05-20T08:25:00Z
-lastmod: 2022-07-5T09:00:00Z
+lastmod: 2022-07-05T09:00:00Z
 lecture: "2mn"
 description: "Tout le monde n'appréhende pas de la même façon l’environnement numérique et les sites internet."
 image: "/uploads/webplusun-blog-optimisation.jpg"
