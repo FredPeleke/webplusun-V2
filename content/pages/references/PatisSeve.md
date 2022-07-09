@@ -6,7 +6,7 @@ watermark: "Cake Design"
 # page header background image
 bg_image: ""
 # meta description
-description : "Création du site Pâtis'Sève."
+description : "Création de l'identité visuelle et du site, et élaboration d'une stratégie marketing inbound."
 # career logo
 image : "images/career/Patisseve-logo3-9-transparent.png"
 # capture accueil
