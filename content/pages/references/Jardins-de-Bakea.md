@@ -16,7 +16,7 @@ location : "Biriatou (64)"
 # job type
 job_type : "Optimisation"
 # section
-job_category : "Hôtel Restaurant"
+job_category : "Vitrine"
 # job apply link
 apply_link : "https://www.jardins-de-bakea.fr/"
 ---
