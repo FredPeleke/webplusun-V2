@@ -8,7 +8,7 @@ bg_image: ""
 # meta description
 description : "Refonte du site pour la coopérative Habitat Eco-Action"
 # career logo
-image : "images/career/HEA-logo.png"
+image : "images/career/HEA-logo.jpg"
 # capture accueil
 capture : "images/career/HEA-capture-accueil.jpg"
 # location
