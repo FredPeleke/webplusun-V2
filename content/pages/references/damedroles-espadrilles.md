@@ -6,7 +6,7 @@ watermark: "espadrilles"
 # page header background image
 bg_image: ""
 # meta description
-description : "Maintenance du site pour l'atelier d'espadrilles Dam é Droles."
+description : "Maintenance du site, élaboration d'une stratégie marketing inbound, et optimisation des pages de destination."
 # career logo
 image : "images/career/damedroles-logo.png"
 # capture accueil
