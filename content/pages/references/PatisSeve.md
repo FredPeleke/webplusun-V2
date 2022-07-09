@@ -23,6 +23,7 @@ apply_link : "https://patisseve.fr/"
 
 
 ## Cakes Design, Letter cakes, Wedding cakes
+
 Pâtis'Sève crée des gâteaux personnalisés pour vos événements (anniversaire, mariage, bâptème, baby shower,…) dans son atelier à Tarnos. Des pâtisseries fraîches fabriquées avec des matières première de qualité et de saisons.
 
 Séverine Touzet a créé son entreprise  en fin d'année 2021. Elle m'a contacté pour développer son identité graphique et sa communication globale. La première demande était un logo représentatif, pour découler sur des cartes de visites, et enfin un site internet.
