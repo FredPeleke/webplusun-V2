@@ -2,7 +2,7 @@
 title: "Anapia Voyages"
 date: 2019-12-10T09:51:57+06:00
 # watermark text
-watermark: "Anapia"
+watermark: "Voyages"
 # page header background image
 bg_image: ""
 # meta description
@@ -16,7 +16,7 @@ location : "Ascain (64)"
 # job type
 job_type : "Optimisation"
 # section
-job_category : "Voyages"
+job_category : "Vitrine"
 # job apply link
 apply_link : "https://anapiavoyages.fr"
 ---
