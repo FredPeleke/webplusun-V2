@@ -7,6 +7,42 @@
       <priority>1.0</priority>
    </url>
    <url>
+      <loc>https://webplusun.fr/webplusun/</loc>
+      <lastmod>2022-07-05</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+   </url>
+   <url>
+      <loc>https://webplusun.fr/service/</loc>
+      <lastmod>2022-07-05</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://webplusun.fr/tarifs/</loc>
+      <lastmod>2022-07-05</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://webplusun.fr/references/</loc>
+      <lastmod>2022-07-05</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://webplusun.fr/contact/</loc>
+      <lastmod>2022-07-05</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.800000011920929</priority>
+   </url>
+   <url>
+      <loc>https://webplusun.fr/blog/</loc>
+      <lastmod>2022-07-05</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
       <loc>https://webplusun.fr/blog/marketing-viral-une-solution-internet/</loc>
       <lastmod>2022-07-05</lastmod>
       <changefreq>weekly</changefreq>
@@ -31,50 +67,81 @@
       <priority>0.5</priority>
    </url>
    <url>
-      <loc>https://webplusun.fr/mentions-legales/</loc>
-      <lastmod>2022-07-05</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://webplusun.fr/service/</loc>
-      <lastmod>2022-07-05</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://webplusun.fr/tarifs/</loc>
-      <lastmod>2022-07-05</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://webplusun.fr/references/</loc>
-      <lastmod>2022-07-05</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://webplusun.fr/webplusun/</loc>
-      <lastmod>2022-07-05</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>https://webplusun.fr/blog/</loc>
-      <lastmod>2022-07-05</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
       <loc>https://webplusun.fr/blog/sobriete-numerique/</loc>
       <lastmod>2022-07-05</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
    </url>
    <url>
-      <loc>https://webplusun.fr/contact/</loc>
+      <loc>https://webplusun.fr/blog/quel-format-d-images-choisir-pour-mon-site-web/</loc>
       <lastmod>2022-07-05</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.800000011920929</priority>
+   </url>
+   <url>
+      <loc>https://webplusun.fr/blog/accessibilite-numérique/</loc>
+      <lastmod>2022-07-05</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://webplusun.fr/blog/des-gestes-simples/</loc>
+      <lastmod>2022-07-05</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.800000011920929</priority>
+   </url>
+   <url>
+      <loc>https://webplusun.fr/blog/qu-est-ce-que-l-optimisation-seo/</loc>
+      <lastmod>2022-07-05</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://webplusun.fr/blog/performance-globale/</loc>
+      <lastmod>2022-07-05</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://webplusun.fr/mentions-legales/</loc>
+      <lastmod>2022-07-05</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+
+   <url>
+      <loc>https://webplusun.fr/references/letubeaessai/</loc>
+      <lastmod>2022-07-09</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://webplusun.fr/references/damesedroles-espadrilles/</loc>
+      <lastmod>2022-07-09</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://webplusun.fr/references/patisseve/</loc>
+      <lastmod>2022-07-09</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://webplusun.fr/references/habitat-eco-action/</loc>
+      <lastmod>2022-07-09</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://webplusun.fr/references/lesbascos/</loc>
+      <lastmod>2022-07-09</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://webplusun.fr/references/restaurant-eole/</loc>
+      <lastmod>2022-07-09</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
    </url>
@@ -121,12 +188,6 @@
       <priority>0.5</priority>
    </url>
    <url>
-      <loc>https://webplusun.fr/blog/quel-format-d-images-choisir-pour-mon-site-web/</loc>
-      <lastmod>2022-07-05</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.800000011920929</priority>
-   </url>
-   <url>
       <loc>https://webplusun.fr/references/a-lundi/</loc>
       <lastmod>2022-07-05</lastmod>
       <changefreq>weekly</changefreq>
@@ -140,72 +201,6 @@
    </url>
    <url>
       <loc>https://webplusun.fr/references/jardins-de-bakea/</loc>
-      <lastmod>2022-07-05</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://webplusun.fr/blog/accessibilite-numérique/</loc>
-      <lastmod>2022-07-05</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://webplusun.fr/tags/éco-gestes/</loc>
-      <lastmod>2022-07-05</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://webplusun.fr/categories/marketing/</loc>
-      <lastmod>2022-07-05</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://webplusun.fr/blog/des-gestes-simples/</loc>
-      <lastmod>2022-07-05</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.800000011920929</priority>
-   </url>
-   <url>
-      <loc>https://webplusun.fr/categories/éco/</loc>
-      <lastmod>2022-07-05</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://webplusun.fr/tags/rédaction/</loc>
-      <lastmod>2022-07-05</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://webplusun.fr/tags/stratégie/</loc>
-      <lastmod>2022-07-05</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://webplusun.fr/tags/images/</loc>
-      <lastmod>2022-07-05</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://webplusun.fr/tags/sxo/</loc>
-      <lastmod>2022-07-05</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://webplusun.fr/tags/rsi/</loc>
-      <lastmod>2022-07-05</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://webplusun.fr/categories/optimisation/</loc>
       <lastmod>2022-07-05</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
@@ -259,21 +254,63 @@
       <priority>0.5</priority>
    </url>
    <url>
+      <loc>https://webplusun.fr/categories/marketing/</loc>
+      <lastmod>2022-07-05</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://webplusun.fr/categories/optimisation/</loc>
+      <lastmod>2022-07-05</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
       <loc>https://webplusun.fr/categories/optimisation/page/2/</loc>
       <lastmod>2022-07-05</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
    </url>
    <url>
-      <loc>https://webplusun.fr/blog/qu-est-ce-que-l-optimisation-seo/</loc>
+      <loc>https://webplusun.fr/categories/éco/</loc>
       <lastmod>2022-07-05</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
    </url>
    <url>
-      <loc>https://webplusun.fr/blog/performance-globale/</loc>
+      <loc>https://webplusun.fr/tags/éco-gestes/</loc>
       <lastmod>2022-07-05</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
    </url>
-</urlset>
+   <url>
+      <loc>https://webplusun.fr/tags/rédaction/</loc>
+      <lastmod>2022-07-05</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://webplusun.fr/tags/stratégie/</loc>
+      <lastmod>2022-07-05</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://webplusun.fr/tags/images/</loc>
+      <lastmod>2022-07-05</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://webplusun.fr/tags/sxo/</loc>
+      <lastmod>2022-07-05</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://webplusun.fr/tags/rsi/</loc>
+      <lastmod>2022-07-05</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+</urlse
