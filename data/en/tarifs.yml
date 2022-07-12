@@ -49,7 +49,7 @@ pricing:
     - title : "Éco"
       price : "1950€ ht"
       unit : "à partir de"
-      description : "Vous voulez ouvrir un site"
+      description : "Un site éco-responsable"
       link : "./service#services_reflexion"
       services:
         - "Jamstack"
@@ -76,7 +76,7 @@ pricing:
     - title : "Accompagnement"
       price : "480€ ht"
       unit : "à partir de"
-      description : "Vous voulez un suivi de projet"
+      description : "Suivi de projet et conseils"
       link : "./service"
       services:
         - "intégration de contenus"
@@ -93,10 +93,9 @@ pricing:
       services:
         - "combinaison"
         - "maintenance de sécurité"
+        - "et"
         - "accompagnement de projet"
-        - "+"
-        - "1 MOIS OFFERT"
-        - " "
+        - ">> 1 MOIS OFFERT <<"
 
     # combos
     - title : "Présence"
@@ -106,10 +105,9 @@ pricing:
       link : "./contact"
       services:
         - "prestation Manager"
-        - "+ prestation Maintenance"
         - "+"
-        - "1 MOIS OFFERT"
-        - " "
+        - "prestation Maintenance"
+        - ">> 1 MOIS OFFERT <<"
         
     - title : "Objectif"
       price : "1980€ ht"
@@ -118,10 +116,9 @@ pricing:
       link : "./contact"
       services:
         - "prestation Manager"
-        - "+ prestation Accompagnement"
         - "+"
-        - "1 MOIS OFFERT"
-        - " "
+        - "prestation Accompagnement"
+        - ">> 1 MOIS OFFERT <<"
         
     - title : "Premium"
       price : "2700€ ht"
@@ -130,8 +127,7 @@ pricing:
       link : "./contact"
       services:
         - "prestation Manager"
-        - "+ prestation Duo"
         - "+"
-        - "2 MOIS OFFERTS"
-        - " "
+        - "prestation Duo"
+        - ">> 2 MOIS OFFERTS <<"
         
