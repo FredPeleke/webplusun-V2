@@ -5,7 +5,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12 mb-4 mb-md-0 text-center">
-        <i class="fa fa-pagelines icon-lg icon-green"></i>
+        <i class="fa fa-pagelines icon-lg icon-green" aria-hidden="true"></i>
         <span class="text-dark font-weight-normal">Par exemple, la présentation des clients octroie plusieurs interactions destinées aux visiteurs et à la qualité d'indexation.</span>
       </div>
     </div>
@@ -22,7 +22,12 @@
         </div>
         <div>
           {{ with .Params.Capture }}
-          <img src="{{ . | absURL }}" class="img-fluid pt-2 pb-3" alt="capture de la page d'accueil">
+          <picture>
+            <source srcset="{{ .image1 | absURL }}" type="image/webp">
+            <source srcset="{{ .image2 | absURL }}" type="image/jpg">
+            <img src="{{ .image2 | absURL}}" class="img-fluid pt-2 pb-3" alt="capture de la page d'accueil"  loading="lazy" decoding="async">
+            <!--img src="{{ . | absURL }}" class="img-fluid pt-2 pb-3" alt="capture de la page d'accueil"-->
+          </picture>
           {{ end }}
         </div>
         <a href="{{.Params.Apply_link | safeURL }}" class="btn btn-outline-primary" rel="noopener" target="_blank">{{.Params.Apply_link | safeURL }}</a>
