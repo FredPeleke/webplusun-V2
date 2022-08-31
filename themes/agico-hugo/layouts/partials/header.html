@@ -42,9 +42,6 @@
         {{ "<!-- bouton contact -->" | safeHTML }}
           <a href="{{ .Site.Params.navigation_button.link | absURL }}" class="btn btn-outline-primary text-white ml-3">{{ .Site.Params.navigation_button.label }}</a>
         {{ end }}
-        {{ range .Site.Params.social }}
-          <span class="list-inline-item"><a href="{{ .URL | safeURL }}" aria-label="Suivez WebPlusUn sur LinkedIn (ouvrir dans un nouvel onglet)" rel="noopener nofollow" target="_blank"><i class="fa {{ .icon }}"></i></a></span>
-        {{ end }}
       </div>
     </nav>
   </div>
