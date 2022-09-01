@@ -41,4 +41,3 @@ Pour les 5 ans de sa structure, Le Tube À ESS'ai désirait revoir sa stratégie
 * création de QRCodes menant vers les podcasts ;
 * mise en place des outils de suivi (Analytics, Search Console, +) ;
 * optimisation d'une page Google Business ;
-* contrat de maintenance incluant l'insertion des contenus.
