@@ -22,12 +22,12 @@
         </div>
         <div>
           {{ with .Params.Capture }}
-          <picture>
+          <!--picture>
             <source srcset="{{ .image1 | absURL }}" type="image/webp">
             <source srcset="{{ .image2 | absURL }}" type="image/jpg">
             <img src="{{ .image2 | absURL}}" class="img-fluid pt-2 pb-3" alt="capture de la page d'accueil"  loading="lazy" decoding="async">
-            <!--img src="{{ . | absURL }}" class="img-fluid pt-2 pb-3" alt="capture de la page d'accueil"-->
-          </picture>
+          </picture-->
+            <img src="{{ . | absURL }}" class="img-fluid pt-2 pb-3" alt="capture de la page d'accueil">          
           {{ end }}
         </div>
         <a href="{{.Params.Apply_link | safeURL }}" class="btn btn-outline-primary" rel="noopener" target="_blank">{{.Params.Apply_link | safeURL }}</a>
