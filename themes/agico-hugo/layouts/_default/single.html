@@ -19,9 +19,18 @@
       <div class="col-lg-8 rounded-sm pr-5" itemscope itemtype = "http://schema.org/Article">
         <!--img src="{{ .Params.Image | absURL }}" class="rounded-sm img-fluid w-100 mb-5" alt="Webplusun : image d'illustration"-->
         <h2 class="section-title" data-aos="fade-up" data-aos-delay="200" itemprop = "name">{{ .Params.Title2 }}</h2>
-        <p class="text-color card-date position-relative d-inline-block">par <span
-            class="text-dark font-weight-bold" itemprop="author">{{ .Params.Author }}</span> le <span
-            class="text-dark font-weight-bold" itemprop="datePublished" content="{{ .Params.Date }}">{{ .PublishDate.Format "02 Jan 2006" }}</span></p>
+        <p class="text-color card-date position-relative d-inline-block" style="font-size: small;">par <span
+            class="text-dark font-weight-bold" itemprop="author">{{ .Params.Author }}</span>
+            {{ $date := .Date.Format "02 Jan 2006" }}
+            {{ $lastmod := .Lastmod.Format "02 Jan 2006" }} publié le <span
+            class="text-dark font-weight-bold" itemprop="datePublished" content="{{ .Params.Date }}">{{ $date }}</span>
+            {{ if and (ne $lastmod $date) (gt .Lastmod .Date) }}
+            MàJ le <span
+            class="text-dark font-weight-bold" itemprop="dateModified" content="{{ .Params.Lastmod }}">{{ $lastmod }}</span>
+            {{ end }}
+            Lecture : 
+            <span
+            class="text-dark font-weight-bold" content="{{ .Params.Lecture }}">{{ .Params.Lecture }}</span></p>
         <div class="content">
           {{ .Content }}
         </div>
